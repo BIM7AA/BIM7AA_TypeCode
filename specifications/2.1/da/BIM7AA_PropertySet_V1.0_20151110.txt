@@ -1,0 +1,20 @@
+﻿#
+# BIM7AA PropertySet Definition File
+#
+# Format:
+#    PropertySet:	<Pset Name>	I[nstance]/T[ype]	<element list separated by ','>
+#	<Property Name 1>	<Data type>	<[opt] Revit parameter name, if different from IFC>
+#	<Property Name 2>	<Data type>	<[opt] Revit parameter name, if different from IFC>
+#	...
+#
+#	Vigtigt. Denne fil er kun et udgangspunkt. Tilret parameterreferencer efter firma/projektstandarder. Brug sker på eget ansvar.
+#	Important. This file is only a starting point. Adjust parameter references according to firm/project standards. Usage on own responsebility.
+# 
+
+PropertySet:	BIM7AA	T	IfcRoot
+	BIM7AATypeName	Identifier	TypeName
+	BIM7AATypeID	Identifier	
+	BIM7AATypeCode	Identifier	
+	BIM7AATypeDescription	Identifier	
+	BIM7AATypeNumber	Identifier	
+	BIM7AATypeComments	Identifier	
