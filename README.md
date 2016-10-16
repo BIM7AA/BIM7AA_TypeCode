@@ -22,7 +22,7 @@ One of the purposes of BIM7AA Type Code is to meet 80-90 percent of the needs fo
 project. The remaining 10-20% is developmed to be company-specific and/or project specific.
 BIM7AA compiles experiences from running projects to update the Type Code.
 
-### 7 ADDITIONAL FACTS ABOUT THE BIM7AA TYPE CODE: ###
+### 7 Additional facts about the BIM7AA Type Code:: ###
 1. Complies with the Executive Order of CT Order 118 and 119 § 4 on requirements for structuring digital
 building objects
 2. Complies with the requirements for management of building models and objects cf. CF Order 118 and 119
