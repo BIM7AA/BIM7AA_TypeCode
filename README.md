@@ -32,7 +32,7 @@ building objects
 6. Does not require supplementary software
 7. Free of charge
 
-### Read more abot BIM7aa ###
+### Read more abot BIM7AA ###
 To read more about BIM7AA check out [BIM7AA-web]
 ## Contribute ##
 BIM7AA wants to share the results of this collaboration and has therefore chosen to make the BIM7AA Type
