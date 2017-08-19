@@ -10,11 +10,11 @@
 ### What is BIM7AA Type Code? ###
 BIM7AA Type Code is a simple encoding method for BIM components based on the consultant’s design
 requirements, experiences, Danish way of building and best practice for all size BIM projects.
-The structure in BIM7AA Type Code is a modernised version of the familiar and thoroughly tested SfB system,
+The structure in BIM7AA Type Code is a modernized version of the familiar and thoroughly tested SfB system,
 modified to suit today’s requirements for managing a BIM project.
 This method structures and generates cohesion between the BIM components, tender list, specification and
 quantity take-offs (QTO) here by defining the interface between the consultants professions. In doing so, a
-simple standardisation of the consultant´s internal methods of production is obtained, making it adaptable to
+simple standardization of the consultant´s internal methods of production is obtained, making it adaptable to
 the specific project in terms of classifications, properties and other relevant parameters to each project.
 BIM7AA Type Code is not developed with the intention of being a classification system – but its structure
 makes it easy to use for classification purposes.
