@@ -23,7 +23,7 @@
 			<IFC4_Entity/>
 		</Item>
 		<Item>
-			<Identification>1</Identification>
+			<Identification>01</Identification>
 			<Name_dk>Generiske objekter ARK</Name_dk>
 			<Name_de>Generische Objekte, Architekt</Name_de>
 			<Name_en>Generic objects ARC</Name_en>
@@ -35,7 +35,7 @@
 			<IFC4_Entity/>
 		</Item>
 		<Item>
-			<Identification>11</Identification>
+			<Identification>011</Identification>
 			<Name_dk>FRI</Name_dk>
 			<Name_de>FREI</Name_de>
 			<Name_en>AVAILABLE</Name_en>
@@ -48,7 +48,7 @@
 			<IFC4_Entity/>
 		</Item>
 		<Item>
-			<Identification>2</Identification>
+			<Identification>02</Identification>
 			<Name_dk>Generiske objekter KON</Name_dk>
 			<Name_de>Generische Objekte, Statik</Name_de>
 			<Name_en>Generic objects STR</Name_en>
@@ -60,7 +60,7 @@
 			<IFC4_Entity/>
 		</Item>
 		<Item>
-			<Identification>21</Identification>
+			<Identification>021</Identification>
 			<Name_dk>FRI</Name_dk>
 			<Name_de>FREI</Name_de>
 			<Name_en>AVAILABLE</Name_en>
@@ -73,7 +73,7 @@
 			<IFC4_Entity/>
 		</Item>
 		<Item>
-			<Identification>3</Identification>
+			<Identification>03</Identification>
 			<Name_dk>Generiske objekter VENT</Name_dk>
 			<Name_de>Generische Objekte, Lüftung</Name_de>
 			<Name_en>Generic objects MECH</Name_en>
@@ -85,7 +85,7 @@
 			<IFC4_Entity/>
 		</Item>
 		<Item>
-			<Identification>31</Identification>
+			<Identification>031</Identification>
 			<Name_dk>FRI</Name_dk>
 			<Name_de>FREI</Name_de>
 			<Name_en>AVAILABLE</Name_en>
@@ -98,7 +98,7 @@
 			<IFC4_Entity/>
 		</Item>
 		<Item>
-			<Identification>4</Identification>
+			<Identification>04</Identification>
 			<Name_dk>Generiske objekter VVS</Name_dk>
 			<Name_de>Generische Objekte, Wasser, Wärme, Sanitär</Name_de>
 			<Name_en>Generic objects PLUM</Name_en>
@@ -110,7 +110,7 @@
 			<IFC4_Entity/>
 		</Item>
 		<Item>
-			<Identification>41</Identification>
+			<Identification>041</Identification>
 			<Name_dk>FRI</Name_dk>
 			<Name_de>FREI</Name_de>
 			<Name_en>AVAILABLE</Name_en>
@@ -123,7 +123,7 @@
 			<IFC4_Entity/>
 		</Item>
 		<Item>
-			<Identification>5</Identification>
+			<Identification>05</Identification>
 			<Name_dk>Generiske objekter EL</Name_dk>
 			<Name_de>Generische Objekte, Elektro</Name_de>
 			<Name_en>Generic objects ELEC</Name_en>
@@ -135,7 +135,7 @@
 			<IFC4_Entity/>
 		</Item>
 		<Item>
-			<Identification>51</Identification>
+			<Identification>051</Identification>
 			<Name_dk>FRI</Name_dk>
 			<Name_de>FREI</Name_de>
 			<Name_en>AVAILABLE</Name_en>
@@ -148,7 +148,7 @@
 			<IFC4_Entity/>
 		</Item>
 		<Item>
-			<Identification>6</Identification>
+			<Identification>06</Identification>
 			<Name_dk>Generiske objekter LAND</Name_dk>
 			<Name_de>Generische Objekte, Landschaft</Name_de>
 			<Name_en>Generic objects LAND</Name_en>
@@ -160,7 +160,7 @@
 			<IFC4_Entity/>
 		</Item>
 		<Item>
-			<Identification>61</Identification>
+			<Identification>061</Identification>
 			<Name_dk>FRI</Name_dk>
 			<Name_de>FREI</Name_de>
 			<Name_en>AVAILABLE</Name_en>
@@ -173,7 +173,7 @@
 			<IFC4_Entity/>
 		</Item>
 		<Item>
-			<Identification>7</Identification>
+			<Identification>07</Identification>
 			<Name_dk>Generiske objekter Entreprenør Leverandør</Name_dk>
 			<Name_de>Generische Objekte, Bauunternehmen/Lieferant</Name_de>
 			<Name_en>Generic objects CON / SUP</Name_en>
@@ -185,7 +185,7 @@
 			<IFC4_Entity/>
 		</Item>
 		<Item>
-			<Identification>71</Identification>
+			<Identification>071</Identification>
 			<Name_dk>FRI</Name_dk>
 			<Name_de>FREI</Name_de>
 			<Name_en>AVAILABLE</Name_en>
