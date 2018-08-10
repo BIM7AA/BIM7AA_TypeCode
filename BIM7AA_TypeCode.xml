@@ -6587,7 +6587,7 @@
 			<Name_en>Installations for appliances and machines</Name_en>
 			<BC-SfB_1980>(62)</BC-SfB_1980>
 			<CCS_R1>[L]JK</CCS_R1>
-			<Forvaltningklassifikation_V2.3>bt.elf.sam</Forvaltningklassifikation_V2.3>
+			<Forvaltningklassifikation_V2.3>bt.bly.sam</Forvaltningklassifikation_V2.3>
 			<IFC2X3_Entity/>
 			<IFC4_Entity/>
 		</Item>
@@ -7741,7 +7741,7 @@
 			<Name_en>Central Status Controls</Name_en>
 			<BC-SfB_1980>(6.)</BC-SfB_1980>
 			<CCS_R1>[L]LC</CCS_R1>
-			<Forvaltningklassifikation_V2.3>bt.elf.sam</Forvaltningklassifikation_V2.3>
+			<Forvaltningklassifikation_V2.3>bt.aut.sam</Forvaltningklassifikation_V2.3>
 			<IFC2X3_Entity/>
 			<IFC4_Entity/>
 		</Item>
