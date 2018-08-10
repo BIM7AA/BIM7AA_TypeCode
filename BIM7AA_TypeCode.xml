@@ -1,0 +1,2648 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<System xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<Source>bim7aa</Source>
+	<Edition>2.0</Edition>
+	<EditionDate>2014-10-28</EditionDate>
+	<Name>BIM7AA Typecode</Name>
+	<Description_dk>Typekode til digitale byggeobjekter</Description_dk>
+	<Location>www.bim7aa.dk</Location>
+	<Items>
+		<Item>
+			<Identification>0</Identification>
+			<Name_dk>Generiske bygningsdele</Name_dk>
+		</Item>
+		<Item>
+			<Identification>00</Identification>
+			<Name_dk>Generiske objekter</Name_dk>
+		</Item>
+		<Item>
+			<Identification>001</Identification>
+			<Name_dk>Generisk objekt ARK</Name_dk>
+		</Item>
+		<Item>
+			<Identification>002</Identification>
+			<Name_dk>Generisk objekt KON</Name_dk>
+		</Item>
+		<Item>
+			<Identification>003</Identification>
+			<Name_dk>Generisk objekt VENT</Name_dk>
+		</Item>
+		<Item>
+			<Identification>004</Identification>
+			<Name_dk>Generisk objekt VVS</Name_dk>
+		</Item>
+		<Item>
+			<Identification>005</Identification>
+			<Name_dk>Generisk objekt EL</Name_dk>
+		</Item>
+		<Item>
+			<Identification>006</Identification>
+			<Name_dk>Generisk objekt LAND</Name_dk>
+		</Item>
+		<Item>
+			<Identification>01</Identification>
+			<Name_dk>Generiske bygningsdele</Name_dk>
+		</Item>
+		<Item>
+			<Identification>011</Identification>
+			<Name_dk>Generiske vægge og fundamenter</Name_dk>
+		</Item>
+		<Item>
+			<Identification>012</Identification>
+			<Name_dk>Generiske gulv eller dæk</Name_dk>
+		</Item>
+		<Item>
+			<Identification>013</Identification>
+			<Name_dk>Generiske tage</Name_dk>
+		</Item>
+		<Item>
+			<Identification>014</Identification>
+			<Name_dk>Generiske åbninger</Name_dk>
+		</Item>
+		<Item>
+			<Identification>015</Identification>
+			<Name_dk>Generiske søjler og bjælker</Name_dk>
+		</Item>
+		<Item>
+			<Identification>016</Identification>
+			<Name_dk>Generiske lofter</Name_dk>
+		</Item>
+		<Item>
+			<Identification>017</Identification>
+			<Name_dk>Generiske trappe-og rampeelementer</Name_dk>
+		</Item>
+		<Item>
+			<Identification>018</Identification>
+			<Name_dk>Generiske værn og håndlister</Name_dk>
+		</Item>
+		<Item>
+			<Identification>019</Identification>
+			<Name_dk>Generiske vinduesfacadesystemer</Name_dk>
+		</Item>
+		<Item>
+			<Identification>02</Identification>
+			<Name_dk>Eksisterende bygningsdele</Name_dk>
+		</Item>
+		<Item>
+			<Identification>021</Identification>
+			<Name_dk>Eksisterende vægge og fundamenter</Name_dk>
+		</Item>
+		<Item>
+			<Identification>022</Identification>
+			<Name_dk>Eksisterende gulv eller dæk</Name_dk>
+		</Item>
+		<Item>
+			<Identification>023</Identification>
+			<Name_dk>Eksisterende tage</Name_dk>
+		</Item>
+		<Item>
+			<Identification>024</Identification>
+			<Name_dk>Eksisterende åbninger</Name_dk>
+		</Item>
+		<Item>
+			<Identification>025</Identification>
+			<Name_dk>Eksisterende søjler og bjælker</Name_dk>
+		</Item>
+		<Item>
+			<Identification>026</Identification>
+			<Name_dk>Eksisterende lofter</Name_dk>
+		</Item>
+		<Item>
+			<Identification>027</Identification>
+			<Name_dk>Eksisterende trappe-og rampeelementer</Name_dk>
+		</Item>
+		<Item>
+			<Identification>028</Identification>
+			<Name_dk>Eksisterende værn og håndlister</Name_dk>
+		</Item>
+		<Item>
+			<Identification>029</Identification>
+			<Name_dk>Eksisterende vinduesfacadesystemer</Name_dk>
+		</Item>
+		<Item>
+			<Identification>1</Identification>
+			<Name_dk>Bygningsbasis</Name_dk>
+		</Item>
+		<Item>
+			<Identification>10</Identification>
+			<Name_dk>Bygningsbasis, terræn</Name_dk>
+		</Item>
+		<Item>
+			<Identification>101</Identification>
+			<Name_dk>Forberedt grund</Name_dk>
+		</Item>
+		<Item>
+			<Identification>102</Identification>
+			<Name_dk>Byggegrube inkl. afstivning</Name_dk>
+		</Item>
+		<Item>
+			<Identification>103</Identification>
+			<Name_dk>Spunsvægge</Name_dk>
+		</Item>
+		<Item>
+			<Identification>12</Identification>
+			<Name_dk>Fundamenter</Name_dk>
+		</Item>
+		<Item>
+			<Identification>121</Identification>
+			<Name_dk>Liniefundamenter</Name_dk>
+		</Item>
+		<Item>
+			<Identification>122</Identification>
+			<Name_dk>Punktfundamenter</Name_dk>
+		</Item>
+		<Item>
+			<Identification>123</Identification>
+			<Name_dk>Pladefundamenter</Name_dk>
+		</Item>
+		<Item>
+			<Identification>124</Identification>
+			<Name_dk>Opmurede fundamenter</Name_dk>
+			<Description_dk>Fundablokke, Kampesten, Lecatermblokke</Description_dk>
+		</Item>
+		<Item>
+			<Identification>125</Identification>
+			<Name_dk>Maskin fundamenter</Name_dk>
+			<Description_dk>Skal betragtes som en helt anden funktion ift. andre fundamenter, vibrationer osv.</Description_dk>
+		</Item>
+		<Item>
+			<Identification>126</Identification>
+			<Name_dk>Pælefundamenter og brøndfundamenter</Name_dk>
+		</Item>
+		<Item>
+			<Identification>127</Identification>
+			<Name_dk>Fundamenter i terræn</Name_dk>
+		</Item>
+		<Item>
+			<Identification>13</Identification>
+			<Name_dk>Terrændæk, bygning</Name_dk>
+		</Item>
+		<Item>
+			<Identification>131</Identification>
+			<Name_dk>Terrændæk</Name_dk>
+		</Item>
+		<Item>
+			<Identification>18</Identification>
+			<Name_dk>Bygningsbasis bygning, øvrige</Name_dk>
+		</Item>
+		<Item>
+			<Identification>181</Identification>
+			<Name_dk>Kanaler under terrændæk</Name_dk>
+		</Item>
+		<Item>
+			<Identification>182</Identification>
+			<Name_dk>Gruber og sumpe</Name_dk>
+		</Item>
+		<Item>
+			<Identification>2</Identification>
+			<Name_dk>Primære bygningsdele</Name_dk>
+		</Item>
+		<Item>
+			<Identification>20</Identification>
+			<Name_dk>Primære bygningsdele, terræn</Name_dk>
+		</Item>
+		<Item>
+			<Identification>201</Identification>
+			<Name_dk>Hegnsmure</Name_dk>
+		</Item>
+		<Item>
+			<Identification>202</Identification>
+			<Name_dk>Støttemure</Name_dk>
+		</Item>
+		<Item>
+			<Identification>203</Identification>
+			<Name_dk>Teknikgange i terræn inkl. rørbroer og tunneler</Name_dk>
+		</Item>
+		<Item>
+			<Identification>204</Identification>
+			<Name_dk>Fodgængerbroer, viadukter m.m.</Name_dk>
+		</Item>
+		<Item>
+			<Identification>205</Identification>
+			<Name_dk>Trapper og ramper i terræn</Name_dk>
+		</Item>
+		<Item>
+			<Identification>21</Identification>
+			<Name_dk>Ydervægge, primære bygningsdele</Name_dk>
+		</Item>
+		<Item>
+			<Identification>211</Identification>
+			<Name_dk>Udvendige vægelementer</Name_dk>
+		</Item>
+		<Item>
+			<Identification>212</Identification>
+			<Name_dk>Udvendige pladsstøbte vægge</Name_dk>
+		</Item>
+		<Item>
+			<Identification>213</Identification>
+			<Name_dk>Udvendige opmurede vægge</Name_dk>
+		</Item>
+		<Item>
+			<Identification>214</Identification>
+			<Name_dk>Udvendige skeletkonstruerede vægge</Name_dk>
+			<Description_dk>Inkl. Evt. interrimslukning</Description_dk>
+		</Item>
+		<Item>
+			<Identification>215</Identification>
+			<Name_dk>Udvendige skeletkonstruerede vægskørter</Name_dk>
+		</Item>
+		<Item>
+			<Identification>216</Identification>
+			<Name_dk>Udvendige vinduesfacadesystemer</Name_dk>
+		</Item>
+		<Item>
+			<Identification>217</Identification>
+			<Name_dk>Udvendige isoleringsvægsystemer</Name_dk>
+		</Item>
+		<Item>
+			<Identification>218</Identification>
+			<Name_dk>Udvendige lyskasser</Name_dk>
+		</Item>
+		<Item>
+			<Identification>22</Identification>
+			<Name_dk>Indervægge, primære bygningsdele</Name_dk>
+		</Item>
+		<Item>
+			<Identification>221</Identification>
+			<Name_dk>Indvendige vægelementer</Name_dk>
+		</Item>
+		<Item>
+			<Identification>222</Identification>
+			<Name_dk>Indvendige pladsstøbte vægge</Name_dk>
+		</Item>
+		<Item>
+			<Identification>223</Identification>
+			<Name_dk>Indvendige opmurede vægge</Name_dk>
+		</Item>
+		<Item>
+			<Identification>224</Identification>
+			<Name_dk>Indvendige skeletkonstruerede vægge</Name_dk>
+			<Description_dk>Inkl. Evt. interrimslukning</Description_dk>
+		</Item>
+		<Item>
+			<Identification>225</Identification>
+			<Name_dk>Indvendige skeletkonstruerede vægskørter</Name_dk>
+		</Item>
+		<Item>
+			<Identification>226</Identification>
+			<Name_dk>Indvendige  glassystemvægge</Name_dk>
+		</Item>
+		<Item>
+			<Identification>23</Identification>
+			<Name_dk>Dæk, primære bygningsdele</Name_dk>
+		</Item>
+		<Item>
+			<Identification>231</Identification>
+			<Name_dk>Dækelementer</Name_dk>
+		</Item>
+		<Item>
+			<Identification>232</Identification>
+			<Name_dk>Pladsstøbte dæk</Name_dk>
+		</Item>
+		<Item>
+			<Identification>233</Identification>
+			<Name_dk>Skeletkonstruerede dæk</Name_dk>
+			<Description_dk>Inkl. Evt. interrimslukning</Description_dk>
+		</Item>
+		<Item>
+			<Identification>234</Identification>
+			<Name_dk>Afretningslag</Name_dk>
+			<Description_dk>Afretningslag oven på råbeton, fx anhydrit eller traditionelt mørtel. Ved lokal faldopbygning vedrører dette 334.</Description_dk>
+		</Item>
+		<Item>
+			<Identification>239</Identification>
+			<Name_dk>Øvrige dæk</Name_dk>
+			<Description_dk>Ristedæk, komposit…</Description_dk>
+		</Item>
+		<Item>
+			<Identification>24</Identification>
+			<Name_dk>Trapper og ramper, primære bygningsdele</Name_dk>
+		</Item>
+		<Item>
+			<Identification>241</Identification>
+			<Name_dk>Element trapper</Name_dk>
+		</Item>
+		<Item>
+			<Identification>242</Identification>
+			<Name_dk>Pladsstøbte trapper</Name_dk>
+		</Item>
+		<Item>
+			<Identification>243</Identification>
+			<Name_dk>Sammensatte trapper</Name_dk>
+			<Description_dk>Sammensatte ståltrapper, trætrapper mv.</Description_dk>
+		</Item>
+		<Item>
+			<Identification>244</Identification>
+			<Name_dk>Element ramper</Name_dk>
+		</Item>
+		<Item>
+			<Identification>245</Identification>
+			<Name_dk>Pladsstøbte ramper</Name_dk>
+		</Item>
+		<Item>
+			<Identification>246</Identification>
+			<Name_dk>Sammensatte ramper</Name_dk>
+		</Item>
+		<Item>
+			<Identification>247</Identification>
+			<Name_dk>Faste stiger, lejdere og trin</Name_dk>
+		</Item>
+		<Item>
+			<Identification>25</Identification>
+			<Name_dk>Bærende bjælker og søjler</Name_dk>
+		</Item>
+		<Item>
+			<Identification>251</Identification>
+			<Name_dk>Elementbjælker</Name_dk>
+			<Description_dk>Beton</Description_dk>
+		</Item>
+		<Item>
+			<Identification>252</Identification>
+			<Name_dk>Pladsstøbte bjælker</Name_dk>
+		</Item>
+		<Item>
+			<Identification>253</Identification>
+			<Name_dk>Stålbjælker</Name_dk>
+		</Item>
+		<Item>
+			<Identification>254</Identification>
+			<Name_dk>Øvrige bjælker</Name_dk>
+			<Description_dk>Fx træbjælker, og tegl overliggere</Description_dk>
+		</Item>
+		<Item>
+			<Identification>255</Identification>
+			<Name_dk>Elementsøjler</Name_dk>
+		</Item>
+		<Item>
+			<Identification>256</Identification>
+			<Name_dk>Pladsstøbte søjler</Name_dk>
+		</Item>
+		<Item>
+			<Identification>257</Identification>
+			<Name_dk>Stålsøjler</Name_dk>
+		</Item>
+		<Item>
+			<Identification>259</Identification>
+			<Name_dk>Øvrige søjler</Name_dk>
+			<Description_dk>Fx træsøjler og tegl overliggere</Description_dk>
+		</Item>
+		<Item>
+			<Identification>26</Identification>
+			<Name_dk>Altaner og altangange, primære bygningsdele</Name_dk>
+		</Item>
+		<Item>
+			<Identification>261</Identification>
+			<Name_dk>Element altaner og altangange</Name_dk>
+		</Item>
+		<Item>
+			<Identification>262</Identification>
+			<Name_dk>Pladsstøbte altaner og altangange</Name_dk>
+		</Item>
+		<Item>
+			<Identification>263</Identification>
+			<Name_dk>Sammmensatte altaner og altangange</Name_dk>
+			<Description_dk>Inkl. stålaltaner</Description_dk>
+		</Item>
+		<Item>
+			<Identification>27</Identification>
+			<Name_dk>Tage, primære bygningsdele</Name_dk>
+		</Item>
+		<Item>
+			<Identification>271</Identification>
+			<Name_dk>Spærstage</Name_dk>
+			<Description_dk>Fx pladskonstruerede tage, bjælkelagsspær</Description_dk>
+		</Item>
+		<Item>
+			<Identification>272</Identification>
+			<Name_dk>Tagkassetter</Name_dk>
+		</Item>
+		<Item>
+			<Identification>273</Identification>
+			<Name_dk>Varme tage</Name_dk>
+			<Description_dk>Skal betragtes som den afsluttende tagisolering + membran oven på en bærende dæk/bygningsdel.</Description_dk>
+		</Item>
+		<Item>
+			<Identification>274</Identification>
+			<Name_dk>Vinduessystemtag</Name_dk>
+		</Item>
+		<Item>
+			<Identification>275</Identification>
+			<Name_dk>Flytbare tage</Name_dk>
+		</Item>
+		<Item>
+			<Identification>276</Identification>
+			<Name_dk>Baldakiner og overdækninger</Name_dk>
+		</Item>
+		<Item>
+			<Identification>279</Identification>
+			<Name_dk>Øvrige tagværker</Name_dk>
+			<Description_dk>Fx. ETFE-luftpuder</Description_dk>
+		</Item>
+		<Item>
+			<Identification>28</Identification>
+			<Name_dk>Primære bygningsdele, øvrige</Name_dk>
+		</Item>
+		<Item>
+			<Identification>3</Identification>
+			<Name_dk>Kompletterende bygningsdele</Name_dk>
+		</Item>
+		<Item>
+			<Identification>30</Identification>
+			<Name_dk>Kompletterende bygningsdele, terræn</Name_dk>
+		</Item>
+		<Item>
+			<Identification>301</Identification>
+			<Name_dk>Hegn, afskærmning</Name_dk>
+			<Description_dk>Fx gitterhegn, opstamning, stationære pullerter (se evt. 701 for "Mekaniske pullerter"</Description_dk>
+		</Item>
+		<Item>
+			<Identification>302</Identification>
+			<Name_dk>Komplettering trapper, ramper i terræn</Name_dk>
+		</Item>
+		<Item>
+			<Identification>31</Identification>
+			<Name_dk>Ydervægge, komplettering</Name_dk>
+		</Item>
+		<Item>
+			<Identification>311</Identification>
+			<Name_dk>Udvendige døre </Name_dk>
+		</Item>
+		<Item>
+			<Identification>312</Identification>
+			<Name_dk>Udvendige vinduer</Name_dk>
+		</Item>
+		<Item>
+			<Identification>313</Identification>
+			<Name_dk>Udvendige døre, vinduesfacadesystemer</Name_dk>
+		</Item>
+		<Item>
+			<Identification>314</Identification>
+			<Name_dk>Udvendige vinduesopluk, vinduesfacadesystemer</Name_dk>
+		</Item>
+		<Item>
+			<Identification>315</Identification>
+			<Name_dk>Udvendige ruder, blændfelter og karmprofiler, vinduesfacadesystemer</Name_dk>
+		</Item>
+		<Item>
+			<Identification>316</Identification>
+			<Name_dk>Udvendige porte og karusseldøre</Name_dk>
+		</Item>
+		<Item>
+			<Identification>317</Identification>
+			<Name_dk>Ydervægge, afskærmninger</Name_dk>
+			<Description_dk>Solskærme, skodder, jalousier, gitre m.m.</Description_dk>
+		</Item>
+		<Item>
+			<Identification>319</Identification>
+			<Name_dk>Øvrig ydervæg komplettering</Name_dk>
+			<Description_dk>Sålbænke, lydabsorbenter, gitre, Indfatninger, fodpaneler, vægforstærkninger, inddækninger og fendere</Description_dk>
+		</Item>
+		<Item>
+			<Identification>32</Identification>
+			<Name_dk>Indervægge, komplettering</Name_dk>
+		</Item>
+		<Item>
+			<Identification>321</Identification>
+			<Name_dk>Indvendige døre</Name_dk>
+		</Item>
+		<Item>
+			<Identification>322</Identification>
+			<Name_dk>Indvendige vinduer, luger og lemme</Name_dk>
+		</Item>
+		<Item>
+			<Identification>323</Identification>
+			<Name_dk>Indvendige døre, glassystemvægge</Name_dk>
+		</Item>
+		<Item>
+			<Identification>324</Identification>
+			<Name_dk>Indvendige vinduesopluk, glassystemvægge</Name_dk>
+		</Item>
+		<Item>
+			<Identification>325</Identification>
+			<Name_dk>Indvendige ruder, blændfelter og karmprofiler, glassystemvægge</Name_dk>
+		</Item>
+		<Item>
+			<Identification>326</Identification>
+			<Name_dk>Indvendige porte og karruseldøre</Name_dk>
+		</Item>
+		<Item>
+			<Identification>327</Identification>
+			<Name_dk>Bevægelige indervægge</Name_dk>
+		</Item>
+		<Item>
+			<Identification>328</Identification>
+			<Name_dk>Indervægge, afskærmning</Name_dk>
+			<Description_dk>Indvendige solskærme, skodder, brand- og røgafskærmning, jalousier</Description_dk>
+		</Item>
+		<Item>
+			<Identification>329</Identification>
+			<Name_dk>Øvrig indervæg komplettering</Name_dk>
+			<Description_dk>lydabsorbenter, gitre, Indfatninger, fodpaneler, vægforstærkninger, inddækninger og fendere</Description_dk>
+		</Item>
+		<Item>
+			<Identification>33</Identification>
+			<Name_dk>Dæk, komplettering</Name_dk>
+		</Item>
+		<Item>
+			<Identification>331</Identification>
+			<Name_dk>Opbyggede gulve</Name_dk>
+			<Description_dk>Plankegulve på strøer,  faldopbygget mørtellag med fliser,</Description_dk>
+		</Item>
+		<Item>
+			<Identification>332</Identification>
+			<Name_dk>Svømmende gulve</Name_dk>
+		</Item>
+		<Item>
+			<Identification>333</Identification>
+			<Name_dk>Lemme, riste, måtterammer</Name_dk>
+		</Item>
+		<Item>
+			<Identification>334</Identification>
+			<Name_dk>Støbte gulve</Name_dk>
+			<Description_dk>Fx ved lokalt faldopbygning,</Description_dk>
+		</Item>
+		<Item>
+			<Identification>335</Identification>
+			<Name_dk>Opbyggede belægninger</Name_dk>
+		</Item>
+		<Item>
+			<Identification>336</Identification>
+			<Name_dk>Lydabsorbenter</Name_dk>
+		</Item>
+		<Item>
+			<Identification>339</Identification>
+			<Name_dk>Øvrig dækkomplettering</Name_dk>
+		</Item>
+		<Item>
+			<Identification>34</Identification>
+			<Name_dk>Trapper og ramper, komplettering</Name_dk>
+		</Item>
+		<Item>
+			<Identification>341</Identification>
+			<Name_dk>Gelændere, rækværker og håndlister udvendige</Name_dk>
+		</Item>
+		<Item>
+			<Identification>342</Identification>
+			<Name_dk>Gelændere, rækværker og håndlister indvendige</Name_dk>
+		</Item>
+		<Item>
+			<Identification>343</Identification>
+			<Name_dk>Riste, måtterammer</Name_dk>
+		</Item>
+		<Item>
+			<Identification>349</Identification>
+			<Name_dk>Øvrig trappekomplettering</Name_dk>
+		</Item>
+		<Item>
+			<Identification>35</Identification>
+			<Name_dk>Lofter, komplettering</Name_dk>
+		</Item>
+		<Item>
+			<Identification>351</Identification>
+			<Name_dk>Indvendige nedhængte lofter</Name_dk>
+		</Item>
+		<Item>
+			<Identification>352</Identification>
+			<Name_dk>Udvendige nedhængte lofter</Name_dk>
+		</Item>
+		<Item>
+			<Identification>353</Identification>
+			<Name_dk>Indvendige påbyggede lofter</Name_dk>
+		</Item>
+		<Item>
+			<Identification>354</Identification>
+			<Name_dk>Udvendige påbyggede lofter</Name_dk>
+		</Item>
+		<Item>
+			<Identification>355</Identification>
+			<Name_dk>Indvendige loftskørter</Name_dk>
+		</Item>
+		<Item>
+			<Identification>356</Identification>
+			<Name_dk>Udvendige loftskørter</Name_dk>
+		</Item>
+		<Item>
+			<Identification>357</Identification>
+			<Name_dk>Lydabsorbenter</Name_dk>
+		</Item>
+		<Item>
+			<Identification>36</Identification>
+			<Name_dk>Altaner, komplettering</Name_dk>
+		</Item>
+		<Item>
+			<Identification>361</Identification>
+			<Name_dk>Rækværker, brystninger</Name_dk>
+		</Item>
+		<Item>
+			<Identification>37</Identification>
+			<Name_dk>Tage, komplettering</Name_dk>
+		</Item>
+		<Item>
+			<Identification>371</Identification>
+			<Name_dk>Kviste</Name_dk>
+		</Item>
+		<Item>
+			<Identification>372</Identification>
+			<Name_dk>Ovenlys, røg- og taglemme</Name_dk>
+		</Item>
+		<Item>
+			<Identification>373</Identification>
+			<Name_dk>Solskærme til ovenlys</Name_dk>
+		</Item>
+		<Item>
+			<Identification>374</Identification>
+			<Name_dk>Sikring</Name_dk>
+			<Description_dk>Snefang, faldsikring, rækværker, lynafledning, afskærmninger m.m.</Description_dk>
+		</Item>
+		<Item>
+			<Identification>375</Identification>
+			<Name_dk>Brandkamserstatning</Name_dk>
+		</Item>
+		<Item>
+			<Identification>376</Identification>
+			<Name_dk>Inddækninger</Name_dk>
+			<Description_dk>Tagudhæng, vindskeder, sternbrædder</Description_dk>
+		</Item>
+		<Item>
+			<Identification>377</Identification>
+			<Name_dk>Belægninger på færdige tagflader</Name_dk>
+		</Item>
+		<Item>
+			<Identification>38</Identification>
+			<Name_dk>Kompletterende bygningsdele bygning, øvrige</Name_dk>
+		</Item>
+		<Item>
+			<Identification>4</Identification>
+			<Name_dk>Overfladebygningsdele</Name_dk>
+		</Item>
+		<Item>
+			<Identification>40</Identification>
+			<Name_dk>Udvendige vægoverflader</Name_dk>
+		</Item>
+		<Item>
+			<Identification>401</Identification>
+			<Name_dk>Malerbehandlinger</Name_dk>
+		</Item>
+		<Item>
+			<Identification>402</Identification>
+			<Name_dk>Beklædninger, påmurede</Name_dk>
+		</Item>
+		<Item>
+			<Identification>403</Identification>
+			<Name_dk>Beklædninger, monteret</Name_dk>
+		</Item>
+		<Item>
+			<Identification>41</Identification>
+			<Name_dk>Indvendige vægoverflader</Name_dk>
+		</Item>
+		<Item>
+			<Identification>411</Identification>
+			<Name_dk>Malerbehandlinger</Name_dk>
+		</Item>
+		<Item>
+			<Identification>412</Identification>
+			<Name_dk>Beklædninger, påmurede</Name_dk>
+		</Item>
+		<Item>
+			<Identification>413</Identification>
+			<Name_dk>Beklædninger, monteret</Name_dk>
+		</Item>
+		<Item>
+			<Identification>42</Identification>
+			<Name_dk>Dæk- og gulvoverflader</Name_dk>
+		</Item>
+		<Item>
+			<Identification>421</Identification>
+			<Name_dk>Malerbehandlinger</Name_dk>
+		</Item>
+		<Item>
+			<Identification>422</Identification>
+			<Name_dk>Beklædninger, påmurede</Name_dk>
+		</Item>
+		<Item>
+			<Identification>423</Identification>
+			<Name_dk>Beklædninger, monteret</Name_dk>
+		</Item>
+		<Item>
+			<Identification>43</Identification>
+			<Name_dk>Trapper og ramper, overflader</Name_dk>
+		</Item>
+		<Item>
+			<Identification>431</Identification>
+			<Name_dk>Malerbehandlinger</Name_dk>
+		</Item>
+		<Item>
+			<Identification>432</Identification>
+			<Name_dk>Beklædninger, påmurede</Name_dk>
+		</Item>
+		<Item>
+			<Identification>433</Identification>
+			<Name_dk>Beklædninger, monteret</Name_dk>
+		</Item>
+		<Item>
+			<Identification>44</Identification>
+			<Name_dk>Lofter, overflader</Name_dk>
+		</Item>
+		<Item>
+			<Identification>441</Identification>
+			<Name_dk>Malerbehandlinger</Name_dk>
+		</Item>
+		<Item>
+			<Identification>442</Identification>
+			<Name_dk>Beklædninger, påmurede</Name_dk>
+		</Item>
+		<Item>
+			<Identification>443</Identification>
+			<Name_dk>Beklædninger, monteret</Name_dk>
+		</Item>
+		<Item>
+			<Identification>45</Identification>
+			<Name_dk>Altaner, overflader</Name_dk>
+		</Item>
+		<Item>
+			<Identification>451</Identification>
+			<Name_dk>Malerbehandlinger</Name_dk>
+		</Item>
+		<Item>
+			<Identification>452</Identification>
+			<Name_dk>Beklædninger, påmurede</Name_dk>
+		</Item>
+		<Item>
+			<Identification>453</Identification>
+			<Name_dk>Beklædninger, monteret</Name_dk>
+		</Item>
+		<Item>
+			<Identification>46</Identification>
+			<Name_dk>Tage, overflader</Name_dk>
+		</Item>
+		<Item>
+			<Identification>461</Identification>
+			<Name_dk>Malerbehandlinger</Name_dk>
+		</Item>
+		<Item>
+			<Identification>462</Identification>
+			<Name_dk>Tagdækning</Name_dk>
+		</Item>
+		<Item>
+			<Identification>47</Identification>
+			<Name_dk>Overflader bygning, øvrige</Name_dk>
+		</Item>
+		<Item>
+			<Identification>5</Identification>
+			<Name_dk>VVS- og ventilationsanlæg</Name_dk>
+		</Item>
+		<Item>
+			<Identification>50</Identification>
+			<Name_dk>VVS-anlæg, terræn</Name_dk>
+		</Item>
+		<Item>
+			<Identification>501</Identification>
+			<Name_dk>Brønde</Name_dk>
+		</Item>
+		<Item>
+			<Identification>5011</Identification>
+			<Name_dk>Brønd</Name_dk>
+		</Item>
+		<Item>
+			<Identification>5012</Identification>
+			<Name_dk>Drænbrønd</Name_dk>
+		</Item>
+		<Item>
+			<Identification>5013</Identification>
+			<Name_dk>Nedløbsbrønd</Name_dk>
+		</Item>
+		<Item>
+			<Identification>5014</Identification>
+			<Name_dk>Pumpebrønd</Name_dk>
+		</Item>
+		<Item>
+			<Identification>5015</Identification>
+			<Name_dk>Spulebrønd</Name_dk>
+		</Item>
+		<Item>
+			<Identification>5016</Identification>
+			<Name_dk>Tørbrønd</Name_dk>
+		</Item>
+		<Item>
+			<Identification>5017</Identification>
+			<Name_dk>Sandfang</Name_dk>
+		</Item>
+		<Item>
+			<Identification>502</Identification>
+			<Name_dk>Øvrige tilbehør</Name_dk>
+		</Item>
+		<Item>
+			<Identification>5021</Identification>
+			<Name_dk>Faskine</Name_dk>
+		</Item>
+		<Item>
+			<Identification>5022</Identification>
+			<Name_dk>Højvandslukke</Name_dk>
+		</Item>
+		<Item>
+			<Identification>5023</Identification>
+			<Name_dk>Udskiller (Olie, fedt, benzin mv.)</Name_dk>
+		</Item>
+		<Item>
+			<Identification>5024</Identification>
+			<Name_dk>Brandhane</Name_dk>
+		</Item>
+		<Item>
+			<Identification>5025</Identification>
+			<Name_dk>Tanke til olie/gas</Name_dk>
+		</Item>
+		<Item>
+			<Identification>51</Identification>
+			<Name_dk>Logistik</Name_dk>
+		</Item>
+		<Item>
+			<Identification>52</Identification>
+			<Name_dk>Afløb og sanitet</Name_dk>
+		</Item>
+		<Item>
+			<Identification>521</Identification>
+			<Name_dk>Afløb o.lign tilbehør</Name_dk>
+		</Item>
+		<Item>
+			<Identification>5211</Identification>
+			<Name_dk>Gulvafløb</Name_dk>
+		</Item>
+		<Item>
+			<Identification>5212</Identification>
+			<Name_dk>Specialafløb</Name_dk>
+		</Item>
+		<Item>
+			<Identification>5213</Identification>
+			<Name_dk>Drypkop</Name_dk>
+		</Item>
+		<Item>
+			<Identification>5214</Identification>
+			<Name_dk>Vakuumventil</Name_dk>
+		</Item>
+		<Item>
+			<Identification>5215</Identification>
+			<Name_dk>Tagbrønd</Name_dk>
+		</Item>
+		<Item>
+			<Identification>5216</Identification>
+			<Name_dk>Renselem</Name_dk>
+		</Item>
+		<Item>
+			<Identification>522</Identification>
+			<Name_dk>Toilet og bad</Name_dk>
+		</Item>
+		<Item>
+			<Identification>5221</Identification>
+			<Name_dk>Toilet</Name_dk>
+		</Item>
+		<Item>
+			<Identification>5222</Identification>
+			<Name_dk>Badekar</Name_dk>
+		</Item>
+		<Item>
+			<Identification>5223</Identification>
+			<Name_dk>Bidet</Name_dk>
+		</Item>
+		<Item>
+			<Identification>5224</Identification>
+			<Name_dk>Bruser</Name_dk>
+		</Item>
+		<Item>
+			<Identification>5225</Identification>
+			<Name_dk>Urinal</Name_dk>
+		</Item>
+		<Item>
+			<Identification>523</Identification>
+			<Name_dk>Vaske og haner</Name_dk>
+		</Item>
+		<Item>
+			<Identification>5231</Identification>
+			<Name_dk>Håndvask</Name_dk>
+		</Item>
+		<Item>
+			<Identification>5232</Identification>
+			<Name_dk>Køkkenvask</Name_dk>
+		</Item>
+		<Item>
+			<Identification>5233</Identification>
+			<Name_dk>Rengøringsvask</Name_dk>
+		</Item>
+		<Item>
+			<Identification>5234</Identification>
+			<Name_dk>Stålvask</Name_dk>
+		</Item>
+		<Item>
+			<Identification>5235</Identification>
+			<Name_dk>Udslagsvask</Name_dk>
+		</Item>
+		<Item>
+			<Identification>5236</Identification>
+			<Name_dk>Gårdhane / spulehane</Name_dk>
+		</Item>
+		<Item>
+			<Identification>524</Identification>
+			<Name_dk>Afløbstilslutning til udstyr</Name_dk>
+		</Item>
+		<Item>
+			<Identification>5241</Identification>
+			<Name_dk>Drikkevandskøler</Name_dk>
+		</Item>
+		<Item>
+			<Identification>5242</Identification>
+			<Name_dk>Ismaskine</Name_dk>
+		</Item>
+		<Item>
+			<Identification>5243</Identification>
+			<Name_dk>Kaffemaskine</Name_dk>
+		</Item>
+		<Item>
+			<Identification>5244</Identification>
+			<Name_dk>Køledesk</Name_dk>
+		</Item>
+		<Item>
+			<Identification>5245</Identification>
+			<Name_dk>Opvaskemaskine</Name_dk>
+		</Item>
+		<Item>
+			<Identification>5246</Identification>
+			<Name_dk>Ovn</Name_dk>
+		</Item>
+		<Item>
+			<Identification>5247</Identification>
+			<Name_dk>Vaskemaskine</Name_dk>
+		</Item>
+		<Item>
+			<Identification>525</Identification>
+			<Name_dk>Øvrige afløb og sanitet</Name_dk>
+		</Item>
+		<Item>
+			<Identification>5251</Identification>
+			<Name_dk>Brandslangevinder</Name_dk>
+		</Item>
+		<Item>
+			<Identification>5252</Identification>
+			<Name_dk>Nødbruser</Name_dk>
+		</Item>
+		<Item>
+			<Identification>53</Identification>
+			<Name_dk>Vand (koldt/varmt vand, behandlet vand)</Name_dk>
+		</Item>
+		<Item>
+			<Identification>531</Identification>
+			<Name_dk>Mekanisk udstyr</Name_dk>
+		</Item>
+		<Item>
+			<Identification>5311</Identification>
+			<Name_dk>Brugsvandsveksler (el-dreven)</Name_dk>
+		</Item>
+		<Item>
+			<Identification>5312</Identification>
+			<Name_dk>Korrolyseanlæg</Name_dk>
+		</Item>
+		<Item>
+			<Identification>5313</Identification>
+			<Name_dk>Produktion BBK</Name_dk>
+		</Item>
+		<Item>
+			<Identification>5314</Identification>
+			<Name_dk>Produktion RO</Name_dk>
+		</Item>
+		<Item>
+			<Identification>5315</Identification>
+			<Name_dk>Parafinrenser</Name_dk>
+		</Item>
+		<Item>
+			<Identification>5316</Identification>
+			<Name_dk>Trykforøger anlæg</Name_dk>
+		</Item>
+		<Item>
+			<Identification>5317</Identification>
+			<Name_dk>Vandbehandlingsanlæg</Name_dk>
+		</Item>
+		<Item>
+			<Identification>54</Identification>
+			<Name_dk>Luftarter (gas, trykluft, vakuum)</Name_dk>
+		</Item>
+		<Item>
+			<Identification>541</Identification>
+			<Name_dk>Mekanisk udstyr</Name_dk>
+		</Item>
+		<Item>
+			<Identification>5411</Identification>
+			<Name_dk>Specialgascentral</Name_dk>
+		</Item>
+		<Item>
+			<Identification>5412</Identification>
+			<Name_dk>Trykluftkompressor</Name_dk>
+		</Item>
+		<Item>
+			<Identification>5413</Identification>
+			<Name_dk>Overvågningsenhed</Name_dk>
+		</Item>
+		<Item>
+			<Identification>5414</Identification>
+			<Name_dk>Nødspærringsbokse</Name_dk>
+		</Item>
+		<Item>
+			<Identification>5415</Identification>
+			<Name_dk>Nødforsyningsenhed</Name_dk>
+		</Item>
+		<Item>
+			<Identification>55</Identification>
+			<Name_dk>Køling</Name_dk>
+		</Item>
+		<Item>
+			<Identification>551</Identification>
+			<Name_dk>Mekanisk udstyr</Name_dk>
+		</Item>
+		<Item>
+			<Identification>5511</Identification>
+			<Name_dk>Kølecentral</Name_dk>
+		</Item>
+		<Item>
+			<Identification>5512</Identification>
+			<Name_dk>Køleblandesløjfe</Name_dk>
+		</Item>
+		<Item>
+			<Identification>5513</Identification>
+			<Name_dk>Kølerum</Name_dk>
+		</Item>
+		<Item>
+			<Identification>5514</Identification>
+			<Name_dk>Køleflade</Name_dk>
+		</Item>
+		<Item>
+			<Identification>5515</Identification>
+			<Name_dk>Fancoil</Name_dk>
+		</Item>
+		<Item>
+			<Identification>5516</Identification>
+			<Name_dk>Kølebaffel</Name_dk>
+		</Item>
+		<Item>
+			<Identification>56</Identification>
+			<Name_dk>Varmesystem</Name_dk>
+		</Item>
+		<Item>
+			<Identification>561</Identification>
+			<Name_dk>Varmegivere</Name_dk>
+		</Item>
+		<Item>
+			<Identification>5611</Identification>
+			<Name_dk>Varmeflade</Name_dk>
+		</Item>
+		<Item>
+			<Identification>5612</Identification>
+			<Name_dk>Radiator</Name_dk>
+		</Item>
+		<Item>
+			<Identification>5613</Identification>
+			<Name_dk>Gulvvarme</Name_dk>
+		</Item>
+		<Item>
+			<Identification>5614</Identification>
+			<Name_dk>Strålevarmepanel</Name_dk>
+		</Item>
+		<Item>
+			<Identification>5615</Identification>
+			<Name_dk>Konvektor</Name_dk>
+		</Item>
+		<Item>
+			<Identification>5616</Identification>
+			<Name_dk>Varmluftstæppe</Name_dk>
+		</Item>
+		<Item>
+			<Identification>5617</Identification>
+			<Name_dk>Kaloriefere</Name_dk>
+		</Item>
+		<Item>
+			<Identification>5618</Identification>
+			<Name_dk>Varmtvandsbeholder</Name_dk>
+		</Item>
+		<Item>
+			<Identification>562</Identification>
+			<Name_dk>Fyr</Name_dk>
+		</Item>
+		<Item>
+			<Identification>5621</Identification>
+			<Name_dk>Gasfyr</Name_dk>
+		</Item>
+		<Item>
+			<Identification>5622</Identification>
+			<Name_dk>Oliefyr</Name_dk>
+		</Item>
+		<Item>
+			<Identification>563</Identification>
+			<Name_dk>Øvrige mekanisk udstyr</Name_dk>
+		</Item>
+		<Item>
+			<Identification>5631</Identification>
+			<Name_dk>Varmeveksler</Name_dk>
+		</Item>
+		<Item>
+			<Identification>5632</Identification>
+			<Name_dk>Blandesløjfe</Name_dk>
+		</Item>
+		<Item>
+			<Identification>5633</Identification>
+			<Name_dk>Ekspansionsbeholder</Name_dk>
+		</Item>
+		<Item>
+			<Identification>57</Identification>
+			<Name_dk>Ventilationsanlæg</Name_dk>
+		</Item>
+		<Item>
+			<Identification>571</Identification>
+			<Name_dk>Runde og rektangulære kanaler</Name_dk>
+		</Item>
+		<Item>
+			<Identification>5711</Identification>
+			<Name_dk>SR, Rund kanal, Påstik</Name_dk>
+		</Item>
+		<Item>
+			<Identification>5712</Identification>
+			<Name_dk>SR, Rund kanal, T-stykke</Name_dk>
+		</Item>
+		<Item>
+			<Identification>5713</Identification>
+			<Name_dk>SR, Rund kanal, kort radie</Name_dk>
+		</Item>
+		<Item>
+			<Identification>5714</Identification>
+			<Name_dk>Rektangulær kanal, Kort Radie, Påstik</Name_dk>
+		</Item>
+		<Item>
+			<Identification>5715</Identification>
+			<Name_dk>Rektangulær kanal, Radiebøj, Påstik</Name_dk>
+		</Item>
+		<Item>
+			<Identification>5716</Identification>
+			<Name_dk>Rektangulær kanal, Kort Radie, T-stykke</Name_dk>
+		</Item>
+		<Item>
+			<Identification>5717</Identification>
+			<Name_dk>Rektangulær kanal, Radiebøj, T-stykke</Name_dk>
+		</Item>
+		<Item>
+			<Identification>572</Identification>
+			<Name_dk>Øvrige kanaler</Name_dk>
+		</Item>
+		<Item>
+			<Identification>5721</Identification>
+			<Name_dk>Oval kanal</Name_dk>
+		</Item>
+		<Item>
+			<Identification>5722</Identification>
+			<Name_dk>Flex-kanal rektangulær</Name_dk>
+		</Item>
+		<Item>
+			<Identification>5723</Identification>
+			<Name_dk>Flex-kanal rund</Name_dk>
+		</Item>
+		<Item>
+			<Identification>573</Identification>
+			<Name_dk>Kanal tilbehør</Name_dk>
+		</Item>
+		<Item>
+			<Identification>5731</Identification>
+			<Name_dk>Lyddæmper</Name_dk>
+		</Item>
+		<Item>
+			<Identification>5732</Identification>
+			<Name_dk>Brandspjæld</Name_dk>
+		</Item>
+		<Item>
+			<Identification>5733</Identification>
+			<Name_dk>Brand og røgspjæld</Name_dk>
+		</Item>
+		<Item>
+			<Identification>5734</Identification>
+			<Name_dk>Overtryksspjæld</Name_dk>
+		</Item>
+		<Item>
+			<Identification>5735</Identification>
+			<Name_dk>Røgspjæld</Name_dk>
+		</Item>
+		<Item>
+			<Identification>5736</Identification>
+			<Name_dk>Spjæld on/off</Name_dk>
+		</Item>
+		<Item>
+			<Identification>5737</Identification>
+			<Name_dk>Volumenstrømsregulator</Name_dk>
+		</Item>
+		<Item>
+			<Identification>5738</Identification>
+			<Name_dk>Zonespjæld / VAV-spjæld</Name_dk>
+		</Item>
+		<Item>
+			<Identification>5739</Identification>
+			<Name_dk>Filter</Name_dk>
+		</Item>
+		<Item>
+			<Identification>574</Identification>
+			<Name_dk>Anlæg, køle/varme flader veksler</Name_dk>
+		</Item>
+		<Item>
+			<Identification>5741</Identification>
+			<Name_dk>Ventilationsaggregat</Name_dk>
+		</Item>
+		<Item>
+			<Identification>5742</Identification>
+			<Name_dk>Varmeflade</Name_dk>
+		</Item>
+		<Item>
+			<Identification>5743</Identification>
+			<Name_dk>Køleflade</Name_dk>
+		</Item>
+		<Item>
+			<Identification>5744</Identification>
+			<Name_dk>Væskekoblet veksler</Name_dk>
+		</Item>
+		<Item>
+			<Identification>5745</Identification>
+			<Name_dk>Varmegenvinding</Name_dk>
+		</Item>
+		<Item>
+			<Identification>5746</Identification>
+			<Name_dk>Varmeveksler</Name_dk>
+		</Item>
+		<Item>
+			<Identification>5747</Identification>
+			<Name_dk>Befugter</Name_dk>
+		</Item>
+		<Item>
+			<Identification>5748</Identification>
+			<Name_dk>Affugter</Name_dk>
+		</Item>
+		<Item>
+			<Identification>575</Identification>
+			<Name_dk>Ventilator</Name_dk>
+		</Item>
+		<Item>
+			<Identification>5751</Identification>
+			<Name_dk>Ventilator</Name_dk>
+		</Item>
+		<Item>
+			<Identification>5752</Identification>
+			<Name_dk>Axialventilator</Name_dk>
+		</Item>
+		<Item>
+			<Identification>5753</Identification>
+			<Name_dk>Boksventilator</Name_dk>
+		</Item>
+		<Item>
+			<Identification>5754</Identification>
+			<Name_dk>Kanalventilator</Name_dk>
+		</Item>
+		<Item>
+			<Identification>5755</Identification>
+			<Name_dk>Processudsugningsventilator</Name_dk>
+		</Item>
+		<Item>
+			<Identification>5756</Identification>
+			<Name_dk>Tag ventilator</Name_dk>
+		</Item>
+		<Item>
+			<Identification>5757</Identification>
+			<Name_dk>Vådrumsventilator</Name_dk>
+		</Item>
+		<Item>
+			<Identification>576</Identification>
+			<Name_dk>Armatur</Name_dk>
+		</Item>
+		<Item>
+			<Identification>5761</Identification>
+			<Name_dk>Dyser</Name_dk>
+		</Item>
+		<Item>
+			<Identification>5762</Identification>
+			<Name_dk>Fortrængningsarmatur</Name_dk>
+		</Item>
+		<Item>
+			<Identification>5763</Identification>
+			<Name_dk>Loftsarmatur</Name_dk>
+		</Item>
+		<Item>
+			<Identification>5764</Identification>
+			<Name_dk>Loftsarmatur - synlig montage</Name_dk>
+		</Item>
+		<Item>
+			<Identification>5765</Identification>
+			<Name_dk>Renrumsarmatur</Name_dk>
+		</Item>
+		<Item>
+			<Identification>5766</Identification>
+			<Name_dk>Vægarmatur</Name_dk>
+		</Item>
+		<Item>
+			<Identification>5767</Identification>
+			<Name_dk>indblæsningspose</Name_dk>
+		</Item>
+		<Item>
+			<Identification>5768</Identification>
+			<Name_dk>Ejektsug</Name_dk>
+		</Item>
+		<Item>
+			<Identification>5769</Identification>
+			<Name_dk>Punktsug</Name_dk>
+		</Item>
+		<Item>
+			<Identification>577</Identification>
+			<Name_dk>Ventiler</Name_dk>
+		</Item>
+		<Item>
+			<Identification>5771</Identification>
+			<Name_dk>Kontrolventiler</Name_dk>
+		</Item>
+		<Item>
+			<Identification>5772</Identification>
+			<Name_dk>Overtryksventiler</Name_dk>
+		</Item>
+		<Item>
+			<Identification>578</Identification>
+			<Name_dk>Tilslutninger til udstyr</Name_dk>
+		</Item>
+		<Item>
+			<Identification>5781</Identification>
+			<Name_dk>Emhætte</Name_dk>
+		</Item>
+		<Item>
+			<Identification>579</Identification>
+			<Name_dk>Taghætter / gennemføringer</Name_dk>
+		</Item>
+		<Item>
+			<Identification>5791</Identification>
+			<Name_dk>Jethætte</Name_dk>
+		</Item>
+		<Item>
+			<Identification>5792</Identification>
+			<Name_dk>Afkasthætte</Name_dk>
+		</Item>
+		<Item>
+			<Identification>5793</Identification>
+			<Name_dk>Indtagshætte</Name_dk>
+		</Item>
+		<Item>
+			<Identification>5794</Identification>
+			<Name_dk>Afkastsskorsten</Name_dk>
+		</Item>
+		<Item>
+			<Identification>5795</Identification>
+			<Name_dk>Indtagsskorsten</Name_dk>
+		</Item>
+		<Item>
+			<Identification>5796</Identification>
+			<Name_dk>Taggennemføring</Name_dk>
+		</Item>
+		<Item>
+			<Identification>5797</Identification>
+			<Name_dk>Membrandgennemføringer</Name_dk>
+		</Item>
+		<Item>
+			<Identification>58</Identification>
+			<Name_dk>Sprinkleranlæg</Name_dk>
+		</Item>
+		<Item>
+			<Identification>581</Identification>
+			<Name_dk>Tilbehør</Name_dk>
+		</Item>
+		<Item>
+			<Identification>5811</Identification>
+			<Name_dk>Alarmventiler</Name_dk>
+		</Item>
+		<Item>
+			<Identification>5812</Identification>
+			<Name_dk>Sprinklerdyser</Name_dk>
+		</Item>
+		<Item>
+			<Identification>5813</Identification>
+			<Name_dk>Flowswitch</Name_dk>
+		</Item>
+		<Item>
+			<Identification>582</Identification>
+			<Name_dk>Mekanisk udstyr</Name_dk>
+		</Item>
+		<Item>
+			<Identification>5821</Identification>
+			<Name_dk>Sprinkleranlæg</Name_dk>
+		</Item>
+		<Item>
+			<Identification>5822</Identification>
+			<Name_dk>Vandrensningsanlæg</Name_dk>
+		</Item>
+		<Item>
+			<Identification>5823</Identification>
+			<Name_dk>Tryktanke</Name_dk>
+		</Item>
+		<Item>
+			<Identification>5824</Identification>
+			<Name_dk>Trykbeholderpumpe</Name_dk>
+		</Item>
+		<Item>
+			<Identification>59</Identification>
+			<Name_dk>Tværgående komponenter, VVS</Name_dk>
+		</Item>
+		<Item>
+			<Identification>591</Identification>
+			<Name_dk>Metal rør. (Stål, kobber, alu osv.)</Name_dk>
+		</Item>
+		<Item>
+			<Identification>5911</Identification>
+			<Name_dk>Galvaniserede rør</Name_dk>
+		</Item>
+		<Item>
+			<Identification>5912</Identification>
+			<Name_dk>Præisolerede stålrør</Name_dk>
+		</Item>
+		<Item>
+			<Identification>5913</Identification>
+			<Name_dk>Rustfri stålrør</Name_dk>
+		</Item>
+		<Item>
+			<Identification>5914</Identification>
+			<Name_dk>Sorte stålrør</Name_dk>
+		</Item>
+		<Item>
+			<Identification>5915</Identification>
+			<Name_dk>Elforsinket stålrør</Name_dk>
+		</Item>
+		<Item>
+			<Identification>5916</Identification>
+			<Name_dk>Kobberrør, bløde</Name_dk>
+		</Item>
+		<Item>
+			<Identification>5917</Identification>
+			<Name_dk>Kobberrør, hårde</Name_dk>
+		</Item>
+		<Item>
+			<Identification>5918</Identification>
+			<Name_dk>Alupex</Name_dk>
+		</Item>
+		<Item>
+			<Identification>592</Identification>
+			<Name_dk>Plastik rør o.lign.</Name_dk>
+		</Item>
+		<Item>
+			<Identification>5921</Identification>
+			<Name_dk>Pe trykrør</Name_dk>
+		</Item>
+		<Item>
+			<Identification>5922</Identification>
+			<Name_dk>PEL rør</Name_dk>
+		</Item>
+		<Item>
+			<Identification>5923</Identification>
+			<Name_dk>PEM rør</Name_dk>
+		</Item>
+		<Item>
+			<Identification>5924</Identification>
+			<Name_dk>PEX rør</Name_dk>
+		</Item>
+		<Item>
+			<Identification>5925</Identification>
+			<Name_dk>PP afløbsrør</Name_dk>
+		</Item>
+		<Item>
+			<Identification>5926</Identification>
+			<Name_dk>PP x-stream regnvandsrør</Name_dk>
+		</Item>
+		<Item>
+			<Identification>5927</Identification>
+			<Name_dk>PVC trykrør</Name_dk>
+		</Item>
+		<Item>
+			<Identification>5928</Identification>
+			<Name_dk>Rød PP glat rør</Name_dk>
+		</Item>
+		<Item>
+			<Identification>5929</Identification>
+			<Name_dk>Rød PP ribbe rør</Name_dk>
+		</Item>
+		<Item>
+			<Identification>593</Identification>
+			<Name_dk>Øvrige rør</Name_dk>
+		</Item>
+		<Item>
+			<Identification>5931</Identification>
+			<Name_dk>Betonrør</Name_dk>
+		</Item>
+		<Item>
+			<Identification>5932</Identification>
+			<Name_dk>Super flex rør</Name_dk>
+		</Item>
+		<Item>
+			<Identification>594</Identification>
+			<Name_dk>Statisk ventiler</Name_dk>
+		</Item>
+		<Item>
+			<Identification>5941</Identification>
+			<Name_dk>Afspæringsventil</Name_dk>
+		</Item>
+		<Item>
+			<Identification>5942</Identification>
+			<Name_dk>Strengreguleringsventil</Name_dk>
+		</Item>
+		<Item>
+			<Identification>5943</Identification>
+			<Name_dk>Magnet ventil</Name_dk>
+		</Item>
+		<Item>
+			<Identification>5944</Identification>
+			<Name_dk>Sikkerhedsventil</Name_dk>
+		</Item>
+		<Item>
+			<Identification>5945</Identification>
+			<Name_dk>Udluftningsventil</Name_dk>
+		</Item>
+		<Item>
+			<Identification>5946</Identification>
+			<Name_dk>Aftapningsventil</Name_dk>
+		</Item>
+		<Item>
+			<Identification>5947</Identification>
+			<Name_dk>Flaskegas regulator</Name_dk>
+		</Item>
+		<Item>
+			<Identification>5948</Identification>
+			<Name_dk>NIST kobling</Name_dk>
+		</Item>
+		<Item>
+			<Identification>595</Identification>
+			<Name_dk>Dynamisk ventiler</Name_dk>
+		</Item>
+		<Item>
+			<Identification>5951</Identification>
+			<Name_dk>Cirkulationsventil</Name_dk>
+		</Item>
+		<Item>
+			<Identification>5952</Identification>
+			<Name_dk>Strengreguleringsventil</Name_dk>
+		</Item>
+		<Item>
+			<Identification>5953</Identification>
+			<Name_dk>Trykdifferencregulator</Name_dk>
+		</Item>
+		<Item>
+			<Identification>596</Identification>
+			<Name_dk>Motordrevne rørtilbehør</Name_dk>
+		</Item>
+		<Item>
+			<Identification>5961</Identification>
+			<Name_dk>Motorventil</Name_dk>
+		</Item>
+		<Item>
+			<Identification>5962</Identification>
+			<Name_dk>Motordreven trykdifferencregulator</Name_dk>
+		</Item>
+		<Item>
+			<Identification>597</Identification>
+			<Name_dk>Målere, filtre og øvrige</Name_dk>
+		</Item>
+		<Item>
+			<Identification>5971</Identification>
+			<Name_dk>Filter</Name_dk>
+		</Item>
+		<Item>
+			<Identification>5972</Identification>
+			<Name_dk>Flowmåler</Name_dk>
+		</Item>
+		<Item>
+			<Identification>5973</Identification>
+			<Name_dk>Fordelerrør</Name_dk>
+		</Item>
+		<Item>
+			<Identification>5974</Identification>
+			<Name_dk>Termometer</Name_dk>
+		</Item>
+		<Item>
+			<Identification>5975</Identification>
+			<Name_dk>Manometer</Name_dk>
+		</Item>
+		<Item>
+			<Identification>5976</Identification>
+			<Name_dk>Kompensator</Name_dk>
+		</Item>
+		<Item>
+			<Identification>598</Identification>
+			<Name_dk>Isoleringsarbejde</Name_dk>
+		</Item>
+		<Item>
+			<Identification>5981</Identification>
+			<Name_dk>Isolering, Brand</Name_dk>
+		</Item>
+		<Item>
+			<Identification>5982</Identification>
+			<Name_dk>Isolering, Varme</Name_dk>
+		</Item>
+		<Item>
+			<Identification>5983</Identification>
+			<Name_dk>Isolering, Kondens</Name_dk>
+		</Item>
+		<Item>
+			<Identification>5984</Identification>
+			<Name_dk>Isolering, Støj</Name_dk>
+		</Item>
+		<Item>
+			<Identification>6</Identification>
+			<Name_dk>El- og mekaniske anlæg</Name_dk>
+		</Item>
+		<Item>
+			<Identification>60</Identification>
+			<Name_dk>Terræn</Name_dk>
+		</Item>
+		<Item>
+			<Identification>601</Identification>
+			<Name_dk>Ledninger</Name_dk>
+		</Item>
+		<Item>
+			<Identification>6011</Identification>
+			<Name_dk>Luftledninger for højspændingsanlæg</Name_dk>
+		</Item>
+		<Item>
+			<Identification>6012</Identification>
+			<Name_dk>Ledninger i jord for højspændingsanlæg</Name_dk>
+		</Item>
+		<Item>
+			<Identification>6013</Identification>
+			<Name_dk>Luftledninger for lavspændingsanlæg</Name_dk>
+		</Item>
+		<Item>
+			<Identification>6014</Identification>
+			<Name_dk>Ledninger i jord for lavspændingsanlæg</Name_dk>
+		</Item>
+		<Item>
+			<Identification>6015</Identification>
+			<Name_dk>Ledninger for elektronik- og svagstrømsanlæg</Name_dk>
+		</Item>
+		<Item>
+			<Identification>602</Identification>
+			<Name_dk>Belysning</Name_dk>
+		</Item>
+		<Item>
+			<Identification>6021</Identification>
+			<Name_dk>Gade- og vejbelysningsanlæg</Name_dk>
+		</Item>
+		<Item>
+			<Identification>6022</Identification>
+			<Name_dk>Pladsbelysning</Name_dk>
+		</Item>
+		<Item>
+			<Identification>6023</Identification>
+			<Name_dk>Park- og havebelysningsanlæg</Name_dk>
+		</Item>
+		<Item>
+			<Identification>6024</Identification>
+			<Name_dk>Specie belysning</Name_dk>
+		</Item>
+		<Item>
+			<Identification>603</Identification>
+			<Name_dk>Installation for anlæg under terræn</Name_dk>
+		</Item>
+		<Item>
+			<Identification>6031</Identification>
+			<Name_dk>Jordelektrodeanlæg</Name_dk>
+		</Item>
+		<Item>
+			<Identification>6032</Identification>
+			<Name_dk>Olieudskilleranlæg</Name_dk>
+		</Item>
+		<Item>
+			<Identification>6033</Identification>
+			<Name_dk>Pumpeanlæg i brønde</Name_dk>
+		</Item>
+		<Item>
+			<Identification>6034</Identification>
+			<Name_dk>Registreringsanlæg for fedtudskiller</Name_dk>
+		</Item>
+		<Item>
+			<Identification>6035</Identification>
+			<Name_dk>Varmekabelanlæg</Name_dk>
+		</Item>
+		<Item>
+			<Identification>6036</Identification>
+			<Name_dk>Lækagedetekteringsanlæg</Name_dk>
+		</Item>
+		<Item>
+			<Identification>6037</Identification>
+			<Name_dk>Frostdetekteringsanlæg</Name_dk>
+		</Item>
+		<Item>
+			<Identification>604</Identification>
+			<Name_dk>Installation for anlæg på terræn</Name_dk>
+		</Item>
+		<Item>
+			<Identification>6041</Identification>
+			<Name_dk>Anlæg for sekundære bygninger</Name_dk>
+		</Item>
+		<Item>
+			<Identification>6042</Identification>
+			<Name_dk>Tankanlæg</Name_dk>
+		</Item>
+		<Item>
+			<Identification>6043</Identification>
+			<Name_dk>Ladestander for El-biler</Name_dk>
+		</Item>
+		<Item>
+			<Identification>605</Identification>
+			<Name_dk>Trafikstyring</Name_dk>
+		</Item>
+		<Item>
+			<Identification>6051</Identification>
+			<Name_dk>Trafiksignalanlæg</Name_dk>
+		</Item>
+		<Item>
+			<Identification>6052</Identification>
+			<Name_dk>Faste skilte</Name_dk>
+		</Item>
+		<Item>
+			<Identification>6053</Identification>
+			<Name_dk>Dynamiske skilte</Name_dk>
+		</Item>
+		<Item>
+			<Identification>6054</Identification>
+			<Name_dk>Trafikdetektering</Name_dk>
+		</Item>
+		<Item>
+			<Identification>6055</Identification>
+			<Name_dk>Bomanlæg</Name_dk>
+		</Item>
+		<Item>
+			<Identification>61</Identification>
+			<Name_dk>Føringsveje</Name_dk>
+		</Item>
+		<Item>
+			<Identification>611</Identification>
+			<Name_dk>Fremføringsveje</Name_dk>
+		</Item>
+		<Item>
+			<Identification>6111</Identification>
+			<Name_dk>Indstøbninger</Name_dk>
+		</Item>
+		<Item>
+			<Identification>6112</Identification>
+			<Name_dk>Installationskanaler</Name_dk>
+		</Item>
+		<Item>
+			<Identification>6113</Identification>
+			<Name_dk>Kabelbakker</Name_dk>
+		</Item>
+		<Item>
+			<Identification>6114</Identification>
+			<Name_dk>Kabelstiger</Name_dk>
+		</Item>
+		<Item>
+			<Identification>6115</Identification>
+			<Name_dk>Rør</Name_dk>
+		</Item>
+		<Item>
+			<Identification>6116</Identification>
+			<Name_dk>Tomdåser</Name_dk>
+		</Item>
+		<Item>
+			<Identification>612</Identification>
+			<Name_dk>Huller og udsparinger</Name_dk>
+		</Item>
+		<Item>
+			<Identification>6121</Identification>
+			<Name_dk>Huller og udsparinger</Name_dk>
+		</Item>
+		<Item>
+			<Identification>613</Identification>
+			<Name_dk>Brand- og lydtætninger</Name_dk>
+		</Item>
+		<Item>
+			<Identification>6131</Identification>
+			<Name_dk>Brand- og lydtætninger</Name_dk>
+		</Item>
+		<Item>
+			<Identification>62</Identification>
+			<Name_dk>Højspænding</Name_dk>
+		</Item>
+		<Item>
+			<Identification>621</Identification>
+			<Name_dk>Forsyning</Name_dk>
+		</Item>
+		<Item>
+			<Identification>6211</Identification>
+			<Name_dk>Stikledninger</Name_dk>
+		</Item>
+		<Item>
+			<Identification>6212</Identification>
+			<Name_dk>Transformere</Name_dk>
+		</Item>
+		<Item>
+			<Identification>6213</Identification>
+			<Name_dk>Nød- og reserveforsyningsanlæg</Name_dk>
+		</Item>
+		<Item>
+			<Identification>6214</Identification>
+			<Name_dk>Ens- og vekselretteranlæg</Name_dk>
+		</Item>
+		<Item>
+			<Identification>6215</Identification>
+			<Name_dk>Fasekompenseringsanlæg</Name_dk>
+		</Item>
+		<Item>
+			<Identification>6216</Identification>
+			<Name_dk>Frekvensomformeranlæg</Name_dk>
+		</Item>
+		<Item>
+			<Identification>622</Identification>
+			<Name_dk>Fordeling</Name_dk>
+		</Item>
+		<Item>
+			<Identification>6221</Identification>
+			<Name_dk>Hovedledninger</Name_dk>
+		</Item>
+		<Item>
+			<Identification>6222</Identification>
+			<Name_dk>Koblingsudstyr</Name_dk>
+		</Item>
+		<Item>
+			<Identification>623</Identification>
+			<Name_dk>Installationer for apparater og maskiner</Name_dk>
+		</Item>
+		<Item>
+			<Identification>6231</Identification>
+			<Name_dk>Produktions- og arbejdsmaskiner</Name_dk>
+		</Item>
+		<Item>
+			<Identification>6232</Identification>
+			<Name_dk>Pumpeanlæg</Name_dk>
+		</Item>
+		<Item>
+			<Identification>6233</Identification>
+			<Name_dk>Motorer</Name_dk>
+		</Item>
+		<Item>
+			<Identification>6241</Identification>
+			<Name_dk>Belysningsarmatur</Name_dk>
+		</Item>
+		<Item>
+			<Identification>6242</Identification>
+			<Name_dk>Prøvepladser</Name_dk>
+		</Item>
+		<Item>
+			<Identification>63</Identification>
+			<Name_dk>Lavspænding</Name_dk>
+		</Item>
+		<Item>
+			<Identification>631</Identification>
+			<Name_dk>Forsyning -  ekstern</Name_dk>
+		</Item>
+		<Item>
+			<Identification>6311</Identification>
+			<Name_dk>Stikledning/ Strømskinne</Name_dk>
+		</Item>
+		<Item>
+			<Identification>6312</Identification>
+			<Name_dk>Transformeranlæg</Name_dk>
+		</Item>
+		<Item>
+			<Identification>6313</Identification>
+			<Name_dk>Stationstavler</Name_dk>
+		</Item>
+		<Item>
+			<Identification>6314</Identification>
+			<Name_dk>Nød- og reserveforsyningsanlæg / UPS</Name_dk>
+		</Item>
+		<Item>
+			<Identification>6315</Identification>
+			<Name_dk>DC-thyristoranlæg</Name_dk>
+		</Item>
+		<Item>
+			<Identification>6316</Identification>
+			<Name_dk>Ens- og vekselretteranlæg</Name_dk>
+		</Item>
+		<Item>
+			<Identification>6317</Identification>
+			<Name_dk>Fasekompenseringsanlæg</Name_dk>
+		</Item>
+		<Item>
+			<Identification>6318</Identification>
+			<Name_dk>Frekvensomformeranlæg</Name_dk>
+		</Item>
+		<Item>
+			<Identification>632</Identification>
+			<Name_dk>Fordeling</Name_dk>
+		</Item>
+		<Item>
+			<Identification>6321</Identification>
+			<Name_dk>Hovedledninger</Name_dk>
+		</Item>
+		<Item>
+			<Identification>6322</Identification>
+			<Name_dk>Hovedfordelingstavler</Name_dk>
+		</Item>
+		<Item>
+			<Identification>6323</Identification>
+			<Name_dk>Gruppefordelingstavler</Name_dk>
+		</Item>
+		<Item>
+			<Identification>6329</Identification>
+			<Name_dk>Øvrige tavler</Name_dk>
+		</Item>
+		<Item>
+			<Identification>633</Identification>
+			<Name_dk>Installationer for apparater og maskiner</Name_dk>
+		</Item>
+		<Item>
+			<Identification>6331</Identification>
+			<Name_dk>Kedelanlæg</Name_dk>
+		</Item>
+		<Item>
+			<Identification>6332</Identification>
+			<Name_dk>Køleanlæg</Name_dk>
+		</Item>
+		<Item>
+			<Identification>6333</Identification>
+			<Name_dk>Produktions- og arbejdsmaskiner</Name_dk>
+		</Item>
+		<Item>
+			<Identification>6334</Identification>
+			<Name_dk>Pumpeanlæg</Name_dk>
+		</Item>
+		<Item>
+			<Identification>6335</Identification>
+			<Name_dk>Storkøkkenmaskinanlæg</Name_dk>
+		</Item>
+		<Item>
+			<Identification>6336</Identification>
+			<Name_dk>Stor-/fælles vaskerianlæg</Name_dk>
+		</Item>
+		<Item>
+			<Identification>6337</Identification>
+			<Name_dk>Transportanlæg</Name_dk>
+		</Item>
+		<Item>
+			<Identification>6338</Identification>
+			<Name_dk>Ventilationsanlæg</Name_dk>
+		</Item>
+		<Item>
+			<Identification>6339</Identification>
+			<Name_dk>Installationer for øvrige mekaniske anlæg</Name_dk>
+		</Item>
+		<Item>
+			<Identification>634</Identification>
+			<Name_dk>Termiske anlæg</Name_dk>
+		</Item>
+		<Item>
+			<Identification>6341</Identification>
+			<Name_dk>El-radiator</Name_dk>
+		</Item>
+		<Item>
+			<Identification>6342</Identification>
+			<Name_dk>El-varmeflade</Name_dk>
+		</Item>
+		<Item>
+			<Identification>6343</Identification>
+			<Name_dk>Håndtørrer, håndklædetørrer</Name_dk>
+		</Item>
+		<Item>
+			<Identification>6344</Identification>
+			<Name_dk>Ovnanlæg</Name_dk>
+		</Item>
+		<Item>
+			<Identification>6345</Identification>
+			<Name_dk>Strålevarmeanlæg</Name_dk>
+		</Item>
+		<Item>
+			<Identification>6346</Identification>
+			<Name_dk>Varmekabelanlæg</Name_dk>
+		</Item>
+		<Item>
+			<Identification>635</Identification>
+			<Name_dk>Installationer for belysning</Name_dk>
+		</Item>
+		<Item>
+			<Identification>6351</Identification>
+			<Name_dk>Anlæg for almen belysning</Name_dk>
+		</Item>
+		<Item>
+			<Identification>6352</Identification>
+			<Name_dk>Anlæg for lavvoltsbelysning</Name_dk>
+		</Item>
+		<Item>
+			<Identification>6353</Identification>
+			<Name_dk>Anlæg for sikkerhedsbelysning</Name_dk>
+		</Item>
+		<Item>
+			<Identification>6354</Identification>
+			<Name_dk>Anlæg for særbelysning</Name_dk>
+		</Item>
+		<Item>
+			<Identification>6355</Identification>
+			<Name_dk>Lys styrings anlæg</Name_dk>
+		</Item>
+		<Item>
+			<Identification>636</Identification>
+			<Name_dk>Belysningsarmaturer</Name_dk>
+		</Item>
+		<Item>
+			<Identification>6361</Identification>
+			<Name_dk>Armatur - almen belysning</Name_dk>
+		</Item>
+		<Item>
+			<Identification>6362</Identification>
+			<Name_dk>Armatur - sikkerhedsbelysning</Name_dk>
+		</Item>
+		<Item>
+			<Identification>6363</Identification>
+			<Name_dk>Armatur - special belysning</Name_dk>
+		</Item>
+		<Item>
+			<Identification>637</Identification>
+			<Name_dk>Kraftinstallationer</Name_dk>
+		</Item>
+		<Item>
+			<Identification>6371</Identification>
+			<Name_dk>Stikkontakter</Name_dk>
+		</Item>
+		<Item>
+			<Identification>6372</Identification>
+			<Name_dk>Arbejdsstationer</Name_dk>
+		</Item>
+		<Item>
+			<Identification>6373</Identification>
+			<Name_dk>Udtag</Name_dk>
+		</Item>
+		<Item>
+			<Identification>6374</Identification>
+			<Name_dk>Forsyning til brugsgenstande</Name_dk>
+		</Item>
+		<Item>
+			<Identification>638</Identification>
+			<Name_dk>Vedvarende energi - Intern forsyning</Name_dk>
+		</Item>
+		<Item>
+			<Identification>6381</Identification>
+			<Name_dk>Solcelleanlæg</Name_dk>
+		</Item>
+		<Item>
+			<Identification>6382</Identification>
+			<Name_dk>Vindmøller</Name_dk>
+		</Item>
+		<Item>
+			<Identification>6383</Identification>
+			<Name_dk>Varmepumper</Name_dk>
+		</Item>
+		<Item>
+			<Identification>64</Identification>
+			<Name_dk>Kommunikation og information</Name_dk>
+		</Item>
+		<Item>
+			<Identification>641</Identification>
+			<Name_dk>Kommunikation</Name_dk>
+		</Item>
+		<Item>
+			<Identification>6411</Identification>
+			<Name_dk>Telefon, fastnet</Name_dk>
+		</Item>
+		<Item>
+			<Identification>6412</Identification>
+			<Name_dk>Telefon, trådløs</Name_dk>
+		</Item>
+		<Item>
+			<Identification>6413</Identification>
+			<Name_dk>Radioanlæg</Name_dk>
+		</Item>
+		<Item>
+			<Identification>6414</Identification>
+			<Name_dk>Personsøgeanlæg</Name_dk>
+		</Item>
+		<Item>
+			<Identification>6415</Identification>
+			<Name_dk>Dør- og porttelefoner</Name_dk>
+		</Item>
+		<Item>
+			<Identification>6416</Identification>
+			<Name_dk>Patientkaldeanlæg</Name_dk>
+		</Item>
+		<Item>
+			<Identification>642</Identification>
+			<Name_dk>Information</Name_dk>
+		</Item>
+		<Item>
+			<Identification>6421</Identification>
+			<Name_dk>Optagetanlæg</Name_dk>
+		</Item>
+		<Item>
+			<Identification>6422</Identification>
+			<Name_dk>Ringeanlæg</Name_dk>
+		</Item>
+		<Item>
+			<Identification>6423</Identification>
+			<Name_dk>Scoringsanlæg</Name_dk>
+		</Item>
+		<Item>
+			<Identification>6424</Identification>
+			<Name_dk>Ur-anlæg</Name_dk>
+		</Item>
+		<Item>
+			<Identification>643</Identification>
+			<Name_dk>Audio, video og antenne</Name_dk>
+		</Item>
+		<Item>
+			<Identification>6431</Identification>
+			<Name_dk>Højttaleranlæg</Name_dk>
+		</Item>
+		<Item>
+			<Identification>6432</Identification>
+			<Name_dk>Mikrofonanlæg</Name_dk>
+		</Item>
+		<Item>
+			<Identification>6433</Identification>
+			<Name_dk>Teleslyngeanlæg</Name_dk>
+		</Item>
+		<Item>
+			<Identification>6434</Identification>
+			<Name_dk>Videoanlæg</Name_dk>
+		</Item>
+		<Item>
+			<Identification>6435</Identification>
+			<Name_dk>Antenneanlæg</Name_dk>
+		</Item>
+		<Item>
+			<Identification>6436</Identification>
+			<Name_dk>AV-anlæg</Name_dk>
+		</Item>
+		<Item>
+			<Identification>644</Identification>
+			<Name_dk>IT-infrastruktur</Name_dk>
+		</Item>
+		<Item>
+			<Identification>6441</Identification>
+			<Name_dk>Kabling-og X-felter</Name_dk>
+		</Item>
+		<Item>
+			<Identification>6442</Identification>
+			<Name_dk>DAS - antenneanlæg</Name_dk>
+		</Item>
+		<Item>
+			<Identification>6443</Identification>
+			<Name_dk>Positionerings system</Name_dk>
+		</Item>
+		<Item>
+			<Identification>65</Identification>
+			<Name_dk>Sikring</Name_dk>
+		</Item>
+		<Item>
+			<Identification>651</Identification>
+			<Name_dk>Adgangssikring</Name_dk>
+		</Item>
+		<Item>
+			<Identification>6511</Identification>
+			<Name_dk>Automatiske Indbruds Alarm-anlæg (AIA-anlæg)</Name_dk>
+		</Item>
+		<Item>
+			<Identification>6512</Identification>
+			<Name_dk>Automatisk Dør Kontrol anlæg (ADK-anlæg)</Name_dk>
+		</Item>
+		<Item>
+			<Identification>6513</Identification>
+			<Name_dk>Internt TV-overvågningsanlæg (ITV-anlæg)</Name_dk>
+		</Item>
+		<Item>
+			<Identification>652</Identification>
+			<Name_dk>Sikringsanlæg</Name_dk>
+		</Item>
+		<Item>
+			<Identification>6521</Identification>
+			<Name_dk>Automatisk Brandalarm Anlæg (ABA-anlæg)</Name_dk>
+		</Item>
+		<Item>
+			<Identification>6522</Identification>
+			<Name_dk>Automatiske Brand Dør Luknings anlæg (ABDL-anlæg)</Name_dk>
+		</Item>
+		<Item>
+			<Identification>6523</Identification>
+			<Name_dk>Automatiske Gas Alarm anlæg (AGA-anlæg)</Name_dk>
+		</Item>
+		<Item>
+			<Identification>6524</Identification>
+			<Name_dk>Automatiske Rum Sluknings anlæg (ARS-anlæg)</Name_dk>
+		</Item>
+		<Item>
+			<Identification>6525</Identification>
+			<Name_dk>Automatisk Vand Sluknings anlæg (AVS-anlæg)</Name_dk>
+		</Item>
+		<Item>
+			<Identification>6526</Identification>
+			<Name_dk>Automatiske Brand Ventilations - anlæg (ABV-anlæg)</Name_dk>
+		</Item>
+		<Item>
+			<Identification>653</Identification>
+			<Name_dk>Personsikring</Name_dk>
+		</Item>
+		<Item>
+			<Identification>6531</Identification>
+			<Name_dk>Varslingsanlæg (VAR-anlæg)</Name_dk>
+		</Item>
+		<Item>
+			<Identification>6532</Identification>
+			<Name_dk>Nødkaldeanlæg</Name_dk>
+		</Item>
+		<Item>
+			<Identification>6533</Identification>
+			<Name_dk>Alarmanlæg i køle- og fryserum</Name_dk>
+		</Item>
+		<Item>
+			<Identification>6534</Identification>
+			<Name_dk>Detektoranlæg for personsikring</Name_dk>
+		</Item>
+		<Item>
+			<Identification>6535</Identification>
+			<Name_dk>Overfaldsalarm</Name_dk>
+		</Item>
+		<Item>
+			<Identification>66</Identification>
+			<Name_dk>Bygningsautomation</Name_dk>
+		</Item>
+		<Item>
+			<Identification>661</Identification>
+			<Name_dk>Managementsystemer</Name_dk>
+		</Item>
+		<Item>
+			<Identification>6611</Identification>
+			<Name_dk>BMS-anlæg</Name_dk>
+		</Item>
+		<Item>
+			<Identification>662</Identification>
+			<Name_dk>Central tilstandsstyring</Name_dk>
+		</Item>
+		<Item>
+			<Identification>6621</Identification>
+			<Name_dk>CTS-anlæg</Name_dk>
+		</Item>
+		<Item>
+			<Identification>6622</Identification>
+			<Name_dk>KNX_IBI-anlæg med central styring</Name_dk>
+		</Item>
+		<Item>
+			<Identification>663</Identification>
+			<Name_dk>Decentral tilstandsstyring</Name_dk>
+		</Item>
+		<Item>
+			<Identification>6631</Identification>
+			<Name_dk>IBI-anlæg med distribueret styring</Name_dk>
+		</Item>
+		<Item>
+			<Identification>67</Identification>
+			<Name_dk>Beskyttelse</Name_dk>
+		</Item>
+		<Item>
+			<Identification>671</Identification>
+			<Name_dk>Overspændingsbeskyttelse</Name_dk>
+		</Item>
+		<Item>
+			<Identification>6711</Identification>
+			<Name_dk>Lyn beskyttelse</Name_dk>
+		</Item>
+		<Item>
+			<Identification>672</Identification>
+			<Name_dk>Udligningsforbindelser</Name_dk>
+		</Item>
+		<Item>
+			<Identification>6721</Identification>
+			<Name_dk>Hovedudligningsforbindelse</Name_dk>
+		</Item>
+		<Item>
+			<Identification>6722</Identification>
+			<Name_dk>Lokal udligningsforbindeles uden jordforbindelse</Name_dk>
+		</Item>
+		<Item>
+			<Identification>6723</Identification>
+			<Name_dk>Supplerende udligningsforbindelse</Name_dk>
+		</Item>
+		<Item>
+			<Identification>6724</Identification>
+			<Name_dk>Medikoteknisk udligningsforbindelse</Name_dk>
+		</Item>
+		<Item>
+			<Identification>673</Identification>
+			<Name_dk>Katodisk Beskyttelse</Name_dk>
+		</Item>
+		<Item>
+			<Identification>6731</Identification>
+			<Name_dk>Katodisk beskyttelse af rør - og tankanlæg</Name_dk>
+		</Item>
+		<Item>
+			<Identification>6732</Identification>
+			<Name_dk>Katodisk beskyttelse af armering</Name_dk>
+		</Item>
+		<Item>
+			<Identification>674</Identification>
+			<Name_dk>EMI</Name_dk>
+		</Item>
+		<Item>
+			<Identification>6741</Identification>
+			<Name_dk>Særlige forholdsregler mod elektromagnetisk interferens</Name_dk>
+		</Item>
+		<Item>
+			<Identification>6742</Identification>
+			<Name_dk>Skærmning scannerrum</Name_dk>
+		</Item>
+		<Item>
+			<Identification>68</Identification>
+			<Name_dk>Person- og materialetransport</Name_dk>
+		</Item>
+		<Item>
+			<Identification>681</Identification>
+			<Name_dk>Persontransport</Name_dk>
+		</Item>
+		<Item>
+			<Identification>6811</Identification>
+			<Name_dk>Elevatorer</Name_dk>
+		</Item>
+		<Item>
+			<Identification>6812</Identification>
+			<Name_dk>Lifte</Name_dk>
+		</Item>
+		<Item>
+			<Identification>6813</Identification>
+			<Name_dk>Rullende trapper</Name_dk>
+		</Item>
+		<Item>
+			<Identification>6814</Identification>
+			<Name_dk>Rullende fortove</Name_dk>
+		</Item>
+		<Item>
+			<Identification>682</Identification>
+			<Name_dk>Gods- og materialetransport</Name_dk>
+		</Item>
+		<Item>
+			<Identification>6821</Identification>
+			<Name_dk>Elevatorer</Name_dk>
+		</Item>
+		<Item>
+			<Identification>6822</Identification>
+			<Name_dk>Lifte og sakseborde</Name_dk>
+		</Item>
+		<Item>
+			<Identification>6823</Identification>
+			<Name_dk>Transportbånd</Name_dk>
+		</Item>
+		<Item>
+			<Identification>6824</Identification>
+			<Name_dk>Kraner og taljer</Name_dk>
+		</Item>
+		<Item>
+			<Identification>6825</Identification>
+			<Name_dk>AGV-system</Name_dk>
+		</Item>
+		<Item>
+			<Identification>6826</Identification>
+			<Name_dk>Rørpost - system</Name_dk>
+		</Item>
+		<Item>
+			<Identification>7</Identification>
+			<Name_dk>Inventar og teknisk udstyr</Name_dk>
+		</Item>
+		<Item>
+			<Identification>70</Identification>
+			<Name_dk>Inventar, terræn</Name_dk>
+		</Item>
+		<Item>
+			<Identification>701</Identification>
+			<Name_dk>Tekniske inventarenheder</Name_dk>
+			<Description_dk>Mekaniske pullerter</Description_dk>
+		</Item>
+		<Item>
+			<Identification>702</Identification>
+			<Name_dk>Tavler, skilte og skærme</Name_dk>
+		</Item>
+		<Item>
+			<Identification>703</Identification>
+			<Name_dk>Opbevaring, affaldsstativer, cykelstativer, postkasser</Name_dk>
+		</Item>
+		<Item>
+			<Identification>704</Identification>
+			<Name_dk>Bordmøbler</Name_dk>
+		</Item>
+		<Item>
+			<Identification>705</Identification>
+			<Name_dk>Siddemøbler</Name_dk>
+		</Item>
+		<Item>
+			<Identification>706</Identification>
+			<Name_dk>Afskærmninger</Name_dk>
+			<Description_dk>Fx Busskur, læskærm, cykelafskærmning</Description_dk>
+		</Item>
+		<Item>
+			<Identification>709</Identification>
+			<Name_dk>Øvrigt inventar i terræn</Name_dk>
+		</Item>
+		<Item>
+			<Identification>71</Identification>
+			<Name_dk>Inventar, fastmonteret</Name_dk>
+		</Item>
+		<Item>
+			<Identification>711</Identification>
+			<Name_dk>Skabe, skuffer</Name_dk>
+		</Item>
+		<Item>
+			<Identification>712</Identification>
+			<Name_dk>Reoler, hylder</Name_dk>
+		</Item>
+		<Item>
+			<Identification>713</Identification>
+			<Name_dk>Siddemøbler, liggemøbler</Name_dk>
+		</Item>
+		<Item>
+			<Identification>714</Identification>
+			<Name_dk>Gardiner, persienner, skærmvægge, forhæng</Name_dk>
+		</Item>
+		<Item>
+			<Identification>715</Identification>
+			<Name_dk>Borde, bordplader</Name_dk>
+		</Item>
+		<Item>
+			<Identification>716</Identification>
+			<Name_dk>Skilte, tavler</Name_dk>
+		</Item>
+		<Item>
+			<Identification>717</Identification>
+			<Name_dk>Garniture</Name_dk>
+			<Description_dk>Spejle, knager, dispensere</Description_dk>
+		</Item>
+		<Item>
+			<Identification>719</Identification>
+			<Name_dk>Øvrigt fastmonteret inventar</Name_dk>
+		</Item>
+		<Item>
+			<Identification>72</Identification>
+			<Name_dk>Inventar, løst</Name_dk>
+		</Item>
+		<Item>
+			<Identification>721</Identification>
+			<Name_dk>Skabe, skuffer</Name_dk>
+		</Item>
+		<Item>
+			<Identification>722</Identification>
+			<Name_dk>Reoler</Name_dk>
+		</Item>
+		<Item>
+			<Identification>723</Identification>
+			<Name_dk>Siddemøbler, liggemøbler</Name_dk>
+		</Item>
+		<Item>
+			<Identification>724</Identification>
+			<Name_dk>Skærmvægge, forhæng</Name_dk>
+		</Item>
+		<Item>
+			<Identification>725</Identification>
+			<Name_dk>Borde</Name_dk>
+		</Item>
+		<Item>
+			<Identification>726</Identification>
+			<Name_dk>Stativer, hylder</Name_dk>
+		</Item>
+		<Item>
+			<Identification>727</Identification>
+			<Name_dk>Måtter, tæpper, løbere</Name_dk>
+		</Item>
+		<Item>
+			<Identification>729</Identification>
+			<Name_dk>Øvrigt løst inventar</Name_dk>
+		</Item>
+		<Item>
+			<Identification>73</Identification>
+			<Name_dk>Inventar, tekniske-, IT- og av-inventarenheder</Name_dk>
+		</Item>
+		<Item>
+			<Identification>731</Identification>
+			<Name_dk>AV-udstyr</Name_dk>
+		</Item>
+		<Item>
+			<Identification>732</Identification>
+			<Name_dk>IT-udstyr</Name_dk>
+		</Item>
+		<Item>
+			<Identification>733</Identification>
+			<Name_dk>Belysning</Name_dk>
+		</Item>
+		<Item>
+			<Identification>734</Identification>
+			<Name_dk>Automater</Name_dk>
+			<Description_dk>Mad, drikke</Description_dk>
+		</Item>
+		<Item>
+			<Identification>735</Identification>
+			<Name_dk>Brandslukningsudstyr</Name_dk>
+			<Description_dk>Brandtæppe, pulverslukke</Description_dk>
+		</Item>
+		<Item>
+			<Identification>736</Identification>
+			<Name_dk>Hårde hvidevarer</Name_dk>
+		</Item>
+		<Item>
+			<Identification>8</Identification>
+			<Name_dk>Beplantning og belægning</Name_dk>
+		</Item>
+		<Item>
+			<Identification>80</Identification>
+			<Name_dk>Belægninger og befæstelser</Name_dk>
+		</Item>
+		<Item>
+			<Identification>801</Identification>
+			<Name_dk>Asfalt belægninger</Name_dk>
+		</Item>
+		<Item>
+			<Identification>802</Identification>
+			<Name_dk>Betonstøbte belægninger</Name_dk>
+		</Item>
+		<Item>
+			<Identification>803</Identification>
+			<Name_dk>Gummibelægninger</Name_dk>
+		</Item>
+		<Item>
+			<Identification>804</Identification>
+			<Name_dk>Flise -og stenbelægninger</Name_dk>
+			<Description_dk>Betonfliser, brosten, græsarmering</Description_dk>
+		</Item>
+		<Item>
+			<Identification>805</Identification>
+			<Name_dk>Skræver og grus</Name_dk>
+		</Item>
+		<Item>
+			<Identification>806</Identification>
+			<Name_dk>Kantbegrænsninger</Name_dk>
+		</Item>
+		<Item>
+			<Identification>807</Identification>
+			<Name_dk>Afstribning</Name_dk>
+		</Item>
+		<Item>
+			<Identification>809</Identification>
+			<Name_dk>Øvrige belægninger og befæstelser</Name_dk>
+			<Description_dk>Skærver, stigrus, flisebelægning, skærver makadam</Description_dk>
+		</Item>
+		<Item>
+			<Identification>81</Identification>
+			<Name_dk>Beplantning</Name_dk>
+		</Item>
+		<Item>
+			<Identification>811</Identification>
+			<Name_dk>Træer</Name_dk>
+			<Description_dk>Eg, Bøg, Lind, Birk, Ask, Pil, Fyr, Gran</Description_dk>
+		</Item>
+		<Item>
+			<Identification>812</Identification>
+			<Name_dk>Hække</Name_dk>
+			<Description_dk>Bøg, avnbøg, lind, eg, liguster, taks, buksbum</Description_dk>
+		</Item>
+		<Item>
+			<Identification>813</Identification>
+			<Name_dk>Buske</Name_dk>
+			<Description_dk>Rhondondendron,</Description_dk>
+		</Item>
+		<Item>
+			<Identification>814</Identification>
+			<Name_dk>Bunddække</Name_dk>
+			<Description_dk>Vedbend, vinca, vinterglans, kranstop etc.</Description_dk>
+		</Item>
+		<Item>
+			<Identification>815</Identification>
+			<Name_dk>Stauder</Name_dk>
+			<Description_dk>Prydgrys, Geranium, hosta etc.</Description_dk>
+		</Item>
+		<Item>
+			<Identification>816</Identification>
+			<Name_dk>Græsarealer</Name_dk>
+			<Description_dk>Sået græs, rullegræs</Description_dk>
+		</Item>
+		<Item>
+			<Identification>819</Identification>
+			<Name_dk>Øvrig beplantning</Name_dk>
+		</Item>
+		<Item>
+			<Identification>9</Identification>
+			<Name_dk>Projektudstyr</Name_dk>
+		</Item>
+		<Item>
+			<Identification>91</Identification>
+			<Name_dk>Projektudstyr ARK</Name_dk>
+		</Item>
+		<Item>
+			<Identification>92</Identification>
+			<Name_dk>Projektudstyr KON</Name_dk>
+		</Item>
+		<Item>
+			<Identification>93</Identification>
+			<Name_dk>Projektudstyr VENT</Name_dk>
+		</Item>
+		<Item>
+			<Identification>94</Identification>
+			<Name_dk>Projektudstyr VVS</Name_dk>
+		</Item>
+		<Item>
+			<Identification>95</Identification>
+			<Name_dk>Projektudstyr EL</Name_dk>
+		</Item>
+		<Item>
+			<Identification>96</Identification>
+			<Name_dk>Projektudstyr LAND</Name_dk>
+		</Item>
+	</Items>
+</System>
