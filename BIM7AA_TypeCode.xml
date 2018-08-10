@@ -1,807 +1,1001 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <System xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
 	<Source>bim7aa</Source>
-	<Edition>2.0</Edition>
-	<EditionDate>2014-10-28</EditionDate>
+	<Edition>2.1</Edition>
+	<EditionDate>2015-02-02</EditionDate>
 	<Name>BIM7AA Typecode</Name>
 	<Description_dk>Typekode til digitale byggeobjekter</Description_dk>
+	<Description_en>Type code for digital building objects</Description_en>
 	<Location>www.bim7aa.dk</Location>
 	<Items>
 		<Item>
 			<Identification>0</Identification>
 			<Name_dk>Generiske bygningsdele</Name_dk>
+			<Name_en>Generic building elements</Name_en>
 		</Item>
 		<Item>
 			<Identification>00</Identification>
 			<Name_dk>Generiske objekter</Name_dk>
+			<Name_en>Generic objects</Name_en>
 		</Item>
 		<Item>
 			<Identification>001</Identification>
 			<Name_dk>Generisk objekt ARK</Name_dk>
+			<Name_en>Generic objects ARCH</Name_en>
 		</Item>
 		<Item>
 			<Identification>002</Identification>
 			<Name_dk>Generisk objekt KON</Name_dk>
+			<Name_en>Generic objects CON</Name_en>
 		</Item>
 		<Item>
 			<Identification>003</Identification>
 			<Name_dk>Generisk objekt VENT</Name_dk>
+			<Name_en>Generic objects HVAC</Name_en>
 		</Item>
 		<Item>
 			<Identification>004</Identification>
 			<Name_dk>Generisk objekt VVS</Name_dk>
+			<Name_en>Generic objects PLU</Name_en>
 		</Item>
 		<Item>
 			<Identification>005</Identification>
 			<Name_dk>Generisk objekt EL</Name_dk>
+			<Name_en>Generic objects EL</Name_en>
 		</Item>
 		<Item>
 			<Identification>006</Identification>
 			<Name_dk>Generisk objekt LAND</Name_dk>
+			<Name_en>Generic objects LAND </Name_en>
 		</Item>
 		<Item>
 			<Identification>01</Identification>
 			<Name_dk>Generiske bygningsdele</Name_dk>
+			<Name_en>Generic building elements</Name_en>
 		</Item>
 		<Item>
 			<Identification>011</Identification>
 			<Name_dk>Generiske vægge og fundamenter</Name_dk>
+			<Name_en>Generic walls and foundations</Name_en>
 		</Item>
 		<Item>
 			<Identification>012</Identification>
 			<Name_dk>Generiske gulv eller dæk</Name_dk>
+			<Name_en>Generic floors and slabs</Name_en>
 		</Item>
 		<Item>
 			<Identification>013</Identification>
 			<Name_dk>Generiske tage</Name_dk>
+			<Name_en>Generic roofs</Name_en>
 		</Item>
 		<Item>
 			<Identification>014</Identification>
 			<Name_dk>Generiske åbninger</Name_dk>
+			<Name_en>Generic openings</Name_en>
 		</Item>
 		<Item>
 			<Identification>015</Identification>
 			<Name_dk>Generiske søjler og bjælker</Name_dk>
+			<Name_en>Generic columns and beams</Name_en>
 		</Item>
 		<Item>
 			<Identification>016</Identification>
 			<Name_dk>Generiske lofter</Name_dk>
+			<Name_en>Generic ceilings</Name_en>
 		</Item>
 		<Item>
 			<Identification>017</Identification>
 			<Name_dk>Generiske trappe-og rampeelementer</Name_dk>
+			<Name_en>Generic stairs and ramps</Name_en>
 		</Item>
 		<Item>
 			<Identification>018</Identification>
 			<Name_dk>Generiske værn og håndlister</Name_dk>
+			<Name_en>Generic railings and handrails</Name_en>
 		</Item>
 		<Item>
 			<Identification>019</Identification>
 			<Name_dk>Generiske vinduesfacadesystemer</Name_dk>
+			<Name_en>Generic curtain walls</Name_en>
 		</Item>
 		<Item>
 			<Identification>02</Identification>
 			<Name_dk>Eksisterende bygningsdele</Name_dk>
+			<Name_en>Existing building elements</Name_en>
 		</Item>
 		<Item>
 			<Identification>021</Identification>
 			<Name_dk>Eksisterende vægge og fundamenter</Name_dk>
+			<Name_en>Existing walls and foundations</Name_en>
 		</Item>
 		<Item>
 			<Identification>022</Identification>
 			<Name_dk>Eksisterende gulv eller dæk</Name_dk>
+			<Name_en>Existing floors and slabs</Name_en>
 		</Item>
 		<Item>
 			<Identification>023</Identification>
 			<Name_dk>Eksisterende tage</Name_dk>
+			<Name_en>Existing roofs</Name_en>
 		</Item>
 		<Item>
 			<Identification>024</Identification>
 			<Name_dk>Eksisterende åbninger</Name_dk>
+			<Name_en>Existing openings</Name_en>
 		</Item>
 		<Item>
 			<Identification>025</Identification>
 			<Name_dk>Eksisterende søjler og bjælker</Name_dk>
+			<Name_en>Existing columns and beams</Name_en>
 		</Item>
 		<Item>
 			<Identification>026</Identification>
 			<Name_dk>Eksisterende lofter</Name_dk>
+			<Name_en>Existing ceilings</Name_en>
 		</Item>
 		<Item>
 			<Identification>027</Identification>
 			<Name_dk>Eksisterende trappe-og rampeelementer</Name_dk>
+			<Name_en>Existing stairs and ramps</Name_en>
 		</Item>
 		<Item>
 			<Identification>028</Identification>
 			<Name_dk>Eksisterende værn og håndlister</Name_dk>
+			<Name_en>Existing railings and handrails</Name_en>
 		</Item>
 		<Item>
 			<Identification>029</Identification>
 			<Name_dk>Eksisterende vinduesfacadesystemer</Name_dk>
+			<Name_en>Existing curtain walls</Name_en>
 		</Item>
 		<Item>
 			<Identification>1</Identification>
 			<Name_dk>Bygningsbasis</Name_dk>
+			<Name_en>Substructure</Name_en>
 		</Item>
 		<Item>
 			<Identification>10</Identification>
 			<Name_dk>Bygningsbasis, terræn</Name_dk>
+			<Name_en>Substructure, terrain</Name_en>
 		</Item>
 		<Item>
 			<Identification>101</Identification>
 			<Name_dk>Forberedt grund</Name_dk>
+			<Name_en>Prepared ground</Name_en>
 		</Item>
 		<Item>
 			<Identification>102</Identification>
 			<Name_dk>Byggegrube inkl. afstivning</Name_dk>
+			<Name_en>Cofferdam incl. stiffening</Name_en>
 		</Item>
 		<Item>
 			<Identification>103</Identification>
 			<Name_dk>Spunsvægge</Name_dk>
+			<Name_en>Sheet pile walls</Name_en>
 		</Item>
 		<Item>
 			<Identification>12</Identification>
 			<Name_dk>Fundamenter</Name_dk>
+			<Name_en>Foundations</Name_en>
 		</Item>
 		<Item>
 			<Identification>121</Identification>
 			<Name_dk>Liniefundamenter</Name_dk>
+			<Name_en>Strip foundations</Name_en>
 		</Item>
 		<Item>
 			<Identification>122</Identification>
 			<Name_dk>Punktfundamenter</Name_dk>
+			<Name_en>Pad foundations</Name_en>
 		</Item>
 		<Item>
 			<Identification>123</Identification>
 			<Name_dk>Pladefundamenter</Name_dk>
+			<Name_en>Footing foundations</Name_en>
 		</Item>
 		<Item>
 			<Identification>124</Identification>
 			<Name_dk>Opmurede fundamenter</Name_dk>
+			<Name_en>Block foundations</Name_en>
 			<Description_dk>Fundablokke, Kampesten, Lecatermblokke</Description_dk>
 		</Item>
 		<Item>
 			<Identification>125</Identification>
-			<Name_dk>Maskin fundamenter</Name_dk>
+			<Name_dk>Maskinfundamenter</Name_dk>
+			<Name_en>Machine foundations</Name_en>
 			<Description_dk>Skal betragtes som en helt anden funktion ift. andre fundamenter, vibrationer osv.</Description_dk>
 		</Item>
 		<Item>
 			<Identification>126</Identification>
 			<Name_dk>Pælefundamenter og brøndfundamenter</Name_dk>
+			<Name_en>Pile foundations/ circular footing</Name_en>
 		</Item>
 		<Item>
 			<Identification>127</Identification>
 			<Name_dk>Fundamenter i terræn</Name_dk>
+			<Name_en>Landscape foundations</Name_en>
 		</Item>
 		<Item>
 			<Identification>13</Identification>
 			<Name_dk>Terrændæk, bygning</Name_dk>
+			<Name_en>Floor beds</Name_en>
 		</Item>
 		<Item>
 			<Identification>131</Identification>
 			<Name_dk>Terrændæk</Name_dk>
+			<Name_en>Ground floor slabs</Name_en>
 		</Item>
 		<Item>
 			<Identification>18</Identification>
 			<Name_dk>Bygningsbasis bygning, øvrige</Name_dk>
+			<Name_en>Other substructure elements</Name_en>
 		</Item>
 		<Item>
 			<Identification>181</Identification>
 			<Name_dk>Kanaler under terrændæk</Name_dk>
+			<Name_en>Ducts  under the terrain</Name_en>
 		</Item>
 		<Item>
 			<Identification>182</Identification>
 			<Name_dk>Gruber og sumpe</Name_dk>
+			<Name_en>Quarrys and swamps</Name_en>
 		</Item>
 		<Item>
 			<Identification>2</Identification>
 			<Name_dk>Primære bygningsdele</Name_dk>
+			<Name_en>Primary building elements</Name_en>
 		</Item>
 		<Item>
 			<Identification>20</Identification>
 			<Name_dk>Primære bygningsdele, terræn</Name_dk>
+			<Name_en>Primary building elements, terrain</Name_en>
 		</Item>
 		<Item>
 			<Identification>201</Identification>
 			<Name_dk>Hegnsmure</Name_dk>
+			<Name_en>Wall fences</Name_en>
 		</Item>
 		<Item>
 			<Identification>202</Identification>
 			<Name_dk>Støttemure</Name_dk>
+			<Name_en>Retaining walls</Name_en>
 		</Item>
 		<Item>
 			<Identification>203</Identification>
 			<Name_dk>Teknikgange i terræn inkl. rørbroer og tunneler</Name_dk>
+			<Name_en>Underground service access incl. pipe bridges and tunnels</Name_en>
 		</Item>
 		<Item>
 			<Identification>204</Identification>
 			<Name_dk>Fodgængerbroer, viadukter m.m.</Name_dk>
+			<Name_en>Pedestrian bridges, viaducts etc.</Name_en>
 		</Item>
 		<Item>
 			<Identification>205</Identification>
 			<Name_dk>Trapper og ramper i terræn</Name_dk>
+			<Name_en>Stairs and ramps in terrain</Name_en>
 		</Item>
 		<Item>
 			<Identification>21</Identification>
 			<Name_dk>Ydervægge, primære bygningsdele</Name_dk>
+			<Name_en>Exterior walls, primary building elements</Name_en>
 		</Item>
 		<Item>
 			<Identification>211</Identification>
 			<Name_dk>Udvendige vægelementer</Name_dk>
+			<Name_en>Exterior precast walls</Name_en>
 		</Item>
 		<Item>
 			<Identification>212</Identification>
 			<Name_dk>Udvendige pladsstøbte vægge</Name_dk>
+			<Name_en>Exterior in situ walls</Name_en>
 		</Item>
 		<Item>
 			<Identification>213</Identification>
 			<Name_dk>Udvendige opmurede vægge</Name_dk>
+			<Name_en>Exterior masonry walls</Name_en>
 		</Item>
 		<Item>
 			<Identification>214</Identification>
 			<Name_dk>Udvendige skeletkonstruerede vægge</Name_dk>
+			<Name_en>Exterior frame structured walls</Name_en>
 			<Description_dk>Inkl. Evt. interrimslukning</Description_dk>
 		</Item>
 		<Item>
 			<Identification>215</Identification>
 			<Name_dk>Udvendige skeletkonstruerede vægskørter</Name_dk>
+			<Name_en>Exterior frame structured bulkhead walls </Name_en>
 		</Item>
 		<Item>
 			<Identification>216</Identification>
 			<Name_dk>Udvendige vinduesfacadesystemer</Name_dk>
+			<Name_en>Exterior curtain walls</Name_en>
 		</Item>
 		<Item>
 			<Identification>217</Identification>
 			<Name_dk>Udvendige isoleringsvægsystemer</Name_dk>
+			<Name_en>Exterior wall Insulation </Name_en>
 		</Item>
 		<Item>
 			<Identification>218</Identification>
 			<Name_dk>Udvendige lyskasser</Name_dk>
+			<Name_en>Exterior light shafts</Name_en>
 		</Item>
 		<Item>
 			<Identification>22</Identification>
 			<Name_dk>Indervægge, primære bygningsdele</Name_dk>
+			<Name_en>Interior Walls, primary building elements</Name_en>
 		</Item>
 		<Item>
 			<Identification>221</Identification>
 			<Name_dk>Indvendige vægelementer</Name_dk>
+			<Name_en>Interior precast walls</Name_en>
 		</Item>
 		<Item>
 			<Identification>222</Identification>
 			<Name_dk>Indvendige pladsstøbte vægge</Name_dk>
+			<Name_en>Interior in situ walls</Name_en>
 		</Item>
 		<Item>
 			<Identification>223</Identification>
 			<Name_dk>Indvendige opmurede vægge</Name_dk>
+			<Name_en>Interior brick walls</Name_en>
 		</Item>
 		<Item>
 			<Identification>224</Identification>
 			<Name_dk>Indvendige skeletkonstruerede vægge</Name_dk>
+			<Name_en>Interior frame structured walls</Name_en>
 			<Description_dk>Inkl. Evt. interrimslukning</Description_dk>
 		</Item>
 		<Item>
 			<Identification>225</Identification>
 			<Name_dk>Indvendige skeletkonstruerede vægskørter</Name_dk>
+			<Name_en>Interior frame structured bulkhead walls</Name_en>
 		</Item>
 		<Item>
 			<Identification>226</Identification>
 			<Name_dk>Indvendige  glassystemvægge</Name_dk>
+			<Name_en>Interior curtain walls</Name_en>
 		</Item>
 		<Item>
 			<Identification>23</Identification>
 			<Name_dk>Dæk, primære bygningsdele</Name_dk>
+			<Name_en>Slab, primary building elements</Name_en>
 		</Item>
 		<Item>
 			<Identification>231</Identification>
 			<Name_dk>Dækelementer</Name_dk>
+			<Name_en>Precast slabs</Name_en>
 		</Item>
 		<Item>
 			<Identification>232</Identification>
 			<Name_dk>Pladsstøbte dæk</Name_dk>
+			<Name_en>In-situ slabs</Name_en>
 		</Item>
 		<Item>
 			<Identification>233</Identification>
 			<Name_dk>Skeletkonstruerede dæk</Name_dk>
+			<Name_en>Frame structured slabs</Name_en>
 			<Description_dk>Inkl. Evt. interrimslukning</Description_dk>
 		</Item>
 		<Item>
 			<Identification>234</Identification>
 			<Name_dk>Afretningslag</Name_dk>
+			<Name_en>Screeds</Name_en>
 			<Description_dk>Afretningslag oven på råbeton, fx anhydrit eller traditionelt mørtel. Ved lokal faldopbygning vedrører dette 334.</Description_dk>
 		</Item>
 		<Item>
 			<Identification>239</Identification>
 			<Name_dk>Øvrige dæk</Name_dk>
+			<Name_en>Other slabs </Name_en>
 			<Description_dk>Ristedæk, komposit…</Description_dk>
 		</Item>
 		<Item>
 			<Identification>24</Identification>
 			<Name_dk>Trapper og ramper, primære bygningsdele</Name_dk>
+			<Name_en>Stairs and ramps primary building elements</Name_en>
 		</Item>
 		<Item>
 			<Identification>241</Identification>
-			<Name_dk>Element trapper</Name_dk>
+			<Name_dk>Elementtrapper</Name_dk>
+			<Name_en>Precast stairs</Name_en>
 		</Item>
 		<Item>
 			<Identification>242</Identification>
 			<Name_dk>Pladsstøbte trapper</Name_dk>
+			<Name_en>In-situ stairs</Name_en>
 		</Item>
 		<Item>
 			<Identification>243</Identification>
 			<Name_dk>Sammensatte trapper</Name_dk>
+			<Name_en>Composite stairs</Name_en>
 			<Description_dk>Sammensatte ståltrapper, trætrapper mv.</Description_dk>
 		</Item>
 		<Item>
 			<Identification>244</Identification>
 			<Name_dk>Element ramper</Name_dk>
+			<Name_en>Precast ramps</Name_en>
 		</Item>
 		<Item>
 			<Identification>245</Identification>
 			<Name_dk>Pladsstøbte ramper</Name_dk>
+			<Name_en>In-situ ramps</Name_en>
 		</Item>
 		<Item>
 			<Identification>246</Identification>
 			<Name_dk>Sammensatte ramper</Name_dk>
+			<Name_en>Composite ramps</Name_en>
 		</Item>
 		<Item>
 			<Identification>247</Identification>
 			<Name_dk>Faste stiger, lejdere og trin</Name_dk>
+			<Name_en>Fixed ladders, ladders and steps</Name_en>
 		</Item>
 		<Item>
 			<Identification>25</Identification>
 			<Name_dk>Bærende bjælker og søjler</Name_dk>
+			<Name_en>Load-bearing beams and columns </Name_en>
 		</Item>
 		<Item>
 			<Identification>251</Identification>
 			<Name_dk>Elementbjælker</Name_dk>
+			<Name_en>Precast beams</Name_en>
 			<Description_dk>Beton</Description_dk>
 		</Item>
 		<Item>
 			<Identification>252</Identification>
 			<Name_dk>Pladsstøbte bjælker</Name_dk>
+			<Name_en>In-situ beams</Name_en>
 		</Item>
 		<Item>
 			<Identification>253</Identification>
 			<Name_dk>Stålbjælker</Name_dk>
+			<Name_en>Steel beams</Name_en>
 		</Item>
 		<Item>
 			<Identification>254</Identification>
 			<Name_dk>Øvrige bjælker</Name_dk>
+			<Name_en>Other beams</Name_en>
 			<Description_dk>Fx træbjælker, og tegl overliggere</Description_dk>
 		</Item>
 		<Item>
 			<Identification>255</Identification>
 			<Name_dk>Elementsøjler</Name_dk>
+			<Name_en>Precast columns</Name_en>
 		</Item>
 		<Item>
 			<Identification>256</Identification>
 			<Name_dk>Pladsstøbte søjler</Name_dk>
+			<Name_en>In-situ columns</Name_en>
 		</Item>
 		<Item>
 			<Identification>257</Identification>
 			<Name_dk>Stålsøjler</Name_dk>
+			<Name_en>Steel columns</Name_en>
 		</Item>
 		<Item>
 			<Identification>259</Identification>
 			<Name_dk>Øvrige søjler</Name_dk>
+			<Name_en>Other columns </Name_en>
 			<Description_dk>Fx træsøjler og tegl overliggere</Description_dk>
 		</Item>
 		<Item>
 			<Identification>26</Identification>
 			<Name_dk>Altaner og altangange, primære bygningsdele</Name_dk>
+			<Name_en>Balconies and exterior hallways, primary building elements</Name_en>
 		</Item>
 		<Item>
 			<Identification>261</Identification>
-			<Name_dk>Element altaner og altangange</Name_dk>
+			<Name_dk>Elementaltaner og altangange</Name_dk>
+			<Name_en>Precast balconies and exterior hallways</Name_en>
 		</Item>
 		<Item>
 			<Identification>262</Identification>
 			<Name_dk>Pladsstøbte altaner og altangange</Name_dk>
+			<Name_en>In-situ balconies and exterior hallways </Name_en>
 		</Item>
 		<Item>
 			<Identification>263</Identification>
 			<Name_dk>Sammmensatte altaner og altangange</Name_dk>
+			<Name_en>Composite balconies and exterior hallways </Name_en>
 			<Description_dk>Inkl. stålaltaner</Description_dk>
 		</Item>
 		<Item>
 			<Identification>27</Identification>
 			<Name_dk>Tage, primære bygningsdele</Name_dk>
+			<Name_en>Roofs, primary building elements</Name_en>
 		</Item>
 		<Item>
 			<Identification>271</Identification>
 			<Name_dk>Spærstage</Name_dk>
+			<Name_en>Rafter roofs</Name_en>
 			<Description_dk>Fx pladskonstruerede tage, bjælkelagsspær</Description_dk>
 		</Item>
 		<Item>
 			<Identification>272</Identification>
 			<Name_dk>Tagkassetter</Name_dk>
+			<Name_en>Roof cassettes</Name_en>
 		</Item>
 		<Item>
 			<Identification>273</Identification>
 			<Name_dk>Varme tage</Name_dk>
+			<Name_en>Warm roofs</Name_en>
 			<Description_dk>Skal betragtes som den afsluttende tagisolering + membran oven på en bærende dæk/bygningsdel.</Description_dk>
 		</Item>
 		<Item>
 			<Identification>274</Identification>
 			<Name_dk>Vinduessystemtag</Name_dk>
+			<Name_en>Curtain roofs</Name_en>
 		</Item>
 		<Item>
 			<Identification>275</Identification>
 			<Name_dk>Flytbare tage</Name_dk>
+			<Name_en>Movable roofs</Name_en>
 		</Item>
 		<Item>
 			<Identification>276</Identification>
 			<Name_dk>Baldakiner og overdækninger</Name_dk>
+			<Name_en>Canopies and shelters</Name_en>
 		</Item>
 		<Item>
 			<Identification>279</Identification>
 			<Name_dk>Øvrige tagværker</Name_dk>
+			<Name_en>Other roof constructions</Name_en>
 			<Description_dk>Fx. ETFE-luftpuder</Description_dk>
 		</Item>
 		<Item>
 			<Identification>28</Identification>
 			<Name_dk>Primære bygningsdele, øvrige</Name_dk>
+			<Name_en>Other primary building elements</Name_en>
 		</Item>
 		<Item>
 			<Identification>3</Identification>
 			<Name_dk>Kompletterende bygningsdele</Name_dk>
+			<Name_en>Seconddary building elements</Name_en>
 		</Item>
 		<Item>
 			<Identification>30</Identification>
 			<Name_dk>Kompletterende bygningsdele, terræn</Name_dk>
+			<Name_en>Secondary element, terrain </Name_en>
 		</Item>
 		<Item>
 			<Identification>301</Identification>
 			<Name_dk>Hegn, afskærmning</Name_dk>
+			<Name_en>Fences, foreclosure</Name_en>
 			<Description_dk>Fx gitterhegn, opstamning, stationære pullerter (se evt. 701 for "Mekaniske pullerter"</Description_dk>
 		</Item>
 		<Item>
 			<Identification>302</Identification>
 			<Name_dk>Komplettering trapper, ramper i terræn</Name_dk>
+			<Name_en>Complementary stairs, ramps in terrain</Name_en>
 		</Item>
 		<Item>
 			<Identification>31</Identification>
 			<Name_dk>Ydervægge, komplettering</Name_dk>
+			<Name_en>Secondary elements to external walls</Name_en>
 		</Item>
 		<Item>
 			<Identification>311</Identification>
 			<Name_dk>Udvendige døre </Name_dk>
+			<Name_en>Exterior doors</Name_en>
 		</Item>
 		<Item>
 			<Identification>312</Identification>
 			<Name_dk>Udvendige vinduer</Name_dk>
+			<Name_en>Exterior windows</Name_en>
 		</Item>
 		<Item>
 			<Identification>313</Identification>
 			<Name_dk>Udvendige døre, vinduesfacadesystemer</Name_dk>
+			<Name_en>Exterior doors, curtain wall systems</Name_en>
 		</Item>
 		<Item>
 			<Identification>314</Identification>
 			<Name_dk>Udvendige vinduesopluk, vinduesfacadesystemer</Name_dk>
+			<Name_en>Exterior window openings, curtain wall systems</Name_en>
 		</Item>
 		<Item>
 			<Identification>315</Identification>
 			<Name_dk>Udvendige ruder, blændfelter og karmprofiler, vinduesfacadesystemer</Name_dk>
+			<Name_en>Exterior panels, spandrels and mullion profiles, curtain wall systems</Name_en>
 		</Item>
 		<Item>
 			<Identification>316</Identification>
 			<Name_dk>Udvendige porte og karusseldøre</Name_dk>
+			<Name_en>Exterior ports and revolving doors</Name_en>
 		</Item>
 		<Item>
 			<Identification>317</Identification>
 			<Name_dk>Ydervægge, afskærmninger</Name_dk>
+			<Name_en>Exterior wall, screening walls</Name_en>
 			<Description_dk>Solskærme, skodder, jalousier, gitre m.m.</Description_dk>
 		</Item>
 		<Item>
 			<Identification>319</Identification>
 			<Name_dk>Øvrig ydervæg komplettering</Name_dk>
+			<Name_en>Other </Name_en>
 			<Description_dk>Sålbænke, lydabsorbenter, gitre, Indfatninger, fodpaneler, vægforstærkninger, inddækninger og fendere</Description_dk>
 		</Item>
 		<Item>
 			<Identification>32</Identification>
 			<Name_dk>Indervægge, komplettering</Name_dk>
+			<Name_en>Interior, secondary elements</Name_en>
 		</Item>
 		<Item>
 			<Identification>321</Identification>
 			<Name_dk>Indvendige døre</Name_dk>
+			<Name_en>Interior doors</Name_en>
 		</Item>
 		<Item>
 			<Identification>322</Identification>
 			<Name_dk>Indvendige vinduer, luger og lemme</Name_dk>
+			<Name_en>Interior windows, hatches and trapdoor s</Name_en>
 		</Item>
 		<Item>
 			<Identification>323</Identification>
 			<Name_dk>Indvendige døre, glassystemvægge</Name_dk>
+			<Name_en>Interior doors, curtain wall systems</Name_en>
 		</Item>
 		<Item>
 			<Identification>324</Identification>
 			<Name_dk>Indvendige vinduesopluk, glassystemvægge</Name_dk>
+			<Name_en>Interior window openings, curtain wall systems</Name_en>
 		</Item>
 		<Item>
 			<Identification>325</Identification>
 			<Name_dk>Indvendige ruder, blændfelter og karmprofiler, glassystemvægge</Name_dk>
+			<Name_en>Interior windows, spandrels and mullions, curtain walls</Name_en>
 		</Item>
 		<Item>
 			<Identification>326</Identification>
 			<Name_dk>Indvendige porte og karruseldøre</Name_dk>
+			<Name_en>Interior doors and revolving doors</Name_en>
 		</Item>
 		<Item>
 			<Identification>327</Identification>
 			<Name_dk>Bevægelige indervægge</Name_dk>
+			<Name_en>Moveable inside walls</Name_en>
 		</Item>
 		<Item>
 			<Identification>328</Identification>
 			<Name_dk>Indervægge, afskærmning</Name_dk>
+			<Name_en>Internal walls,  screening walls</Name_en>
 			<Description_dk>Indvendige solskærme, skodder, brand- og røgafskærmning, jalousier</Description_dk>
 		</Item>
 		<Item>
 			<Identification>329</Identification>
 			<Name_dk>Øvrig indervæg komplettering</Name_dk>
+			<Name_en>Other secondary elements</Name_en>
 			<Description_dk>lydabsorbenter, gitre, Indfatninger, fodpaneler, vægforstærkninger, inddækninger og fendere</Description_dk>
 		</Item>
 		<Item>
 			<Identification>33</Identification>
 			<Name_dk>Dæk, komplettering</Name_dk>
+			<Name_en>Slab, kompletteringcomplementary</Name_en>
 		</Item>
 		<Item>
 			<Identification>331</Identification>
 			<Name_dk>Opbyggede gulve</Name_dk>
+			<Name_en>Floor finishes raised on joists </Name_en>
 			<Description_dk>Plankegulve på strøer,  faldopbygget mørtellag med fliser,</Description_dk>
 		</Item>
 		<Item>
 			<Identification>332</Identification>
 			<Name_dk>Svømmende gulve</Name_dk>
+			<Name_en>Floating floors</Name_en>
 		</Item>
 		<Item>
 			<Identification>333</Identification>
 			<Name_dk>Lemme, riste, måtterammer</Name_dk>
+			<Name_en>Hatches, grates, mat wells, doormat frames</Name_en>
 		</Item>
 		<Item>
 			<Identification>334</Identification>
 			<Name_dk>Støbte gulve</Name_dk>
+			<Name_en>In-situ floors</Name_en>
 			<Description_dk>Fx ved lokalt faldopbygning,</Description_dk>
 		</Item>
 		<Item>
 			<Identification>335</Identification>
 			<Name_dk>Opbyggede belægninger</Name_dk>
+			<Name_en>Raised finishes</Name_en>
 		</Item>
 		<Item>
 			<Identification>336</Identification>
 			<Name_dk>Lydabsorbenter</Name_dk>
+			<Name_en>Sound absorbers</Name_en>
 		</Item>
 		<Item>
 			<Identification>339</Identification>
 			<Name_dk>Øvrig dækkomplettering</Name_dk>
+			<Name_en>Other complementaries</Name_en>
 		</Item>
 		<Item>
 			<Identification>34</Identification>
 			<Name_dk>Trapper og ramper, komplettering</Name_dk>
+			<Name_en>Stairs and ramps, secondary</Name_en>
 		</Item>
 		<Item>
 			<Identification>341</Identification>
 			<Name_dk>Gelændere, rækværker og håndlister udvendige</Name_dk>
+			<Name_en>Railings, guardrails and handrails, exterior</Name_en>
 		</Item>
 		<Item>
 			<Identification>342</Identification>
 			<Name_dk>Gelændere, rækværker og håndlister indvendige</Name_dk>
+			<Name_en>Railings, guardrails and handrails, interior </Name_en>
 		</Item>
 		<Item>
 			<Identification>343</Identification>
 			<Name_dk>Riste, måtterammer</Name_dk>
+			<Name_en>Gratings, mat wells, doormat frames</Name_en>
 		</Item>
 		<Item>
 			<Identification>349</Identification>
 			<Name_dk>Øvrig trappekomplettering</Name_dk>
+			<Name_en>Other stair complementaries</Name_en>
 		</Item>
 		<Item>
 			<Identification>35</Identification>
 			<Name_dk>Lofter, komplettering</Name_dk>
+			<Name_en>Ceiling, complementary</Name_en>
 		</Item>
 		<Item>
 			<Identification>351</Identification>
 			<Name_dk>Indvendige nedhængte lofter</Name_dk>
+			<Name_en>Interior suspended ceilings</Name_en>
 		</Item>
 		<Item>
 			<Identification>352</Identification>
 			<Name_dk>Udvendige nedhængte lofter</Name_dk>
+			<Name_en>Exterior suspended ceilings</Name_en>
 		</Item>
 		<Item>
 			<Identification>353</Identification>
 			<Name_dk>Indvendige påbyggede lofter</Name_dk>
+			<Name_en>Interior surface mounted ceilings</Name_en>
 		</Item>
 		<Item>
 			<Identification>354</Identification>
 			<Name_dk>Udvendige påbyggede lofter</Name_dk>
+			<Name_en>Exterior surface mounted ceilings</Name_en>
 		</Item>
 		<Item>
 			<Identification>355</Identification>
 			<Name_dk>Indvendige loftskørter</Name_dk>
+			<Name_en>Interior ceiling skirts</Name_en>
 		</Item>
 		<Item>
 			<Identification>356</Identification>
 			<Name_dk>Udvendige loftskørter</Name_dk>
+			<Name_en>Exterior ceiling skirts  </Name_en>
 		</Item>
 		<Item>
 			<Identification>357</Identification>
 			<Name_dk>Lydabsorbenter</Name_dk>
+			<Name_en>Sound absorbers</Name_en>
 		</Item>
 		<Item>
 			<Identification>36</Identification>
 			<Name_dk>Altaner, komplettering</Name_dk>
+			<Name_en>Balconies, secondary </Name_en>
 		</Item>
 		<Item>
 			<Identification>361</Identification>
 			<Name_dk>Rækværker, brystninger</Name_dk>
+			<Name_en>Handrails, parapets</Name_en>
 		</Item>
 		<Item>
 			<Identification>37</Identification>
 			<Name_dk>Tage, komplettering</Name_dk>
+			<Name_en>Roof, secondary</Name_en>
 		</Item>
 		<Item>
 			<Identification>371</Identification>
 			<Name_dk>Kviste</Name_dk>
+			<Name_en>Dormers</Name_en>
 		</Item>
 		<Item>
 			<Identification>372</Identification>
 			<Name_dk>Ovenlys, røg- og taglemme</Name_dk>
+			<Name_en>Skylights, smoke hatches and roof access hatches</Name_en>
 		</Item>
 		<Item>
 			<Identification>373</Identification>
 			<Name_dk>Solskærme til ovenlys</Name_dk>
+			<Name_en>Sunscreen for skylights</Name_en>
 		</Item>
 		<Item>
 			<Identification>374</Identification>
 			<Name_dk>Sikring</Name_dk>
+			<Name_en>Mansafe systems</Name_en>
 			<Description_dk>Snefang, faldsikring, rækværker, lynafledning, afskærmninger m.m.</Description_dk>
 		</Item>
 		<Item>
 			<Identification>375</Identification>
 			<Name_dk>Brandkamserstatning</Name_dk>
+			<Name_en>Fire parapet walls</Name_en>
 		</Item>
 		<Item>
 			<Identification>376</Identification>
 			<Name_dk>Inddækninger</Name_dk>
+			<Name_en>Flashings</Name_en>
 			<Description_dk>Tagudhæng, vindskeder, sternbrædder</Description_dk>
 		</Item>
 		<Item>
 			<Identification>377</Identification>
 			<Name_dk>Belægninger på færdige tagflader</Name_dk>
+			<Name_en>Coverings on finished roofs</Name_en>
 		</Item>
 		<Item>
 			<Identification>38</Identification>
 			<Name_dk>Kompletterende bygningsdele bygning, øvrige</Name_dk>
+			<Name_en>Other secondary building elements</Name_en>
 		</Item>
 		<Item>
 			<Identification>4</Identification>
 			<Name_dk>Overfladebygningsdele</Name_dk>
-		</Item>
-		<Item>
-			<Identification>40</Identification>
-			<Name_dk>Udvendige vægoverflader</Name_dk>
-		</Item>
-		<Item>
-			<Identification>401</Identification>
-			<Name_dk>Malerbehandlinger</Name_dk>
-		</Item>
-		<Item>
-			<Identification>402</Identification>
-			<Name_dk>Beklædninger, påmurede</Name_dk>
-		</Item>
-		<Item>
-			<Identification>403</Identification>
-			<Name_dk>Beklædninger, monteret</Name_dk>
+			<Name_en>Finish surfaces</Name_en>
 		</Item>
 		<Item>
 			<Identification>41</Identification>
-			<Name_dk>Indvendige vægoverflader</Name_dk>
+			<Name_dk>Udvendige vægoverflader</Name_dk>
+			<Name_en>Exterior wall finishes</Name_en>
 		</Item>
 		<Item>
 			<Identification>411</Identification>
 			<Name_dk>Malerbehandlinger</Name_dk>
+			<Name_en>Painted</Name_en>
 		</Item>
 		<Item>
 			<Identification>412</Identification>
 			<Name_dk>Beklædninger, påmurede</Name_dk>
+			<Name_en>Coverings, cladded</Name_en>
 		</Item>
 		<Item>
 			<Identification>413</Identification>
 			<Name_dk>Beklædninger, monteret</Name_dk>
+			<Name_en>Coverings, mounted</Name_en>
 		</Item>
 		<Item>
 			<Identification>42</Identification>
-			<Name_dk>Dæk- og gulvoverflader</Name_dk>
+			<Name_dk>Indvendige vægoverflader</Name_dk>
+			<Name_en>Interior wall finishes</Name_en>
 		</Item>
 		<Item>
 			<Identification>421</Identification>
 			<Name_dk>Malerbehandlinger</Name_dk>
+			<Name_en>Painted</Name_en>
 		</Item>
 		<Item>
 			<Identification>422</Identification>
 			<Name_dk>Beklædninger, påmurede</Name_dk>
+			<Name_en>Coverings, cladded</Name_en>
 		</Item>
 		<Item>
 			<Identification>423</Identification>
 			<Name_dk>Beklædninger, monteret</Name_dk>
+			<Name_en>Coverings, mounted</Name_en>
 		</Item>
 		<Item>
 			<Identification>43</Identification>
-			<Name_dk>Trapper og ramper, overflader</Name_dk>
+			<Name_dk>Dæk- og gulvoverflader</Name_dk>
+			<Name_en>Suspended floors &amp; finishes</Name_en>
 		</Item>
 		<Item>
 			<Identification>431</Identification>
 			<Name_dk>Malerbehandlinger</Name_dk>
+			<Name_en>Painted</Name_en>
 		</Item>
 		<Item>
 			<Identification>432</Identification>
 			<Name_dk>Beklædninger, påmurede</Name_dk>
+			<Name_en>Coverings, cladded</Name_en>
 		</Item>
 		<Item>
 			<Identification>433</Identification>
 			<Name_dk>Beklædninger, monteret</Name_dk>
+			<Name_en>Coverings, mounted</Name_en>
 		</Item>
 		<Item>
 			<Identification>44</Identification>
-			<Name_dk>Lofter, overflader</Name_dk>
+			<Name_dk>Trapper og ramper, overflader</Name_dk>
+			<Name_en>Stairs and ramps, finishes</Name_en>
 		</Item>
 		<Item>
 			<Identification>441</Identification>
 			<Name_dk>Malerbehandlinger</Name_dk>
+			<Name_en>Painted</Name_en>
 		</Item>
 		<Item>
 			<Identification>442</Identification>
 			<Name_dk>Beklædninger, påmurede</Name_dk>
+			<Name_en>Coverings, cladded</Name_en>
 		</Item>
 		<Item>
 			<Identification>443</Identification>
 			<Name_dk>Beklædninger, monteret</Name_dk>
+			<Name_en>Coverings, mounted</Name_en>
 		</Item>
 		<Item>
 			<Identification>45</Identification>
-			<Name_dk>Altaner, overflader</Name_dk>
+			<Name_dk>Lofter, overflader</Name_dk>
+			<Name_en>Ceiling, finishes</Name_en>
 		</Item>
 		<Item>
 			<Identification>451</Identification>
 			<Name_dk>Malerbehandlinger</Name_dk>
+			<Name_en>Painted</Name_en>
 		</Item>
 		<Item>
 			<Identification>452</Identification>
 			<Name_dk>Beklædninger, påmurede</Name_dk>
+			<Name_en>Coverings, cladded</Name_en>
 		</Item>
 		<Item>
 			<Identification>453</Identification>
 			<Name_dk>Beklædninger, monteret</Name_dk>
+			<Name_en>Coverings, mounted</Name_en>
 		</Item>
 		<Item>
 			<Identification>46</Identification>
-			<Name_dk>Tage, overflader</Name_dk>
+			<Name_dk>Altaner, overflader</Name_dk>
+			<Name_en>Balconies, finishes</Name_en>
 		</Item>
 		<Item>
 			<Identification>461</Identification>
 			<Name_dk>Malerbehandlinger</Name_dk>
+			<Name_en>Painted</Name_en>
 		</Item>
 		<Item>
 			<Identification>462</Identification>
-			<Name_dk>Tagdækning</Name_dk>
+			<Name_dk>Beklædninger, påmurede</Name_dk>
+			<Name_en>Coverings, cladded</Name_en>
+		</Item>
+		<Item>
+			<Identification>463</Identification>
+			<Name_dk>Beklædninger, monteret</Name_dk>
+			<Name_en>Coverings, mounted</Name_en>
 		</Item>
 		<Item>
 			<Identification>47</Identification>
+			<Name_dk>Tage, overflader</Name_dk>
+			<Name_en>Roof, finishes</Name_en>
+		</Item>
+		<Item>
+			<Identification>471</Identification>
+			<Name_dk>Malerbehandlinger</Name_dk>
+			<Name_en>Painted</Name_en>
+		</Item>
+		<Item>
+			<Identification>472</Identification>
+			<Name_dk>Tagdækning</Name_dk>
+			<Name_en>Coverings, cladded</Name_en>
+		</Item>
+		<Item>
+			<Identification>48</Identification>
 			<Name_dk>Overflader bygning, øvrige</Name_dk>
+			<Name_en>Surface building, other</Name_en>
 		</Item>
 		<Item>
 			<Identification>5</Identification>
 			<Name_dk>VVS- og ventilationsanlæg</Name_dk>
+			<Name_en>Plumbing - and HVAC control systems</Name_en>
 		</Item>
 		<Item>
 			<Identification>50</Identification>
 			<Name_dk>VVS-anlæg, terræn</Name_dk>
+			<Name_en>Plumbing installations, terrain </Name_en>
 		</Item>
 		<Item>
 			<Identification>501</Identification>
 			<Name_dk>Brønde</Name_dk>
+			<Name_en>Wells</Name_en>
 		</Item>
 		<Item>
 			<Identification>5011</Identification>
 			<Name_dk>Brønd</Name_dk>
+			<Name_en>Other accessories</Name_en>
 		</Item>
 		<Item>
 			<Identification>5012</Identification>
@@ -830,6 +1024,7 @@
 		<Item>
 			<Identification>502</Identification>
 			<Name_dk>Øvrige tilbehør</Name_dk>
+			<Name_en>Other accessories</Name_en>
 		</Item>
 		<Item>
 			<Identification>5021</Identification>
@@ -854,30 +1049,37 @@
 		<Item>
 			<Identification>51</Identification>
 			<Name_dk>Logistik</Name_dk>
+			<Name_en>Logistics</Name_en>
 		</Item>
 		<Item>
 			<Identification>52</Identification>
 			<Name_dk>Afløb og sanitet</Name_dk>
+			<Name_en>Drainage and sanitation</Name_en>
 		</Item>
 		<Item>
 			<Identification>521</Identification>
 			<Name_dk>Afløb o.lign tilbehør</Name_dk>
+			<Name_en>Drainage  and the like accessories</Name_en>
 		</Item>
 		<Item>
 			<Identification>5211</Identification>
 			<Name_dk>Gulvafløb</Name_dk>
+			<Name_en>Toilet and shower</Name_en>
 		</Item>
 		<Item>
 			<Identification>5212</Identification>
 			<Name_dk>Specialafløb</Name_dk>
+			<Name_en>Sinks and taps</Name_en>
 		</Item>
 		<Item>
 			<Identification>5213</Identification>
 			<Name_dk>Drypkop</Name_dk>
+			<Name_en>Drain connection to equipment</Name_en>
 		</Item>
 		<Item>
 			<Identification>5214</Identification>
 			<Name_dk>Vakuumventil</Name_dk>
+			<Name_en>Other drainage and sanitation</Name_en>
 		</Item>
 		<Item>
 			<Identification>5215</Identification>
@@ -890,6 +1092,7 @@
 		<Item>
 			<Identification>522</Identification>
 			<Name_dk>Toilet og bad</Name_dk>
+			<Name_en>Toilet and shower</Name_en>
 		</Item>
 		<Item>
 			<Identification>5221</Identification>
@@ -914,6 +1117,7 @@
 		<Item>
 			<Identification>523</Identification>
 			<Name_dk>Vaske og haner</Name_dk>
+			<Name_en>Sinks and taps</Name_en>
 		</Item>
 		<Item>
 			<Identification>5231</Identification>
@@ -942,6 +1146,7 @@
 		<Item>
 			<Identification>524</Identification>
 			<Name_dk>Afløbstilslutning til udstyr</Name_dk>
+			<Name_en>Drain connection to equipment</Name_en>
 		</Item>
 		<Item>
 			<Identification>5241</Identification>
@@ -974,6 +1179,7 @@
 		<Item>
 			<Identification>525</Identification>
 			<Name_dk>Øvrige afløb og sanitet</Name_dk>
+			<Name_en>Other drainage and sanitation</Name_en>
 		</Item>
 		<Item>
 			<Identification>5251</Identification>
@@ -986,10 +1192,12 @@
 		<Item>
 			<Identification>53</Identification>
 			<Name_dk>Vand (koldt/varmt vand, behandlet vand)</Name_dk>
+			<Name_en>Water (cold / hot water, treated water)</Name_en>
 		</Item>
 		<Item>
 			<Identification>531</Identification>
 			<Name_dk>Mekanisk udstyr</Name_dk>
+			<Name_en>Mechanical equipment</Name_en>
 		</Item>
 		<Item>
 			<Identification>5311</Identification>
@@ -1021,11 +1229,13 @@
 		</Item>
 		<Item>
 			<Identification>54</Identification>
-			<Name_dk>Luftarter (gas, trykluft, vakuum)</Name_dk>
+			<Name_dk>Luftarter (gas, trykluft, vakuum, damp)</Name_dk>
+			<Name_en>Gases (gas, compressed air, vacuum, steam)</Name_en>
 		</Item>
 		<Item>
 			<Identification>541</Identification>
 			<Name_dk>Mekanisk udstyr</Name_dk>
+			<Name_en>Mechanical equipment</Name_en>
 		</Item>
 		<Item>
 			<Identification>5411</Identification>
@@ -1050,10 +1260,12 @@
 		<Item>
 			<Identification>55</Identification>
 			<Name_dk>Køling</Name_dk>
+			<Name_en>Cooling</Name_en>
 		</Item>
 		<Item>
 			<Identification>551</Identification>
 			<Name_dk>Mekanisk udstyr</Name_dk>
+			<Name_en>Mechanical equipment</Name_en>
 		</Item>
 		<Item>
 			<Identification>5511</Identification>
@@ -1082,18 +1294,22 @@
 		<Item>
 			<Identification>56</Identification>
 			<Name_dk>Varmesystem</Name_dk>
+			<Name_en>Heating System</Name_en>
 		</Item>
 		<Item>
 			<Identification>561</Identification>
 			<Name_dk>Varmegivere</Name_dk>
+			<Name_en>Heating Devices</Name_en>
 		</Item>
 		<Item>
 			<Identification>5611</Identification>
 			<Name_dk>Varmeflade</Name_dk>
+			<Name_en>Burner</Name_en>
 		</Item>
 		<Item>
 			<Identification>5612</Identification>
 			<Name_dk>Radiator</Name_dk>
+			<Name_en>Other mechanical equipment</Name_en>
 		</Item>
 		<Item>
 			<Identification>5613</Identification>
@@ -1122,10 +1338,12 @@
 		<Item>
 			<Identification>562</Identification>
 			<Name_dk>Fyr</Name_dk>
+			<Name_en>Burner</Name_en>
 		</Item>
 		<Item>
 			<Identification>5621</Identification>
 			<Name_dk>Gasfyr</Name_dk>
+			<Name_en>Other mechanical equipment</Name_en>
 		</Item>
 		<Item>
 			<Identification>5622</Identification>
@@ -1134,6 +1352,7 @@
 		<Item>
 			<Identification>563</Identification>
 			<Name_dk>Øvrige mekanisk udstyr</Name_dk>
+			<Name_en>Other mechanical equipment</Name_en>
 		</Item>
 		<Item>
 			<Identification>5631</Identification>
@@ -1150,42 +1369,45 @@
 		<Item>
 			<Identification>57</Identification>
 			<Name_dk>Ventilationsanlæg</Name_dk>
+			<Name_en>HVAC SYSTEM</Name_en>
 		</Item>
 		<Item>
 			<Identification>571</Identification>
 			<Name_dk>Runde og rektangulære kanaler</Name_dk>
+			<Name_en>Round and rectangular ducts</Name_en>
 		</Item>
 		<Item>
 			<Identification>5711</Identification>
-			<Name_dk>SR, Rund kanal, Påstik</Name_dk>
+			<Name_dk>SR, rund kanal, påstik</Name_dk>
 		</Item>
 		<Item>
 			<Identification>5712</Identification>
-			<Name_dk>SR, Rund kanal, T-stykke</Name_dk>
+			<Name_dk>SR, rund kanal, T-stykke</Name_dk>
 		</Item>
 		<Item>
 			<Identification>5713</Identification>
-			<Name_dk>SR, Rund kanal, kort radie</Name_dk>
+			<Name_dk>SR, rund kanal, kort radie</Name_dk>
 		</Item>
 		<Item>
 			<Identification>5714</Identification>
-			<Name_dk>Rektangulær kanal, Kort Radie, Påstik</Name_dk>
+			<Name_dk>Rektangulær kanal, kort radie, påstik</Name_dk>
 		</Item>
 		<Item>
 			<Identification>5715</Identification>
-			<Name_dk>Rektangulær kanal, Radiebøj, Påstik</Name_dk>
+			<Name_dk>Rektangulær kanal, radiebøjning, påstik</Name_dk>
 		</Item>
 		<Item>
 			<Identification>5716</Identification>
-			<Name_dk>Rektangulær kanal, Kort Radie, T-stykke</Name_dk>
+			<Name_dk>Rektangulær kanal, kort radie, T-stykke</Name_dk>
 		</Item>
 		<Item>
 			<Identification>5717</Identification>
-			<Name_dk>Rektangulær kanal, Radiebøj, T-stykke</Name_dk>
+			<Name_dk>Rektangulær kanal, radiebøjning, T-stykke</Name_dk>
 		</Item>
 		<Item>
 			<Identification>572</Identification>
 			<Name_dk>Øvrige kanaler</Name_dk>
+			<Name_en>Other channels</Name_en>
 		</Item>
 		<Item>
 			<Identification>5721</Identification>
@@ -1202,6 +1424,7 @@
 		<Item>
 			<Identification>573</Identification>
 			<Name_dk>Kanal tilbehør</Name_dk>
+			<Name_en>Duct accessories</Name_en>
 		</Item>
 		<Item>
 			<Identification>5731</Identification>
@@ -1242,10 +1465,12 @@
 		<Item>
 			<Identification>574</Identification>
 			<Name_dk>Anlæg, køle/varme flader veksler</Name_dk>
+			<Name_en>Installations cooling / heating coils exchanger</Name_en>
 		</Item>
 		<Item>
 			<Identification>5741</Identification>
 			<Name_dk>Ventilationsaggregat</Name_dk>
+			<Name_en>Installations cooling / heating coils exchanger</Name_en>
 		</Item>
 		<Item>
 			<Identification>5742</Identification>
@@ -1278,6 +1503,7 @@
 		<Item>
 			<Identification>575</Identification>
 			<Name_dk>Ventilator</Name_dk>
+			<Name_en>Fan</Name_en>
 		</Item>
 		<Item>
 			<Identification>5751</Identification>
@@ -1310,6 +1536,7 @@
 		<Item>
 			<Identification>576</Identification>
 			<Name_dk>Armatur</Name_dk>
+			<Name_en>Luminaire</Name_en>
 		</Item>
 		<Item>
 			<Identification>5761</Identification>
@@ -1350,6 +1577,7 @@
 		<Item>
 			<Identification>577</Identification>
 			<Name_dk>Ventiler</Name_dk>
+			<Name_en>Valves</Name_en>
 		</Item>
 		<Item>
 			<Identification>5771</Identification>
@@ -1362,6 +1590,7 @@
 		<Item>
 			<Identification>578</Identification>
 			<Name_dk>Tilslutninger til udstyr</Name_dk>
+			<Name_en>Connections to the equipment</Name_en>
 		</Item>
 		<Item>
 			<Identification>5781</Identification>
@@ -1370,6 +1599,7 @@
 		<Item>
 			<Identification>579</Identification>
 			<Name_dk>Taghætter / gennemføringer</Name_dk>
+			<Name_en>Roof terminals / bushings</Name_en>
 		</Item>
 		<Item>
 			<Identification>5791</Identification>
@@ -1402,10 +1632,12 @@
 		<Item>
 			<Identification>58</Identification>
 			<Name_dk>Sprinkleranlæg</Name_dk>
+			<Name_en>Sprinkler</Name_en>
 		</Item>
 		<Item>
 			<Identification>581</Identification>
 			<Name_dk>Tilbehør</Name_dk>
+			<Name_en>Accessories</Name_en>
 		</Item>
 		<Item>
 			<Identification>5811</Identification>
@@ -1422,6 +1654,7 @@
 		<Item>
 			<Identification>582</Identification>
 			<Name_dk>Mekanisk udstyr</Name_dk>
+			<Name_en>Mechanical equipment</Name_en>
 		</Item>
 		<Item>
 			<Identification>5821</Identification>
@@ -1442,38 +1675,47 @@
 		<Item>
 			<Identification>59</Identification>
 			<Name_dk>Tværgående komponenter, VVS</Name_dk>
+			<Name_en>Transverse components, plumbing</Name_en>
 		</Item>
 		<Item>
 			<Identification>591</Identification>
 			<Name_dk>Metal rør. (Stål, kobber, alu osv.)</Name_dk>
+			<Name_en>Metal pipes</Name_en>
 		</Item>
 		<Item>
 			<Identification>5911</Identification>
 			<Name_dk>Galvaniserede rør</Name_dk>
+			<Name_en>Plastic pipe or similar</Name_en>
 		</Item>
 		<Item>
 			<Identification>5912</Identification>
 			<Name_dk>Præisolerede stålrør</Name_dk>
+			<Name_en>Other pipes</Name_en>
 		</Item>
 		<Item>
 			<Identification>5913</Identification>
 			<Name_dk>Rustfri stålrør</Name_dk>
+			<Name_en>Static pipe fittings</Name_en>
 		</Item>
 		<Item>
 			<Identification>5914</Identification>
 			<Name_dk>Sorte stålrør</Name_dk>
+			<Name_en>Dyunamic pipe fittings</Name_en>
 		</Item>
 		<Item>
 			<Identification>5915</Identification>
 			<Name_dk>Elforsinket stålrør</Name_dk>
+			<Name_en>Motordriven pipe fittings</Name_en>
 		</Item>
 		<Item>
 			<Identification>5916</Identification>
 			<Name_dk>Kobberrør, bløde</Name_dk>
+			<Name_en>Meters</Name_en>
 		</Item>
 		<Item>
 			<Identification>5917</Identification>
 			<Name_dk>Kobberrør, hårde</Name_dk>
+			<Name_en>Pipes – and pipe insulation</Name_en>
 		</Item>
 		<Item>
 			<Identification>5918</Identification>
@@ -1482,6 +1724,7 @@
 		<Item>
 			<Identification>592</Identification>
 			<Name_dk>Plastik rør o.lign.</Name_dk>
+			<Name_en>Plastic pipe or similar</Name_en>
 		</Item>
 		<Item>
 			<Identification>5921</Identification>
@@ -1522,6 +1765,7 @@
 		<Item>
 			<Identification>593</Identification>
 			<Name_dk>Øvrige rør</Name_dk>
+			<Name_en>Other pipes</Name_en>
 		</Item>
 		<Item>
 			<Identification>5931</Identification>
@@ -1534,10 +1778,12 @@
 		<Item>
 			<Identification>594</Identification>
 			<Name_dk>Statisk ventiler</Name_dk>
+			<Name_en>Static pipe fittings</Name_en>
 		</Item>
 		<Item>
 			<Identification>5941</Identification>
 			<Name_dk>Afspæringsventil</Name_dk>
+			<Name_en>Static pipe fittings</Name_en>
 		</Item>
 		<Item>
 			<Identification>5942</Identification>
@@ -1570,6 +1816,7 @@
 		<Item>
 			<Identification>595</Identification>
 			<Name_dk>Dynamisk ventiler</Name_dk>
+			<Name_en>Dyunamic pipe fittings</Name_en>
 		</Item>
 		<Item>
 			<Identification>5951</Identification>
@@ -1586,6 +1833,7 @@
 		<Item>
 			<Identification>596</Identification>
 			<Name_dk>Motordrevne rørtilbehør</Name_dk>
+			<Name_en>Motordriven pipe fittings</Name_en>
 		</Item>
 		<Item>
 			<Identification>5961</Identification>
@@ -1598,6 +1846,7 @@
 		<Item>
 			<Identification>597</Identification>
 			<Name_dk>Målere, filtre og øvrige</Name_dk>
+			<Name_en>Meters</Name_en>
 		</Item>
 		<Item>
 			<Identification>5971</Identification>
@@ -1626,6 +1875,7 @@
 		<Item>
 			<Identification>598</Identification>
 			<Name_dk>Isoleringsarbejde</Name_dk>
+			<Name_en>Pipes – and pipe insulation</Name_en>
 		</Item>
 		<Item>
 			<Identification>5981</Identification>
@@ -1646,30 +1896,37 @@
 		<Item>
 			<Identification>6</Identification>
 			<Name_dk>El- og mekaniske anlæg</Name_dk>
+			<Name_en>Electrical and mechanical installations</Name_en>
 		</Item>
 		<Item>
 			<Identification>60</Identification>
 			<Name_dk>Terræn</Name_dk>
+			<Name_en>Terrain</Name_en>
 		</Item>
 		<Item>
 			<Identification>601</Identification>
 			<Name_dk>Ledninger</Name_dk>
+			<Name_en>Wires</Name_en>
 		</Item>
 		<Item>
 			<Identification>6011</Identification>
 			<Name_dk>Luftledninger for højspændingsanlæg</Name_dk>
+			<Name_en>Lighting</Name_en>
 		</Item>
 		<Item>
 			<Identification>6012</Identification>
 			<Name_dk>Ledninger i jord for højspændingsanlæg</Name_dk>
+			<Name_en>Installation for underground facilities</Name_en>
 		</Item>
 		<Item>
 			<Identification>6013</Identification>
 			<Name_dk>Luftledninger for lavspændingsanlæg</Name_dk>
+			<Name_en>Installation for ground level facilities</Name_en>
 		</Item>
 		<Item>
 			<Identification>6014</Identification>
 			<Name_dk>Ledninger i jord for lavspændingsanlæg</Name_dk>
+			<Name_en>Traffic management</Name_en>
 		</Item>
 		<Item>
 			<Identification>6015</Identification>
@@ -1678,18 +1935,22 @@
 		<Item>
 			<Identification>602</Identification>
 			<Name_dk>Belysning</Name_dk>
+			<Name_en>Lighting</Name_en>
 		</Item>
 		<Item>
 			<Identification>6021</Identification>
 			<Name_dk>Gade- og vejbelysningsanlæg</Name_dk>
+			<Name_en>Installation for underground facilities</Name_en>
 		</Item>
 		<Item>
 			<Identification>6022</Identification>
 			<Name_dk>Pladsbelysning</Name_dk>
+			<Name_en>Installation for ground level facilities</Name_en>
 		</Item>
 		<Item>
 			<Identification>6023</Identification>
 			<Name_dk>Park- og havebelysningsanlæg</Name_dk>
+			<Name_en>Traffic management</Name_en>
 		</Item>
 		<Item>
 			<Identification>6024</Identification>
@@ -1698,6 +1959,7 @@
 		<Item>
 			<Identification>603</Identification>
 			<Name_dk>Installation for anlæg under terræn</Name_dk>
+			<Name_en>Installation for underground facilities</Name_en>
 		</Item>
 		<Item>
 			<Identification>6031</Identification>
@@ -1730,6 +1992,7 @@
 		<Item>
 			<Identification>604</Identification>
 			<Name_dk>Installation for anlæg på terræn</Name_dk>
+			<Name_en>Installation for ground level facilities</Name_en>
 		</Item>
 		<Item>
 			<Identification>6041</Identification>
@@ -1746,6 +2009,7 @@
 		<Item>
 			<Identification>605</Identification>
 			<Name_dk>Trafikstyring</Name_dk>
+			<Name_en>Traffic management</Name_en>
 		</Item>
 		<Item>
 			<Identification>6051</Identification>
@@ -1770,10 +2034,12 @@
 		<Item>
 			<Identification>61</Identification>
 			<Name_dk>Føringsveje</Name_dk>
+			<Name_en>Routing</Name_en>
 		</Item>
 		<Item>
 			<Identification>611</Identification>
 			<Name_dk>Fremføringsveje</Name_dk>
+			<Name_en>Routing</Name_en>
 		</Item>
 		<Item>
 			<Identification>6111</Identification>
@@ -1802,6 +2068,7 @@
 		<Item>
 			<Identification>612</Identification>
 			<Name_dk>Huller og udsparinger</Name_dk>
+			<Name_en>Gaps and recesses</Name_en>
 		</Item>
 		<Item>
 			<Identification>6121</Identification>
@@ -1810,6 +2077,7 @@
 		<Item>
 			<Identification>613</Identification>
 			<Name_dk>Brand- og lydtætninger</Name_dk>
+			<Name_en>Fire and audio sealings</Name_en>
 		</Item>
 		<Item>
 			<Identification>6131</Identification>
@@ -1818,10 +2086,12 @@
 		<Item>
 			<Identification>62</Identification>
 			<Name_dk>Højspænding</Name_dk>
+			<Name_en>High voltage</Name_en>
 		</Item>
 		<Item>
 			<Identification>621</Identification>
 			<Name_dk>Forsyning</Name_dk>
+			<Name_en>Supply</Name_en>
 		</Item>
 		<Item>
 			<Identification>6211</Identification>
@@ -1850,6 +2120,7 @@
 		<Item>
 			<Identification>622</Identification>
 			<Name_dk>Fordeling</Name_dk>
+			<Name_en>Distribution</Name_en>
 		</Item>
 		<Item>
 			<Identification>6221</Identification>
@@ -1862,6 +2133,7 @@
 		<Item>
 			<Identification>623</Identification>
 			<Name_dk>Installationer for apparater og maskiner</Name_dk>
+			<Name_en>Installations for appliances and machines</Name_en>
 		</Item>
 		<Item>
 			<Identification>6231</Identification>
@@ -1876,6 +2148,11 @@
 			<Name_dk>Motorer</Name_dk>
 		</Item>
 		<Item>
+			<Identification>624</Identification>
+			<Name_dk>Sekundær højspænding</Name_dk>
+			<Name_en>Secondary high voltage</Name_en>
+		</Item>
+		<Item>
 			<Identification>6241</Identification>
 			<Name_dk>Belysningsarmatur</Name_dk>
 		</Item>
@@ -1886,10 +2163,12 @@
 		<Item>
 			<Identification>63</Identification>
 			<Name_dk>Lavspænding</Name_dk>
+			<Name_en>Low voltage</Name_en>
 		</Item>
 		<Item>
 			<Identification>631</Identification>
 			<Name_dk>Forsyning -  ekstern</Name_dk>
+			<Name_en>Supply - external</Name_en>
 		</Item>
 		<Item>
 			<Identification>6311</Identification>
@@ -1926,6 +2205,7 @@
 		<Item>
 			<Identification>632</Identification>
 			<Name_dk>Fordeling</Name_dk>
+			<Name_en>Distribution</Name_en>
 		</Item>
 		<Item>
 			<Identification>6321</Identification>
@@ -1946,6 +2226,7 @@
 		<Item>
 			<Identification>633</Identification>
 			<Name_dk>Installationer for apparater og maskiner</Name_dk>
+			<Name_en>Installations for appliances and machines</Name_en>
 		</Item>
 		<Item>
 			<Identification>6331</Identification>
@@ -1986,6 +2267,7 @@
 		<Item>
 			<Identification>634</Identification>
 			<Name_dk>Termiske anlæg</Name_dk>
+			<Name_en>Thermal facilities</Name_en>
 		</Item>
 		<Item>
 			<Identification>6341</Identification>
@@ -2014,6 +2296,7 @@
 		<Item>
 			<Identification>635</Identification>
 			<Name_dk>Installationer for belysning</Name_dk>
+			<Name_en>Installations for lighting</Name_en>
 		</Item>
 		<Item>
 			<Identification>6351</Identification>
@@ -2038,6 +2321,7 @@
 		<Item>
 			<Identification>636</Identification>
 			<Name_dk>Belysningsarmaturer</Name_dk>
+			<Name_en>Lighting fixtures</Name_en>
 		</Item>
 		<Item>
 			<Identification>6361</Identification>
@@ -2054,6 +2338,7 @@
 		<Item>
 			<Identification>637</Identification>
 			<Name_dk>Kraftinstallationer</Name_dk>
+			<Name_en>Power installations</Name_en>
 		</Item>
 		<Item>
 			<Identification>6371</Identification>
@@ -2074,6 +2359,7 @@
 		<Item>
 			<Identification>638</Identification>
 			<Name_dk>Vedvarende energi - Intern forsyning</Name_dk>
+			<Name_en>Renewable energy - Internal distribution</Name_en>
 		</Item>
 		<Item>
 			<Identification>6381</Identification>
@@ -2090,10 +2376,12 @@
 		<Item>
 			<Identification>64</Identification>
 			<Name_dk>Kommunikation og information</Name_dk>
+			<Name_en>Communication and information</Name_en>
 		</Item>
 		<Item>
 			<Identification>641</Identification>
 			<Name_dk>Kommunikation</Name_dk>
+			<Name_en>Communication</Name_en>
 		</Item>
 		<Item>
 			<Identification>6411</Identification>
@@ -2122,6 +2410,7 @@
 		<Item>
 			<Identification>642</Identification>
 			<Name_dk>Information</Name_dk>
+			<Name_en>Information</Name_en>
 		</Item>
 		<Item>
 			<Identification>6421</Identification>
@@ -2142,6 +2431,7 @@
 		<Item>
 			<Identification>643</Identification>
 			<Name_dk>Audio, video og antenne</Name_dk>
+			<Name_en>Audio, video and antenna</Name_en>
 		</Item>
 		<Item>
 			<Identification>6431</Identification>
@@ -2170,6 +2460,7 @@
 		<Item>
 			<Identification>644</Identification>
 			<Name_dk>IT-infrastruktur</Name_dk>
+			<Name_en>IT infrastructure</Name_en>
 		</Item>
 		<Item>
 			<Identification>6441</Identification>
@@ -2186,10 +2477,12 @@
 		<Item>
 			<Identification>65</Identification>
 			<Name_dk>Sikring</Name_dk>
+			<Name_en>Security</Name_en>
 		</Item>
 		<Item>
 			<Identification>651</Identification>
 			<Name_dk>Adgangssikring</Name_dk>
+			<Name_en>Access security</Name_en>
 		</Item>
 		<Item>
 			<Identification>6511</Identification>
@@ -2206,6 +2499,7 @@
 		<Item>
 			<Identification>652</Identification>
 			<Name_dk>Sikringsanlæg</Name_dk>
+			<Name_en>Security systems</Name_en>
 		</Item>
 		<Item>
 			<Identification>6521</Identification>
@@ -2234,6 +2528,7 @@
 		<Item>
 			<Identification>653</Identification>
 			<Name_dk>Personsikring</Name_dk>
+			<Name_en>Individual safeguarding systems</Name_en>
 		</Item>
 		<Item>
 			<Identification>6531</Identification>
@@ -2258,10 +2553,12 @@
 		<Item>
 			<Identification>66</Identification>
 			<Name_dk>Bygningsautomation</Name_dk>
+			<Name_en>Building automation</Name_en>
 		</Item>
 		<Item>
 			<Identification>661</Identification>
 			<Name_dk>Managementsystemer</Name_dk>
+			<Name_en>Building Management Systems</Name_en>
 		</Item>
 		<Item>
 			<Identification>6611</Identification>
@@ -2270,6 +2567,7 @@
 		<Item>
 			<Identification>662</Identification>
 			<Name_dk>Central tilstandsstyring</Name_dk>
+			<Name_en>Central Status Control</Name_en>
 		</Item>
 		<Item>
 			<Identification>6621</Identification>
@@ -2282,6 +2580,7 @@
 		<Item>
 			<Identification>663</Identification>
 			<Name_dk>Decentral tilstandsstyring</Name_dk>
+			<Name_en>Distributed Status Control</Name_en>
 		</Item>
 		<Item>
 			<Identification>6631</Identification>
@@ -2290,10 +2589,12 @@
 		<Item>
 			<Identification>67</Identification>
 			<Name_dk>Beskyttelse</Name_dk>
+			<Name_en>Protection</Name_en>
 		</Item>
 		<Item>
 			<Identification>671</Identification>
 			<Name_dk>Overspændingsbeskyttelse</Name_dk>
+			<Name_en>Overvoltage protection</Name_en>
 		</Item>
 		<Item>
 			<Identification>6711</Identification>
@@ -2302,6 +2603,7 @@
 		<Item>
 			<Identification>672</Identification>
 			<Name_dk>Udligningsforbindelser</Name_dk>
+			<Name_en>Equalizer connections</Name_en>
 		</Item>
 		<Item>
 			<Identification>6721</Identification>
@@ -2322,6 +2624,7 @@
 		<Item>
 			<Identification>673</Identification>
 			<Name_dk>Katodisk Beskyttelse</Name_dk>
+			<Name_en>Cathodic Protection</Name_en>
 		</Item>
 		<Item>
 			<Identification>6731</Identification>
@@ -2334,6 +2637,7 @@
 		<Item>
 			<Identification>674</Identification>
 			<Name_dk>EMI</Name_dk>
+			<Name_en>EMI (Electrical Magnetical Interference)</Name_en>
 		</Item>
 		<Item>
 			<Identification>6741</Identification>
@@ -2346,10 +2650,12 @@
 		<Item>
 			<Identification>68</Identification>
 			<Name_dk>Person- og materialetransport</Name_dk>
+			<Name_en>Passenger and material transportation</Name_en>
 		</Item>
 		<Item>
 			<Identification>681</Identification>
 			<Name_dk>Persontransport</Name_dk>
+			<Name_en>Passenger transportation</Name_en>
 		</Item>
 		<Item>
 			<Identification>6811</Identification>
@@ -2370,6 +2676,7 @@
 		<Item>
 			<Identification>682</Identification>
 			<Name_dk>Gods- og materialetransport</Name_dk>
+			<Name_en>Cargo and material transportation</Name_en>
 		</Item>
 		<Item>
 			<Identification>6821</Identification>
@@ -2398,251 +2705,310 @@
 		<Item>
 			<Identification>7</Identification>
 			<Name_dk>Inventar og teknisk udstyr</Name_dk>
+			<Name_en>Furniture and equipment</Name_en>
 		</Item>
 		<Item>
 			<Identification>70</Identification>
 			<Name_dk>Inventar, terræn</Name_dk>
+			<Name_en>Furniture, terrain</Name_en>
 		</Item>
 		<Item>
 			<Identification>701</Identification>
 			<Name_dk>Tekniske inventarenheder</Name_dk>
+			<Name_en>Technical equipment</Name_en>
 			<Description_dk>Mekaniske pullerter</Description_dk>
 		</Item>
 		<Item>
 			<Identification>702</Identification>
 			<Name_dk>Tavler, skilte og skærme</Name_dk>
+			<Name_en>Boards, signs and screens</Name_en>
 		</Item>
 		<Item>
 			<Identification>703</Identification>
 			<Name_dk>Opbevaring, affaldsstativer, cykelstativer, postkasser</Name_dk>
+			<Name_en>Storage, trash racks, bike racks, mailboxes</Name_en>
 		</Item>
 		<Item>
 			<Identification>704</Identification>
 			<Name_dk>Bordmøbler</Name_dk>
+			<Name_en>Table furniture</Name_en>
 		</Item>
 		<Item>
 			<Identification>705</Identification>
 			<Name_dk>Siddemøbler</Name_dk>
+			<Name_en>Seating furniture</Name_en>
 		</Item>
 		<Item>
 			<Identification>706</Identification>
 			<Name_dk>Afskærmninger</Name_dk>
+			<Name_en>Handrails and parapets</Name_en>
 			<Description_dk>Fx Busskur, læskærm, cykelafskærmning</Description_dk>
 		</Item>
 		<Item>
 			<Identification>709</Identification>
 			<Name_dk>Øvrigt inventar i terræn</Name_dk>
+			<Name_en>Other fixtures in the terrain</Name_en>
 		</Item>
 		<Item>
 			<Identification>71</Identification>
 			<Name_dk>Inventar, fastmonteret</Name_dk>
+			<Name_en>Furniture, built-in</Name_en>
 		</Item>
 		<Item>
 			<Identification>711</Identification>
 			<Name_dk>Skabe, skuffer</Name_dk>
+			<Name_en>Cabinets, drawers</Name_en>
 		</Item>
 		<Item>
 			<Identification>712</Identification>
 			<Name_dk>Reoler, hylder</Name_dk>
+			<Name_en>Bookcases, shelves</Name_en>
 		</Item>
 		<Item>
 			<Identification>713</Identification>
 			<Name_dk>Siddemøbler, liggemøbler</Name_dk>
+			<Name_en>Seating furniture, lawn furniture</Name_en>
 		</Item>
 		<Item>
 			<Identification>714</Identification>
 			<Name_dk>Gardiner, persienner, skærmvægge, forhæng</Name_dk>
+			<Name_en>Curtains, blinds, screens, curtains</Name_en>
 		</Item>
 		<Item>
 			<Identification>715</Identification>
 			<Name_dk>Borde, bordplader</Name_dk>
+			<Name_en>Tables, Countertops</Name_en>
 		</Item>
 		<Item>
 			<Identification>716</Identification>
 			<Name_dk>Skilte, tavler</Name_dk>
+			<Name_en>Signs, boards</Name_en>
 		</Item>
 		<Item>
 			<Identification>717</Identification>
 			<Name_dk>Garniture</Name_dk>
+			<Name_en>Garnish</Name_en>
 			<Description_dk>Spejle, knager, dispensere</Description_dk>
 		</Item>
 		<Item>
 			<Identification>719</Identification>
 			<Name_dk>Øvrigt fastmonteret inventar</Name_dk>
+			<Name_en>Other fixed furniture</Name_en>
 		</Item>
 		<Item>
 			<Identification>72</Identification>
 			<Name_dk>Inventar, løst</Name_dk>
+			<Name_en>Furniture, movable</Name_en>
 		</Item>
 		<Item>
 			<Identification>721</Identification>
 			<Name_dk>Skabe, skuffer</Name_dk>
+			<Name_en>Cabinets, drawers</Name_en>
 		</Item>
 		<Item>
 			<Identification>722</Identification>
 			<Name_dk>Reoler</Name_dk>
+			<Name_en>Bookcases</Name_en>
 		</Item>
 		<Item>
 			<Identification>723</Identification>
 			<Name_dk>Siddemøbler, liggemøbler</Name_dk>
+			<Name_en>Seating furniture, lawn furniture</Name_en>
 		</Item>
 		<Item>
 			<Identification>724</Identification>
 			<Name_dk>Skærmvægge, forhæng</Name_dk>
+			<Name_en>Screens, curtains</Name_en>
 		</Item>
 		<Item>
 			<Identification>725</Identification>
 			<Name_dk>Borde</Name_dk>
+			<Name_en>Tables</Name_en>
 		</Item>
 		<Item>
 			<Identification>726</Identification>
 			<Name_dk>Stativer, hylder</Name_dk>
+			<Name_en>Stands, shelves</Name_en>
 		</Item>
 		<Item>
 			<Identification>727</Identification>
 			<Name_dk>Måtter, tæpper, løbere</Name_dk>
+			<Name_en>Mats, rugs, runners</Name_en>
 		</Item>
 		<Item>
 			<Identification>729</Identification>
 			<Name_dk>Øvrigt løst inventar</Name_dk>
+			<Name_en>Other removable fixtures</Name_en>
 		</Item>
 		<Item>
 			<Identification>73</Identification>
 			<Name_dk>Inventar, tekniske-, IT- og av-inventarenheder</Name_dk>
+			<Name_en>Fixtures, technical, IT and audio-visual equipment </Name_en>
 		</Item>
 		<Item>
 			<Identification>731</Identification>
 			<Name_dk>AV-udstyr</Name_dk>
+			<Name_en>AV equipment</Name_en>
 		</Item>
 		<Item>
 			<Identification>732</Identification>
 			<Name_dk>IT-udstyr</Name_dk>
+			<Name_en>IT equipment</Name_en>
 		</Item>
 		<Item>
 			<Identification>733</Identification>
 			<Name_dk>Belysning</Name_dk>
+			<Name_en>Lighting</Name_en>
 		</Item>
 		<Item>
 			<Identification>734</Identification>
 			<Name_dk>Automater</Name_dk>
+			<Name_en>Vending Machines</Name_en>
 			<Description_dk>Mad, drikke</Description_dk>
 		</Item>
 		<Item>
 			<Identification>735</Identification>
 			<Name_dk>Brandslukningsudstyr</Name_dk>
+			<Name_en>Firefighting equipment</Name_en>
 			<Description_dk>Brandtæppe, pulverslukke</Description_dk>
 		</Item>
 		<Item>
 			<Identification>736</Identification>
 			<Name_dk>Hårde hvidevarer</Name_dk>
+			<Name_en>Appliances</Name_en>
 		</Item>
 		<Item>
 			<Identification>8</Identification>
 			<Name_dk>Beplantning og belægning</Name_dk>
+			<Name_en>Planting and external ground finishes</Name_en>
 		</Item>
 		<Item>
 			<Identification>80</Identification>
 			<Name_dk>Belægninger og befæstelser</Name_dk>
+			<Name_en>Coatings and fixings</Name_en>
 		</Item>
 		<Item>
 			<Identification>801</Identification>
 			<Name_dk>Asfalt belægninger</Name_dk>
+			<Name_en>Asphalt coatings</Name_en>
 		</Item>
 		<Item>
 			<Identification>802</Identification>
 			<Name_dk>Betonstøbte belægninger</Name_dk>
+			<Name_en>Concrete coatings</Name_en>
 		</Item>
 		<Item>
 			<Identification>803</Identification>
 			<Name_dk>Gummibelægninger</Name_dk>
+			<Name_en>Rubber coatings</Name_en>
 		</Item>
 		<Item>
 			<Identification>804</Identification>
 			<Name_dk>Flise -og stenbelægninger</Name_dk>
+			<Name_en>Tilinge and paving</Name_en>
 			<Description_dk>Betonfliser, brosten, græsarmering</Description_dk>
 		</Item>
 		<Item>
 			<Identification>805</Identification>
-			<Name_dk>Skræver og grus</Name_dk>
+			<Name_dk>Skærver og grus</Name_dk>
+			<Name_en>Crushed stone and gravel</Name_en>
 		</Item>
 		<Item>
 			<Identification>806</Identification>
 			<Name_dk>Kantbegrænsninger</Name_dk>
+			<Name_en>Edge elements</Name_en>
 		</Item>
 		<Item>
 			<Identification>807</Identification>
 			<Name_dk>Afstribning</Name_dk>
+			<Name_en>Striping</Name_en>
 		</Item>
 		<Item>
 			<Identification>809</Identification>
 			<Name_dk>Øvrige belægninger og befæstelser</Name_dk>
+			<Name_en>Other coatings and fixings</Name_en>
 			<Description_dk>Skærver, stigrus, flisebelægning, skærver makadam</Description_dk>
 		</Item>
 		<Item>
 			<Identification>81</Identification>
 			<Name_dk>Beplantning</Name_dk>
+			<Name_en>Planting</Name_en>
 		</Item>
 		<Item>
 			<Identification>811</Identification>
 			<Name_dk>Træer</Name_dk>
+			<Name_en>Trees</Name_en>
 			<Description_dk>Eg, Bøg, Lind, Birk, Ask, Pil, Fyr, Gran</Description_dk>
 		</Item>
 		<Item>
 			<Identification>812</Identification>
 			<Name_dk>Hække</Name_dk>
+			<Name_en>Hedges</Name_en>
 			<Description_dk>Bøg, avnbøg, lind, eg, liguster, taks, buksbum</Description_dk>
 		</Item>
 		<Item>
 			<Identification>813</Identification>
 			<Name_dk>Buske</Name_dk>
+			<Name_en>Shrubs</Name_en>
 			<Description_dk>Rhondondendron,</Description_dk>
 		</Item>
 		<Item>
 			<Identification>814</Identification>
 			<Name_dk>Bunddække</Name_dk>
+			<Name_en>Ground cover plants</Name_en>
 			<Description_dk>Vedbend, vinca, vinterglans, kranstop etc.</Description_dk>
 		</Item>
 		<Item>
 			<Identification>815</Identification>
 			<Name_dk>Stauder</Name_dk>
+			<Name_en>Climbers</Name_en>
 			<Description_dk>Prydgrys, Geranium, hosta etc.</Description_dk>
 		</Item>
 		<Item>
 			<Identification>816</Identification>
 			<Name_dk>Græsarealer</Name_dk>
+			<Name_en>Lawns</Name_en>
 			<Description_dk>Sået græs, rullegræs</Description_dk>
 		</Item>
 		<Item>
 			<Identification>819</Identification>
 			<Name_dk>Øvrig beplantning</Name_dk>
+			<Name_en>Other planting</Name_en>
 		</Item>
 		<Item>
 			<Identification>9</Identification>
 			<Name_dk>Projektudstyr</Name_dk>
+			<Name_en>Project Equipment</Name_en>
 		</Item>
 		<Item>
 			<Identification>91</Identification>
 			<Name_dk>Projektudstyr ARK</Name_dk>
+			<Name_en>Project equipment ARCH</Name_en>
 		</Item>
 		<Item>
 			<Identification>92</Identification>
 			<Name_dk>Projektudstyr KON</Name_dk>
+			<Name_en>Project equipment CON</Name_en>
 		</Item>
 		<Item>
 			<Identification>93</Identification>
 			<Name_dk>Projektudstyr VENT</Name_dk>
+			<Name_en>Project equipment HVAC</Name_en>
 		</Item>
 		<Item>
 			<Identification>94</Identification>
 			<Name_dk>Projektudstyr VVS</Name_dk>
+			<Name_en>Project equipment PLU</Name_en>
 		</Item>
 		<Item>
 			<Identification>95</Identification>
 			<Name_dk>Projektudstyr EL</Name_dk>
+			<Name_en>Project equipment EL</Name_en>
 		</Item>
 		<Item>
 			<Identification>96</Identification>
 			<Name_dk>Projektudstyr LAND</Name_dk>
+			<Name_en>Project equipment LAND</Name_en>
 		</Item>
 	</Items>
 </System>
