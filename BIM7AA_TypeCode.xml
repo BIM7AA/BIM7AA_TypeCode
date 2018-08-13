@@ -4079,18 +4079,21 @@
 			<Name_dk>Olieudskilleranlæg</Name_dk>
 			<Name_de>Ölabscheideranlagen</Name_de>
 			<CCS_R1>[L]KD</CCS_R1>
+			<Forvaltningklassifikation_V2.3>bt.elf.sam</Forvaltningklassifikation_V2.3>
 		</Item>
 		<Item>
 			<Identification>6033</Identification>
 			<Name_dk>Pumpeanlæg i brønde</Name_dk>
 			<Name_de>Pumpenanlagen, in Schächten</Name_de>
 			<CCS_R1>[L]KF</CCS_R1>
+			<Forvaltningklassifikation_V2.3>bt.elf.sam</Forvaltningklassifikation_V2.3>
 		</Item>
 		<Item>
 			<Identification>6034</Identification>
 			<Name_dk>Registreringsanlæg for fedtudskiller</Name_dk>
 			<Name_de>Meldeanlage für Fettabscheider</Name_de>
 			<CCS_R1>[L]BZA</CCS_R1>
+			<Forvaltningklassifikation_V2.3>bt.elf.sam</Forvaltningklassifikation_V2.3>
 		</Item>
 		<Item>
 			<Identification>6035</Identification>
@@ -4186,18 +4189,21 @@
 			<Name_dk>Kabelstiger</Name_dk>
 			<Name_de>Kabelleitern</Name_de>
 			<CCS_R1>[L]UBA</CCS_R1>
+			<Forvaltningklassifikation_V2.3>bt.elf.sam</Forvaltningklassifikation_V2.3>
 		</Item>
 		<Item>
 			<Identification>6112</Identification>
 			<Name_dk>Kabelbakker</Name_dk>
 			<Name_de>Kabelträger</Name_de>
 			<CCS_R1>[L]UBA</CCS_R1>
+			<Forvaltningklassifikation_V2.3>bt.elf.sam</Forvaltningklassifikation_V2.3>
 		</Item>
 		<Item>
 			<Identification>6113</Identification>
 			<Name_dk>Gitterbakker</Name_dk>
 			<Name_de>Gitterkabelträger</Name_de>
 			<CCS_R1>[L]UBA</CCS_R1>
+			<Forvaltningklassifikation_V2.3>bt.elf.sam</Forvaltningklassifikation_V2.3>
 		</Item>
 		<Item>
 			<Identification>612</Identification>
@@ -4215,6 +4221,7 @@
 			<Name_dk>Installationskanaler</Name_dk>
 			<Name_de>Installationskanäle</Name_de>
 			<CCS_R1>[L]UBA</CCS_R1>
+			<Forvaltningklassifikation_V2.3>bt.elf.sam</Forvaltningklassifikation_V2.3>
 		</Item>
 		<Item>
 			<Identification>613</Identification>
@@ -4232,12 +4239,14 @@
 			<Name_dk>Flexrør</Name_dk>
 			<Name_de>Kabelrohre, flexibel</Name_de>
 			<CCS_R1>[L]WPA</CCS_R1>
+			<Forvaltningklassifikation_V2.3>bt.elf.sam</Forvaltningklassifikation_V2.3>
 		</Item>
 		<Item>
 			<Identification>6132</Identification>
 			<Name_dk>Plastrør</Name_dk>
 			<Name_de>Kunststoffkabelrohre, starr</Name_de>
 			<CCS_R1>[L]WPA</CCS_R1>
+			<Forvaltningklassifikation_V2.3>bt.elf.sam</Forvaltningklassifikation_V2.3>
 		</Item>
 		<Item>
 			<Identification>6133</Identification>
@@ -4301,6 +4310,7 @@
 			<Name_dk>Huller</Name_dk>
 			<Name_de>Löcher</Name_de>
 			<CCS_R1>[L]XTA</CCS_R1>
+			<Forvaltningklassifikation_V2.3>bt.elf.sam</Forvaltningklassifikation_V2.3>
 		</Item>
 		<Item>
 			<Identification>6162</Identification>
@@ -4322,6 +4332,7 @@
 			<Name_dk>Dåser</Name_dk>
 			<Name_de>Dosen</Name_de>
 			<CCS_R1>[L]XDC</CCS_R1>
+			<Forvaltningklassifikation_V2.3>bt.elf.sam</Forvaltningklassifikation_V2.3>
 		</Item>
 		<Item>
 			<Identification>6192</Identification>
@@ -4408,7 +4419,7 @@
 			<Name_en>Installations for appliances and machines</Name_en>
 			<BC-SfB_1980>(62)</BC-SfB_1980>
 			<CCS_R1>[L]JK</CCS_R1>
-			<Forvaltningklassifikation_V2.3>bt.elf.sam</Forvaltningklassifikation_V2.3>
+			<Forvaltningklassifikation_V2.3>bt.bly.sam</Forvaltningklassifikation_V2.3>
 		</Item>
 		<Item>
 			<Identification>6231</Identification>
@@ -4466,6 +4477,7 @@
 			<Name_dk>Nød- og reserveforsyningsanlæg/UPS</Name_dk>
 			<Name_de>Notstromanlagen</Name_de>
 			<CCS_R1>[L]HG</CCS_R1>
+			<Forvaltningklassifikation_V2.3>bt.elf.sam</Forvaltningklassifikation_V2.3>
 		</Item>
 		<Item>
 			<Identification>6315</Identification>
@@ -4493,30 +4505,35 @@
 			<Name_dk>Hovedledninger / Kanalskinner</Name_dk>
 			<Name_de>Hauptkabel</Name_de>
 			<CCS_R1>[L]UBA</CCS_R1>
+			<Forvaltningklassifikation_V2.3>bt.elf.sam</Forvaltningklassifikation_V2.3>
 		</Item>
 		<Item>
 			<Identification>6322</Identification>
 			<Name_dk>Hovedtavler</Name_dk>
 			<Name_de>Oberverteilungen</Name_de>
 			<CCS_R1>[L]UAA</CCS_R1>
+			<Forvaltningklassifikation_V2.3>bt.elf.sam</Forvaltningklassifikation_V2.3>
 		</Item>
 		<Item>
 			<Identification>6323</Identification>
 			<Name_dk>Fordelingstavler</Name_dk>
 			<Name_de>Unterverteilungen, primär</Name_de>
 			<CCS_R1>[L]UAA</CCS_R1>
+			<Forvaltningklassifikation_V2.3>bt.elf.sam</Forvaltningklassifikation_V2.3>
 		</Item>
 		<Item>
 			<Identification>6324</Identification>
 			<Name_dk>Undertavler</Name_dk>
 			<Name_de>Unterverteilungen, sekundär</Name_de>
 			<CCS_R1>[L]UAA</CCS_R1>
+			<Forvaltningklassifikation_V2.3>bt.elf.sam</Forvaltningklassifikation_V2.3>
 		</Item>
 		<Item>
 			<Identification>6325</Identification>
 			<Name_dk>Gruppetavler</Name_dk>
 			<Name_de>Gruppenverteilungen</Name_de>
 			<CCS_R1>[L]UAA</CCS_R1>
+			<Forvaltningklassifikation_V2.3>bt.elf.sam</Forvaltningklassifikation_V2.3>
 		</Item>
 		<Item>
 			<Identification>6329</Identification>
@@ -4544,6 +4561,7 @@
 			<Name_dk>Køleanlæg</Name_dk>
 			<Name_de>Kühlanlagen</Name_de>
 			<CCS_R1>[L]HC</CCS_R1>
+			<Forvaltningklassifikation_V2.3>bt.elf.sam</Forvaltningklassifikation_V2.3>
 		</Item>
 		<Item>
 			<Identification>6333</Identification>
@@ -4574,6 +4592,7 @@
 			<Name_dk>Ventilationsanlæg</Name_dk>
 			<Name_de>Belüftungsanlagen</Name_de>
 			<CCS_R1>[L]HF</CCS_R1>
+			<Forvaltningklassifikation_V2.3>bt.elf.sam</Forvaltningklassifikation_V2.3>
 		</Item>
 		<Item>
 			<Identification>6339</Identification>
@@ -4622,24 +4641,28 @@
 			<Name_dk>Anlæg for almen belysning</Name_dk>
 			<Name_de>Beleuchtung, allgemein</Name_de>
 			<CCS_R1>[L]HH</CCS_R1>
+			<Forvaltningklassifikation_V2.3>bt.bly.sam</Forvaltningklassifikation_V2.3>
 		</Item>
 		<Item>
 			<Identification>6352</Identification>
 			<Name_dk>Anlæg for lavvoltsbelysning</Name_dk>
 			<Name_de>Beleuchtung, Niederspannung</Name_de>
 			<CCS_R1>[L]HH</CCS_R1>
+			<Forvaltningklassifikation_V2.3>bt.bly.sam</Forvaltningklassifikation_V2.3>
 		</Item>
 		<Item>
 			<Identification>6353</Identification>
 			<Name_dk>Anlæg for sikkerhedsbelysning</Name_dk>
 			<Name_de>Sicherheits- und Notbeleuchtung</Name_de>
 			<CCS_R1>[L]HH</CCS_R1>
+			<Forvaltningklassifikation_V2.3>bt.bly.sam</Forvaltningklassifikation_V2.3>
 		</Item>
 		<Item>
 			<Identification>6354</Identification>
 			<Name_dk>Anlæg for særbelysning</Name_dk>
 			<Name_de>Sonderbeleuchtung</Name_de>
 			<CCS_R1>[L]HH</CCS_R1>
+			<Forvaltningklassifikation_V2.3>bt.bly.sam</Forvaltningklassifikation_V2.3>
 		</Item>
 		<Item>
 			<Identification>6355</Identification>
@@ -4663,12 +4686,14 @@
 			<Name_dk>Armatur – Almen belysning</Name_dk>
 			<Name_de>Leuchten, allgemein</Name_de>
 			<CCS_R1>[L]UAC</CCS_R1>
+			<Forvaltningklassifikation_V2.3>bt.bly.sam</Forvaltningklassifikation_V2.3>
 		</Item>
 		<Item>
 			<Identification>6362</Identification>
 			<Name_dk>Armatur – Sikkerhedsbelysning</Name_dk>
 			<Name_de>Leuchten, Sicherheits- und Notbeleuchtung</Name_de>
 			<CCS_R1>[L]UAC</CCS_R1>
+			<Forvaltningklassifikation_V2.3>bt.bly.sam</Forvaltningklassifikation_V2.3>
 		</Item>
 		<Item>
 			<Identification>6363</Identification>
@@ -4690,18 +4715,21 @@
 			<Name_dk>Stikkontakter</Name_dk>
 			<Name_de>Steckdosen</Name_de>
 			<CCS_R1>[L]XDB</CCS_R1>
+			<Forvaltningklassifikation_V2.3>bt.bly.sam</Forvaltningklassifikation_V2.3>
 		</Item>
 		<Item>
 			<Identification>6372</Identification>
 			<Name_dk>Arbejdsstationer/Gulvbokse</Name_dk>
 			<Name_de>Arbeitsstationen/Fußbodenauslässe</Name_de>
 			<CCS_R1>[L]UBA</CCS_R1>
+			<Forvaltningklassifikation_V2.3>bt.bly.sam</Forvaltningklassifikation_V2.3>
 		</Item>
 		<Item>
 			<Identification>6373</Identification>
 			<Name_dk>Udtag</Name_dk>
 			<Name_de>Anschlüsse</Name_de>
 			<CCS_R1>[L]XDD</CCS_R1>
+			<Forvaltningklassifikation_V2.3>bt.bly.sam</Forvaltningklassifikation_V2.3>
 		</Item>
 		<Item>
 			<Identification>6374</Identification>
@@ -4729,6 +4757,7 @@
 			<Name_dk>Solcelleanlæg</Name_dk>
 			<Name_de>Solarzellenanlagen</Name_de>
 			<CCS_R1>[L]HG</CCS_R1>
+			<Forvaltningklassifikation_V2.3>bt.bly.sam</Forvaltningklassifikation_V2.3>
 		</Item>
 		<Item>
 			<Identification>64</Identification>
@@ -4750,18 +4779,21 @@
 			<Name_dk>Telefonanlæg</Name_dk>
 			<Name_de>Telefonanlage</Name_de>
 			<CCS_R1>[L]JL</CCS_R1>
+			<Forvaltningklassifikation_V2.3>bt.kom.sam</Forvaltningklassifikation_V2.3>
 		</Item>
 		<Item>
 			<Identification>6412</Identification>
 			<Name_dk>Radioanlæg</Name_dk>
 			<Name_de>Funkanlage</Name_de>
 			<CCS_R1>[L]HJ</CCS_R1>
+			<Forvaltningklassifikation_V2.3>bt.kom.sam</Forvaltningklassifikation_V2.3>
 		</Item>
 		<Item>
 			<Identification>6413</Identification>
 			<Name_dk>Dør- og porttelefoner</Name_dk>
 			<Name_de>Türsprechanlage</Name_de>
 			<CCS_R1>[L]LD</CCS_R1>
+			<Forvaltningklassifikation_V2.3>bt.kom.sam</Forvaltningklassifikation_V2.3>
 		</Item>
 		<Item>
 			<Identification>642</Identification>
@@ -4777,18 +4809,21 @@
 			<Name_dk>Optagetanlæg</Name_dk>
 			<Name_de>AV-Aufnahmegeräte</Name_de>
 			<CCS_R1>[L]CFA</CCS_R1>
+			<Forvaltningklassifikation_V2.3>bt.kom.sam</Forvaltningklassifikation_V2.3>
 		</Item>
 		<Item>
 			<Identification>6422</Identification>
 			<Name_dk>Ringeanlæg</Name_dk>
 			<Name_de>Rufanlage</Name_de>
 			<CCS_R1>[L]HJ</CCS_R1>
+			<Forvaltningklassifikation_V2.3>bt.kom.sam</Forvaltningklassifikation_V2.3>
 		</Item>
 		<Item>
 			<Identification>6423</Identification>
 			<Name_dk>Ur-anlæg</Name_dk>
 			<Name_de>Zentraluhranlage</Name_de>
 			<CCS_R1>[L]BKA</CCS_R1>
+			<Forvaltningklassifikation_V2.3>bt.kom.sam</Forvaltningklassifikation_V2.3>
 		</Item>
 		<Item>
 			<Identification>643</Identification>
@@ -4804,36 +4839,42 @@
 			<Name_dk>Højttaleranlæg</Name_dk>
 			<Name_de>Lautsprecheranlagen</Name_de>
 			<CCS_R1>[L]M?</CCS_R1>
+			<Forvaltningklassifikation_V2.3>bt.kom.sam</Forvaltningklassifikation_V2.3>
 		</Item>
 		<Item>
 			<Identification>6432</Identification>
 			<Name_dk>Mikrofonanlæg</Name_dk>
 			<Name_de>Mikrofonanlagen</Name_de>
 			<CCS_R1>[L]MB</CCS_R1>
+			<Forvaltningklassifikation_V2.3>bt.kom.sam</Forvaltningklassifikation_V2.3>
 		</Item>
 		<Item>
 			<Identification>6433</Identification>
 			<Name_dk>Teleslyngeanlæg</Name_dk>
 			<Name_de>Induktive Höranlagen</Name_de>
 			<CCS_R1>[L]HJ</CCS_R1>
+			<Forvaltningklassifikation_V2.3>bt.kom.sam</Forvaltningklassifikation_V2.3>
 		</Item>
 		<Item>
 			<Identification>6434</Identification>
 			<Name_dk>Videoanlæg</Name_dk>
 			<Name_de>Videoanlagen</Name_de>
 			<CCS_R1>[L]MB</CCS_R1>
+			<Forvaltningklassifikation_V2.3>bt.kom.sam</Forvaltningklassifikation_V2.3>
 		</Item>
 		<Item>
 			<Identification>6435</Identification>
 			<Name_dk>Antenneanlæg</Name_dk>
 			<Name_de>Antennenanlagen</Name_de>
 			<CCS_R1>[L]KJ</CCS_R1>
+			<Forvaltningklassifikation_V2.3>bt.kom.sam</Forvaltningklassifikation_V2.3>
 		</Item>
 		<Item>
 			<Identification>6436</Identification>
 			<Name_dk>AV-anlæg</Name_dk>
 			<Name_de>AV-Anlagen</Name_de>
 			<CCS_R1>[L]MB</CCS_R1>
+			<Forvaltningklassifikation_V2.3>bt.kom.sam</Forvaltningklassifikation_V2.3>
 		</Item>
 		<Item>
 			<Identification>644</Identification>
@@ -4849,12 +4890,14 @@
 			<Name_dk>Kabling-og X-felter</Name_dk>
 			<Name_de>Verkabelung und Patch-Felder</Name_de>
 			<CCS_R1>[L]UAB</CCS_R1>
+			<Forvaltningklassifikation_V2.3>bt.kom.sam</Forvaltningklassifikation_V2.3>
 		</Item>
 		<Item>
 			<Identification>6442</Identification>
 			<Name_dk>DAS – antenneanlæg</Name_dk>
 			<Name_de>DAS-Antennenanlagen (distributed antenna system)</Name_de>
 			<CCS_R1>[L]KJ</CCS_R1>
+			<Forvaltningklassifikation_V2.3>bt.kom.sam</Forvaltningklassifikation_V2.3>
 		</Item>
 		<Item>
 			<Identification>6443</Identification>
@@ -4882,18 +4925,21 @@
 			<Name_dk>Automatisk indbrudsalarmanlæg (AIA-anlæg)</Name_dk>
 			<Name_de>Einbruch-Meldeanlage</Name_de>
 			<CCS_R1>[L]LE</CCS_R1>
+			<Forvaltningklassifikation_V2.3>bt.bes.sam</Forvaltningklassifikation_V2.3>
 		</Item>
 		<Item>
 			<Identification>6512</Identification>
 			<Name_dk>Automatisk adgangsdørkontrolanlæg (ADK-anlæg)</Name_dk>
 			<Name_de>Automatische Zugangskontrollsysteme</Name_de>
 			<CCS_R1>[L]LD</CCS_R1>
+			<Forvaltningklassifikation_V2.3>bt.adg.sam</Forvaltningklassifikation_V2.3>
 		</Item>
 		<Item>
 			<Identification>6513</Identification>
 			<Name_dk>Internt TV-overvågningsanlæg (ITV-anlæg)</Name_dk>
 			<Name_de>Videoüberwachungsanlage</Name_de>
 			<CCS_R1>[L]LF</CCS_R1>
+			<Forvaltningklassifikation_V2.3>bt.adg.sam</Forvaltningklassifikation_V2.3>
 		</Item>
 		<Item>
 			<Identification>652</Identification>
@@ -4909,36 +4955,42 @@
 			<Name_dk>Automatisk brandalarmanlæg (ABA-anlæg)</Name_dk>
 			<Name_de>Automatische Brandmeldeanlagen</Name_de>
 			<CCS_R1>[L]LB</CCS_R1>
+			<Forvaltningklassifikation_V2.3>bt.bes.sam</Forvaltningklassifikation_V2.3>
 		</Item>
 		<Item>
 			<Identification>6522</Identification>
 			<Name_dk>Automatisk branddørlukningsanlæg (ABDL-anlæg)</Name_dk>
 			<Name_de>Automatische Brandschutztürschließanlagen</Name_de>
 			<CCS_R1>[L]PA</CCS_R1>
+			<Forvaltningklassifikation_V2.3>bt.bes.sam</Forvaltningklassifikation_V2.3>
 		</Item>
 		<Item>
 			<Identification>6523</Identification>
 			<Name_dk>Automatisk gasalarmsanlæg (AGA-anlæg)</Name_dk>
 			<Name_de>Automatische Gasmeldeanlagen</Name_de>
 			<CCS_R1>[L]LA</CCS_R1>
+			<Forvaltningklassifikation_V2.3>bt.bes.sam</Forvaltningklassifikation_V2.3>
 		</Item>
 		<Item>
 			<Identification>6524</Identification>
 			<Name_dk>Automatisk rumslukningsanlæg (ARS-anlæg)</Name_dk>
 			<Name_de>Automatische Feuerlöschanlagen</Name_de>
 			<CCS_R1>[L]PB</CCS_R1>
+			<Forvaltningklassifikation_V2.3>bt.bes.sam</Forvaltningklassifikation_V2.3>
 		</Item>
 		<Item>
 			<Identification>6525</Identification>
 			<Name_dk>Automatisk vandslukningsanlæg (AVS-anlæg)</Name_dk>
 			<Name_de>Automatische Wasserlöschanlagen</Name_de>
 			<CCS_R1>[L]PB</CCS_R1>
+			<Forvaltningklassifikation_V2.3>bt.bes.sam</Forvaltningklassifikation_V2.3>
 		</Item>
 		<Item>
 			<Identification>6526</Identification>
 			<Name_dk>Automatisk brandventilationsanlæg</Name_dk>
 			<Name_de>Automatische Rauchgasentlüftungsanlagen</Name_de>
 			<CCS_R1>[L]KFD</CCS_R1>
+			<Forvaltningklassifikation_V2.3>bt.bes.sam</Forvaltningklassifikation_V2.3>
 		</Item>
 		<Item>
 			<Identification>653</Identification>
@@ -4954,6 +5006,7 @@
 			<Name_dk>Varslingsanlæg (VAR-anlæg)</Name_dk>
 			<Name_de>Warnsysteme</Name_de>
 			<CCS_R1>[L]MA</CCS_R1>
+			<Forvaltningklassifikation_V2.3>bt.bes.sam</Forvaltningklassifikation_V2.3>
 		</Item>
 		<Item>
 			<Identification>6532</Identification>
@@ -5005,6 +5058,7 @@
 			<Name_dk>BMS-anlæg</Name_dk>
 			<Name_de>Building Management Systems</Name_de>
 			<CCS_R1>[L]LC</CCS_R1>
+			<Forvaltningklassifikation_V2.3>bt.aut.sam</Forvaltningklassifikation_V2.3>
 		</Item>
 		<Item>
 			<Identification>662</Identification>
@@ -5013,7 +5067,7 @@
 			<Name_en>Central Status Controls</Name_en>
 			<BC-SfB_1980>(6.)</BC-SfB_1980>
 			<CCS_R1>[L]LC</CCS_R1>
-			<Forvaltningklassifikation_V2.3>bt.elf.sam</Forvaltningklassifikation_V2.3>
+			<Forvaltningklassifikation_V2.3>bt.aut.sam</Forvaltningklassifikation_V2.3>
 		</Item>
 		<Item>
 			<Identification>6621</Identification>
@@ -5048,6 +5102,7 @@
 			<Name_de>Blitzschutz</Name_de>
 			<BC-SfB_1980>(6.)</BC-SfB_1980>
 			<CCS_R1>[L]PD</CCS_R1>
+			<Forvaltningklassifikation_V2.3>bt.elf.sam</Forvaltningklassifikation_V2.3>
 		</Item>
 		<Item>
 			<Identification>672</Identification>
@@ -5064,6 +5119,7 @@
 			<Name_de>Hauptpotentialausgleiche</Name_de>
 			<BC-SfB_1980>(6.)</BC-SfB_1980>
 			<CCS_R1>[L]WED</CCS_R1>
+			<Forvaltningklassifikation_V2.3>bt.elf.sam</Forvaltningklassifikation_V2.3>
 		</Item>
 		<Item>
 			<Identification>6722</Identification>
@@ -5076,6 +5132,7 @@
 			<Name_dk>Supplerende udligningsforbindelser</Name_dk>
 			<Name_de>Zusätzliche Potentialausgleiche</Name_de>
 			<CCS_R1>[L]WED</CCS_R1>
+			<Forvaltningklassifikation_V2.3>bt.elf.sam</Forvaltningklassifikation_V2.3>
 		</Item>
 		<Item>
 			<Identification>68</Identification>
