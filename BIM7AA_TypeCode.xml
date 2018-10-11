@@ -2187,7 +2187,7 @@
 			<BC-SfB_1980>(50)</BC-SfB_1980>
 			<CCS_R1>[L]HNA</CCS_R1>
 			<Forvaltningklassifikation_V2.3>tt</Forvaltningklassifikation_V2.3>
-			<IFC2X3_Entity>IfcFlowTreamentDevice</IFC2X3_Entity>
+			<IFC2X3_Entity>IfcFlowTreatmentDevice</IFC2X3_Entity>
 			<IFC4_Entity>IfcInterceptor</IFC4_Entity>
 		</Item>
 		<Item>
