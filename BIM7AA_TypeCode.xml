@@ -5245,7 +5245,7 @@
 			<BC-SfB_1980>(70)2</BC-SfB_1980>
 			<CCS_R1>[L]PHD</CCS_R1>
 			<Forvaltningklassifikation_V2.3>ti.tav</Forvaltningklassifikation_V2.3>
-			<IFC2X3_Entity>IfcFurniture</IFC2X3_Entity>
+			<IFC2X3_Entity>IfcFurnishingElement</IFC2X3_Entity>
 			<IFC4_Entity>IfcFurniture</IFC4_Entity>
 		</Item>
 		<Item>
@@ -5257,7 +5257,7 @@
 			<BC-SfB_1980>(70)3</BC-SfB_1980>
 			<CCS_R1>[L]UBB</CCS_R1>
 			<Forvaltningklassifikation_V2.3>ti.tav</Forvaltningklassifikation_V2.3>
-			<IFC2X3_Entity>IfcFurniture</IFC2X3_Entity>
+			<IFC2X3_Entity>IfcFurnishingElement</IFC2X3_Entity>
 			<IFC4_Entity>IfcFurniture</IFC4_Entity>
 		</Item>
 		<Item>
@@ -5269,7 +5269,7 @@
 			<BC-SfB_1980>(70)4</BC-SfB_1980>
 			<CCS_R1>[L]RB</CCS_R1>
 			<Forvaltningklassifikation_V2.3>ti.bor</Forvaltningklassifikation_V2.3>
-			<IFC2X3_Entity>IfcFurniture</IFC2X3_Entity>
+			<IFC2X3_Entity>IfcFurnishingElement</IFC2X3_Entity>
 			<IFC4_Entity>IfcFurniture</IFC4_Entity>
 			<IFC4_EnumerationType>TABLE</IFC4_EnumerationType>
 		</Item>
@@ -5282,7 +5282,7 @@
 			<BC-SfB_1980>(70)5</BC-SfB_1980>
 			<CCS_R1>[L]RB</CCS_R1>
 			<Forvaltningklassifikation_V2.3>ti.bor</Forvaltningklassifikation_V2.3>
-			<IFC2X3_Entity>IfcFurniture</IFC2X3_Entity>
+			<IFC2X3_Entity>IfcFurnishingElement</IFC2X3_Entity>
 			<IFC4_Entity>IfcFurniture</IFC4_Entity>
 		</Item>
 		<Item>
@@ -5295,7 +5295,7 @@
 			<BC-SfB_1980>(70)</BC-SfB_1980>
 			<CCS_R1>[L]RQD</CCS_R1>
 			<Forvaltningklassifikation_V2.3>ti.tav</Forvaltningklassifikation_V2.3>
-			<IFC2X3_Entity>IfcFurniture</IFC2X3_Entity>
+			<IFC2X3_Entity>IfcFurnishingElement</IFC2X3_Entity>
 			<IFC4_Entity>IfcFurniture</IFC4_Entity>
 		</Item>
 		<Item>
@@ -5308,7 +5308,7 @@
 			<BC-SfB_1980>(70)</BC-SfB_1980>
 			<CCS_R1>[L]RB</CCS_R1>
 			<Forvaltningklassifikation_V2.3>ti</Forvaltningklassifikation_V2.3>
-			<IFC2X3_Entity>IfcFurniture</IFC2X3_Entity>
+			<IFC2X3_Entity>IfcFurnishingElement</IFC2X3_Entity>
 			<IFC4_Entity>IfcFurniture</IFC4_Entity>
 		</Item>
 		<Item>
@@ -5337,7 +5337,7 @@
 			<BC-SfB_1980>(71)2</BC-SfB_1980>
 			<CCS_R1>[L]RB</CCS_R1>
 			<Forvaltningklassifikation_V2.3>bi.ska</Forvaltningklassifikation_V2.3>
-			<IFC2X3_Entity>IfcFurniture</IFC2X3_Entity>
+			<IFC2X3_Entity>IfcFurnishingElement</IFC2X3_Entity>
 			<IFC4_Entity>IfcFurniture</IFC4_Entity>
 		</Item>
 		<Item>
@@ -5349,7 +5349,7 @@
 			<BC-SfB_1980>(71)1</BC-SfB_1980>
 			<CCS_R1>[L]RB</CCS_R1>
 			<Forvaltningklassifikation_V2.3>bi.møb</Forvaltningklassifikation_V2.3>
-			<IFC2X3_Entity>IfcFurniture</IFC2X3_Entity>
+			<IFC2X3_Entity>IfcFurnishingElement</IFC2X3_Entity>
 			<IFC4_Entity>IfcFurniture</IFC4_Entity>
 		</Item>
 		<Item>
@@ -5361,7 +5361,7 @@
 			<BC-SfB_1980>(75)</BC-SfB_1980>
 			<CCS_R1>[L]RB</CCS_R1>
 			<Forvaltningklassifikation_V2.3>bi.møb</Forvaltningklassifikation_V2.3>
-			<IFC2X3_Entity>IfcFurniture</IFC2X3_Entity>
+			<IFC2X3_Entity>IfcFurnishingElement</IFC2X3_Entity>
 			<IFC4_Entity>IfcFurniture</IFC4_Entity>
 		</Item>
 		<Item>
@@ -5374,7 +5374,7 @@
 			<BC-SfB_1980>(77)</BC-SfB_1980>
 			<CCS_R1>[L]RQE</CCS_R1>
 			<Forvaltningklassifikation_V2.3>bi.skæ</Forvaltningklassifikation_V2.3>
-			<IFC2X3_Entity>IfcSystemFurnitureElement</IFC2X3_Entity>
+			<IFC2X3_Entity>IfcFurnishingElement</IFC2X3_Entity>
 			<IFC4_Entity>IfcSystemFurnitureElement</IFC4_Entity>
 		</Item>
 		<Item>
@@ -5386,7 +5386,7 @@
 			<BC-SfB_1980>(74)</BC-SfB_1980>
 			<CCS_R1>[L]RB</CCS_R1>
 			<Forvaltningklassifikation_V2.3>bi.møb</Forvaltningklassifikation_V2.3>
-			<IFC2X3_Entity>IfcFurniture</IFC2X3_Entity>
+			<IFC2X3_Entity>IfcFurnishingElement</IFC2X3_Entity>
 			<IFC4_Entity>IfcFurniture</IFC4_Entity>
 			<IFC4_EnumerationType>TABLE</IFC4_EnumerationType>
 		</Item>
@@ -5399,7 +5399,7 @@
 			<BC-SfB_1980>(72)2</BC-SfB_1980>
 			<CCS_R1>[L]PHD</CCS_R1>
 			<Forvaltningklassifikation_V2.3>bi.ski</Forvaltningklassifikation_V2.3>
-			<IFC2X3_Entity>IfcFurniture</IFC2X3_Entity>
+			<IFC2X3_Entity>IfcFurnishingElement</IFC2X3_Entity>
 			<IFC4_Entity>IfcFurniture</IFC4_Entity>
 		</Item>
 		<Item>
@@ -5412,7 +5412,7 @@
 			<BC-SfB_1980>(78)1</BC-SfB_1980>
 			<CCS_R1>[L]RC</CCS_R1>
 			<Forvaltningklassifikation_V2.3>bi</Forvaltningklassifikation_V2.3>
-			<IFC2X3_Entity>IfcFurniture</IFC2X3_Entity>
+			<IFC2X3_Entity>IfcFurnishingElement</IFC2X3_Entity>
 			<IFC4_Entity>IfcFurniture</IFC4_Entity>
 		</Item>
 		<Item>
@@ -5424,7 +5424,7 @@
 			<BC-SfB_1980>(78)1</BC-SfB_1980>
 			<CCS_R1>[L]RB</CCS_R1>
 			<Forvaltningklassifikation_V2.3>bi</Forvaltningklassifikation_V2.3>
-			<IFC2X3_Entity>IfcFurniture</IFC2X3_Entity>
+			<IFC2X3_Entity>IfcFurnishingElement</IFC2X3_Entity>
 			<IFC4_Entity>IfcFurniture</IFC4_Entity>
 		</Item>
 		<Item>
@@ -5443,7 +5443,7 @@
 			<BC-SfB_1980>(71)2</BC-SfB_1980>
 			<CCS_R1>[L]RB</CCS_R1>
 			<Forvaltningklassifikation_V2.3>bi.ska</Forvaltningklassifikation_V2.3>
-			<IFC2X3_Entity>IfcFurniture</IFC2X3_Entity>
+			<IFC2X3_Entity>IfcFurnishingElement</IFC2X3_Entity>
 			<IFC4_Entity>IfcFurniture</IFC4_Entity>
 		</Item>
 		<Item>
@@ -5455,7 +5455,7 @@
 			<BC-SfB_1980>(71)1</BC-SfB_1980>
 			<CCS_R1>[L]RB</CCS_R1>
 			<Forvaltningklassifikation_V2.3>bi.møb</Forvaltningklassifikation_V2.3>
-			<IFC2X3_Entity>IfcFurniture</IFC2X3_Entity>
+			<IFC2X3_Entity>IfcFurnishingElement</IFC2X3_Entity>
 			<IFC4_Entity>IfcFurniture</IFC4_Entity>
 		</Item>
 		<Item>
@@ -5467,7 +5467,7 @@
 			<BC-SfB_1980>(75)</BC-SfB_1980>
 			<CCS_R1>[L]RB</CCS_R1>
 			<Forvaltningklassifikation_V2.3>bi.møb</Forvaltningklassifikation_V2.3>
-			<IFC2X3_Entity>IfcFurniture</IFC2X3_Entity>
+			<IFC2X3_Entity>IfcFurnishingElement</IFC2X3_Entity>
 			<IFC4_Entity>IfcFurniture</IFC4_Entity>
 		</Item>
 		<Item>
@@ -5479,7 +5479,7 @@
 			<BC-SfB_1980>(77)4</BC-SfB_1980>
 			<CCS_R1>[L]RQD</CCS_R1>
 			<Forvaltningklassifikation_V2.3>bi.skæ</Forvaltningklassifikation_V2.3>
-			<IFC2X3_Entity>IfcSystemFurnitureElement</IFC2X3_Entity>
+			<IFC2X3_Entity>IfcFurnishingElement</IFC2X3_Entity>
 			<IFC4_Entity>IfcSystemFurnitureElement</IFC4_Entity>
 		</Item>
 		<Item>
@@ -5491,7 +5491,7 @@
 			<BC-SfB_1980>(74)</BC-SfB_1980>
 			<CCS_R1>[L]RB</CCS_R1>
 			<Forvaltningklassifikation_V2.3>bi.møb</Forvaltningklassifikation_V2.3>
-			<IFC2X3_Entity>IfcFurniture</IFC2X3_Entity>
+			<IFC2X3_Entity>IfcFurnishingElement</IFC2X3_Entity>
 			<IFC4_Entity>IfcFurniture</IFC4_Entity>
 		</Item>
 		<Item>
@@ -5503,7 +5503,7 @@
 			<BC-SfB_1980>(72)2</BC-SfB_1980>
 			<CCS_R1>[L]RB</CCS_R1>
 			<Forvaltningklassifikation_V2.3>bi.ska</Forvaltningklassifikation_V2.3>
-			<IFC2X3_Entity>IfcFurniture</IFC2X3_Entity>
+			<IFC2X3_Entity>IfcFurnishingElement</IFC2X3_Entity>
 			<IFC4_Entity>IfcFurniture</IFC4_Entity>
 		</Item>
 		<Item>
@@ -5515,7 +5515,7 @@
 			<BC-SfB_1980>(77)2</BC-SfB_1980>
 			<CCS_R1>[L]PLF</CCS_R1>
 			<Forvaltningklassifikation_V2.3>bi.tet</Forvaltningklassifikation_V2.3>
-			<IFC2X3_Entity>IfcFurniture</IFC2X3_Entity>
+			<IFC2X3_Entity>IfcFurnishingElement</IFC2X3_Entity>
 			<IFC4_Entity>IfcFurniture</IFC4_Entity>
 		</Item>
 		<Item>
@@ -5527,7 +5527,7 @@
 			<BC-SfB_1980>(78)1</BC-SfB_1980>
 			<CCS_R1>[L]RB</CCS_R1>
 			<Forvaltningklassifikation_V2.3>bi</Forvaltningklassifikation_V2.3>
-			<IFC2X3_Entity>IfcFurniture</IFC2X3_Entity>
+			<IFC2X3_Entity>IfcFurnishingElement</IFC2X3_Entity>
 			<IFC4_Entity>IfcFurniture</IFC4_Entity>
 		</Item>
 		<Item>
