@@ -185,6 +185,7 @@
 			<Forvaltningklassifikation_V2.3>t</Forvaltningklassifikation_V2.3>
 			<IFC2X3_Entity>IfcPile</IFC2X3_Entity>
 			<IFC2X3_EntityType>IfcPile</IFC2X3_EntityType>
+			<IFC2X3_EnumerationType>DRIVEN</IFC2X3_EnumerationType>
 			<IFC4_Entity>IfcPile</IFC4_Entity>
 			<IFC4_EntityType>IfcPileType</IFC4_EntityType>
 			<IFC4_EnumerationType>DRIVEN</IFC4_EnumerationType>
@@ -201,8 +202,10 @@
 			<Forvaltningklassifikation_V2.3>t</Forvaltningklassifikation_V2.3>
 			<IFC2X3_Entity>IfcBuildingElementProxy</IFC2X3_Entity>
 			<IFC2X3_EntityType>IfcBuildingElementProxyType</IFC2X3_EntityType>
+			<IFC2X3_EnumerationType>USERDEFINED<IFC2X3_EnumerationType>
 			<IFC4_Entity>IfcBuildingElementProxy</IFC4_Entity>
 			<IFC4_EntityType>IfcBuildingElementProxyType</IFC4_EntityType>
+			<IFC4_EnumerationType>USERDEFINED<IFC4_EnumerationType>
 		</Item>
 		<Item>
 			<Identification>12</Identification>
