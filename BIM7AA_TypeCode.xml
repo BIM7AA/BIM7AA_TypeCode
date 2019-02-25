@@ -16,6 +16,17 @@
 			<Name_de>Generische  Objekte</Name_de>
 			<Name_en>Generic Building Elements</Name_en>
 			<Name_se>Generiska objekt</Name_se>
+			<Description_dk/>
+			<BC-SfB_1980/>
+			<BSAB/>
+			<CCS_R1/>
+			<Forvaltningklassifikation_V2.3/>
+			<IFC2X3_Entity/>
+			<IFC2X3_EntityType/>
+			<IFC2X3_EnumerationType/>
+			<IFC4_Entity/>
+			<IFC4_EntityType/>
+			<IFC4_EnumerationType/>
 		</Item>
 		<Item>
 			<Identification>01</Identification>
@@ -173,7 +184,9 @@
 			<CCS_R1>[L]UKH</CCS_R1>
 			<Forvaltningklassifikation_V2.3>t</Forvaltningklassifikation_V2.3>
 			<IFC2X3_Entity>IfcPile</IFC2X3_Entity>
+			<IFC2X3_EntityType>IfcPile</IFC2X3_EntityType>
 			<IFC4_Entity>IfcPile</IFC4_Entity>
+			<IFC4_EntityType>IfcPileType</IFC4_EntityType>
 			<IFC4_EnumerationType>DRIVEN</IFC4_EnumerationType>
 		</Item>
 		<Item>
@@ -187,7 +200,9 @@
 			<CCS_R1>[D]</CCS_R1>
 			<Forvaltningklassifikation_V2.3>t</Forvaltningklassifikation_V2.3>
 			<IFC2X3_Entity>IfcBuildingElementProxy</IFC2X3_Entity>
+			<IFC2X3_EntityType>IfcBuildingElementProxyType</IFC2X3_EntityType>
 			<IFC4_Entity>IfcBuildingElementProxy</IFC4_Entity>
+			<IFC4_EntityType>IfcBuildingElementProxyType</IFC4_EntityType>
 		</Item>
 		<Item>
 			<Identification>12</Identification>
@@ -5139,6 +5154,7 @@
 			<Name_dk>Person- og materialetransport</Name_dk>
 			<Name_de>Personen- und Materialtransport</Name_de>
 			<Name_en>Passenger and material transportation</Name_en>
+			<IFC2X3_Entity>IfcTransportElement</IFC2X3_Entity>
 		</Item>
 		<Item>
 			<Identification>681</Identification>
@@ -5156,24 +5172,28 @@
 			<Name_dk>Elevatorer</Name_dk>
 			<Name_de>Fahrstühle</Name_de>
 			<CCS_R1>[L]JM</CCS_R1>
+			<IFC2X3_Entity>IfcTransportElement</IFC2X3_Entity>
 		</Item>
 		<Item>
 			<Identification>6812</Identification>
 			<Name_dk>Lifte</Name_dk>
 			<Name_de>Hebebühnen</Name_de>
 			<CCS_R1>[L]JM</CCS_R1>
+			<IFC2X3_Entity>IfcTransportElement</IFC2X3_Entity>
 		</Item>
 		<Item>
 			<Identification>6813</Identification>
 			<Name_dk>Rullende trapper</Name_dk>
 			<Name_de>Rolltreppen</Name_de>
 			<CCS_R1>[L]JM</CCS_R1>
+			<IFC2X3_Entity>IfcTransportElement</IFC2X3_Entity>
 		</Item>
 		<Item>
 			<Identification>6814</Identification>
 			<Name_dk>Rullende fortove</Name_dk>
 			<Name_de>Fahrsteige</Name_de>
 			<CCS_R1>[L]JM</CCS_R1>
+			<IFC2X3_Entity>IfcTransportElement</IFC2X3_Entity>
 		</Item>
 		<Item>
 			<Identification>682</Identification>
@@ -5191,24 +5211,28 @@
 			<Name_dk>Elevatorer</Name_dk>
 			<Name_de>Fahrstühle</Name_de>
 			<CCS_R1>[L]JN</CCS_R1>
+			<IFC2X3_Entity>IfcTransportElement</IFC2X3_Entity>
 		</Item>
 		<Item>
 			<Identification>6822</Identification>
 			<Name_dk>Lifte og sakseborde</Name_dk>
 			<Name_de>Hebebühnen</Name_de>
 			<CCS_R1>[L]RC</CCS_R1>
+			<IFC2X3_Entity>IfcTransportElement</IFC2X3_Entity>
 		</Item>
 		<Item>
 			<Identification>6823</Identification>
 			<Name_dk>Transportbånd</Name_dk>
 			<Name_de>Transportbänder</Name_de>
 			<CCS_R1>[L]JN</CCS_R1>
+			<IFC2X3_Entity>IfcTransportElement</IFC2X3_Entity>
 		</Item>
 		<Item>
 			<Identification>6824</Identification>
 			<Name_dk>Kraner og taljer</Name_dk>
 			<Name_de>Krane und Hebetechnik</Name_de>
 			<CCS_R1>[L]BDA</CCS_R1>
+			<IFC2X3_Entity>IfcTransportElement</IFC2X3_Entity>
 		</Item>
 		<Item>
 			<Identification>7</Identification>
@@ -5234,6 +5258,7 @@
 			<BC-SfB_1980>(70)1</BC-SfB_1980>
 			<CCS_R1>[L]RB</CCS_R1>
 			<Forvaltningklassifikation_V2.3>ti.tei</Forvaltningklassifikation_V2.3>
+			<IFC2X3_Entity>IfcFlowTerminal</IFC2X3_Entity>
 		</Item>
 		<Item>
 			<Identification>702</Identification>
@@ -5320,6 +5345,7 @@
 			<BC-SfB_1980>(70)</BC-SfB_1980>
 			<CCS_R1>[L]RB</CCS_R1>
 			<Forvaltningklassifikation_V2.3>ti</Forvaltningklassifikation_V2.3>
+			<IFC2X3_Entity>IfcFurnishingElement</IFC2X3_Entity>
 		</Item>
 		<Item>
 			<Identification>71</Identification>
@@ -5843,6 +5869,7 @@
 			<BC-SfB_1980>(40)7</BC-SfB_1980>
 			<CCS_R1>[L]RA</CCS_R1>
 			<Forvaltningklassifikation_V2.3>tb</Forvaltningklassifikation_V2.3>
+			<IFC2X3_Entity>IfcBuildingElementProxy</IFC2X3_Entity>
 		</Item>
 		<Item>
 			<Identification>9</Identification>
