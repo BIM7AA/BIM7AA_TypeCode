@@ -19,6 +19,7 @@
 			<Description_dk/>
 			<BC-SfB_1980/>
 			<BSAB/>
+			<Bips_C213/>
 			<CCS_R1/>
 			<Forvaltningklassifikation_V2.3/>
 			<IFC2X3_Entity/>
@@ -202,10 +203,10 @@
 			<Forvaltningklassifikation_V2.3>t</Forvaltningklassifikation_V2.3>
 			<IFC2X3_Entity>IfcBuildingElementProxy</IFC2X3_Entity>
 			<IFC2X3_EntityType>IfcBuildingElementProxyType</IFC2X3_EntityType>
-			<IFC2X3_EnumerationType>USERDEFINED<IFC2X3_EnumerationType>
+			<IFC2X3_EnumerationType>USERDEFINED</IFC2X3_EnumerationType>
 			<IFC4_Entity>IfcBuildingElementProxy</IFC4_Entity>
 			<IFC4_EntityType>IfcBuildingElementProxyType</IFC4_EntityType>
-			<IFC4_EnumerationType>USERDEFINED<IFC4_EnumerationType>
+			<IFC4_EnumerationType>USERDEFINED</IFC4_EnumerationType>
 		</Item>
 		<Item>
 			<Identification>12</Identification>
@@ -4200,7 +4201,7 @@
 			<CCS_R1>[L]UBA</CCS_R1>
 			<Forvaltningklassifikation_V2.3>bt.elf.sam</Forvaltningklassifikation_V2.3>
 			<IFC2X3_Entity>IfcFlowSegment</IFC2X3_Entity>
-			<IFC2X3_EntityType>IfcCableCarrierSegmentType<IFC2X3_EntityType>
+			<IFC2X3_EntityType>IfcCableCarrierSegmentType</IFC2X3_EntityType>
 			<IFC4_Entity>IfcCableCarrierSegment</IFC4_Entity>
 			<IFC4_EntityType>IfcCableCarrierSegmentType</IFC4_EntityType>
 		</Item>
@@ -4211,7 +4212,7 @@
 			<CCS_R1>[L]UBA</CCS_R1>
 			<Forvaltningklassifikation_V2.3>bt.elf.sam</Forvaltningklassifikation_V2.3>
 			<IFC2X3_Entity>IfcFlowSegment</IFC2X3_Entity>
-			<IFC2X3_EntityType>IfcCableCarrierSegmentType<IFC2X3_EntityType>
+			<IFC2X3_EntityType>IfcCableCarrierSegmentType</IFC2X3_EntityType>
 			<IFC2X3_EnumerationType>CABLELADDERSEGMENT</IFC2X3_EnumerationType>
 			<IFC4_Entity>IfcCableCarrierSegment</IFC4_Entity>
 			<IFC4_EntityType>IfcCableCarrierSegmentType</IFC4_EntityType>
@@ -4224,7 +4225,7 @@
 			<CCS_R1>[L]UBA</CCS_R1>
 			<Forvaltningklassifikation_V2.3>bt.elf.sam</Forvaltningklassifikation_V2.3>
 			<IFC2X3_Entity>IfcFlowSegment</IFC2X3_Entity>
-			<IFC2X3_EntityType>IfcCableCarrierSegmentType<IFC2X3_EntityType>
+			<IFC2X3_EntityType>IfcCableCarrierSegmentType</IFC2X3_EntityType>
 			<IFC2X3_EnumerationType>CABLETRAYSEGMENT</IFC2X3_EnumerationType>
 			<IFC4_Entity>IfcCableCarrierSegment</IFC4_Entity>
 			<IFC4_EntityType>IfcCableCarrierSegmentType</IFC4_EntityType>
@@ -4237,7 +4238,7 @@
 			<CCS_R1>[L]UBA</CCS_R1>
 			<Forvaltningklassifikation_V2.3>bt.elf.sam</Forvaltningklassifikation_V2.3>
 			<IFC2X3_Entity>IfcFlowSegment</IFC2X3_Entity>
-			<IFC2X3_EntityType>IfcCableCarrierSegmentType<IFC2X3_EntityType>
+			<IFC2X3_EntityType>IfcCableCarrierSegmentType</IFC2X3_EntityType>
 			<IFC2X3_EnumerationType>CABLETRAYSEGMENT</IFC2X3_EnumerationType>
 			<IFC4_Entity>IfcCableCarrierSegment</IFC4_Entity>
 			<IFC4_EntityType>IfcCableCarrierSegmentType</IFC4_EntityType>
@@ -4252,7 +4253,7 @@
 			<CCS_R1>[L]UBA</CCS_R1>
 			<Forvaltningklassifikation_V2.3>bt.elf.sam</Forvaltningklassifikation_V2.3>
 			<IFC2X3_Entity>IfcFlowSegment</IFC2X3_Entity>
-			<IFC2X3_EntityType>IfcCableCarrierSegmentType<IFC2X3_EntityType>
+			<IFC2X3_EntityType>IfcCableCarrierSegmentType</IFC2X3_EntityType>
 			<IFC4_Entity>IfcCableCarrierSegment</IFC4_Entity>
 			<IFC4_EntityType>IfcCableCarrierSegmentType</IFC4_EntityType>
 		</Item>
@@ -4263,7 +4264,7 @@
 			<CCS_R1>[L]UBA</CCS_R1>
 			<Forvaltningklassifikation_V2.3>bt.elf.sam</Forvaltningklassifikation_V2.3>
 			<IFC2X3_Entity>IfcFlowSegment</IFC2X3_Entity>
-			<IFC2X3_EntityType>IfcCableCarrierSegmentType<IFC2X3_EntityType>
+			<IFC2X3_EntityType>IfcCableCarrierSegmentType</IFC2X3_EntityType>
 			<IFC2X3_EnumerationType>CABLETRUNKINGSEGMENT</IFC2X3_EnumerationType>
 			<IFC4_Entity>IfcCableCarrierSegment</IFC4_Entity>
 			<IFC4_EntityType>IfcCableCarrierSegmentType</IFC4_EntityType>
@@ -4278,7 +4279,7 @@
 			<CCS_R1>[L]UBA</CCS_R1>
 			<Forvaltningklassifikation_V2.3>bt.elf.sam</Forvaltningklassifikation_V2.3>
 			<IFC2X3_Entity>IfcFlowSegment</IFC2X3_Entity>
-			<IFC2X3_EntityType>IfcCableCarrierSegmentType<IFC2X3_EntityType>
+			<IFC2X3_EntityType>IfcCableCarrierSegmentType</IFC2X3_EntityType>
 			<IFC2X3_EnumerationType>CONDUITSEGMENT</IFC2X3_EnumerationType>
 			<IFC4_Entity>IfcCableCarrierSegment</IFC4_Entity>
 			<IFC4_EntityType>IfcCableCarrierSegmentType</IFC4_EntityType>
@@ -4291,7 +4292,7 @@
 			<CCS_R1>[L]WPA</CCS_R1>
 			<Forvaltningklassifikation_V2.3>bt.elf.sam</Forvaltningklassifikation_V2.3>
 			<IFC2X3_Entity>IfcFlowSegment</IFC2X3_Entity>
-			<IFC2X3_EntityType>IfcCableCarrierSegmentType<IFC2X3_EntityType>
+			<IFC2X3_EntityType>IfcCableCarrierSegmentType</IFC2X3_EntityType>
 			<IFC2X3_EnumerationType>CONDUITSEGMENT</IFC2X3_EnumerationType>
 			<IFC4_Entity>IfcCableCarrierSegment</IFC4_Entity>
 			<IFC4_EntityType>IfcCableCarrierSegmentType</IFC4_EntityType>
@@ -4304,7 +4305,7 @@
 			<CCS_R1>[L]WPA</CCS_R1>
 			<Forvaltningklassifikation_V2.3>bt.elf.sam</Forvaltningklassifikation_V2.3>
 			<IFC2X3_Entity>IfcFlowSegment</IFC2X3_Entity>
-			<IFC2X3_EntityType>IfcCableCarrierSegmentType<IFC2X3_EntityType>
+			<IFC2X3_EntityType>IfcCableCarrierSegmentType</IFC2X3_EntityType>
 			<IFC2X3_EnumerationType>CONDUITSEGMENT</IFC2X3_EnumerationType>
 			<IFC4_Entity>IfcCableCarrierSegment</IFC4_Entity>
 			<IFC4_EntityType>IfcCableCarrierSegmentType</IFC4_EntityType>
@@ -4316,7 +4317,7 @@
 			<Name_de>Stahlkabelrohr</Name_de>
 			<CCS_R1>[L]WPA</CCS_R1>
 			<IFC2X3_Entity>IfcFlowSegment</IFC2X3_Entity>
-			<IFC2X3_EntityType>IfcCableCarrierSegmentType<IFC2X3_EntityType>
+			<IFC2X3_EntityType>IfcCableCarrierSegmentType</IFC2X3_EntityType>
 			<IFC2X3_EnumerationType>CONDUITSEGMENT</IFC2X3_EnumerationType>
 			<IFC4_Entity>IfcCableCarrierSegment</IFC4_Entity>
 			<IFC4_EntityType>IfcCableCarrierSegmentType</IFC4_EntityType>
@@ -4331,7 +4332,7 @@
 			<CCS_R1>[L]UBA</CCS_R1>
 			<Forvaltningklassifikation_V2.3>bt.elf.sam</Forvaltningklassifikation_V2.3>
 			<IFC2X3_Entity>IfcFlowSegment</IFC2X3_Entity>
-			<IFC2X3_EntityType>IfcCableCarrierSegmentType<IFC2X3_EntityType>
+			<IFC2X3_EntityType>IfcCableCarrierSegmentType</IFC2X3_EntityType>
 			<IFC2X3_EnumerationType>CABLETRAYSEGMENT</IFC2X3_EnumerationType>
 			<IFC4_Entity>IfcCableCarrierSegment</IFC4_Entity>
 			<IFC4_EntityType>IfcCableCarrierSegmentType</IFC4_EntityType>
@@ -4344,7 +4345,7 @@
 			<CCS_R1>[L]UBA</CCS_R1>
 			<Forvaltningklassifikation_V2.3>bt.elf.sam</Forvaltningklassifikation_V2.3>
 			<IFC2X3_Entity>IfcFlowSegment</IFC2X3_Entity>
-			<IFC2X3_EntityType>IfcCableCarrierSegmentType<IFC2X3_EntityType>
+			<IFC2X3_EntityType>IfcCableCarrierSegmentType</IFC2X3_EntityType>
 			<IFC2X3_EnumerationType>CABLETRAYSEGMENT</IFC2X3_EnumerationType>
 			<IFC4_Entity>IfcCableCarrierSegment</IFC4_Entity>
 			<IFC4_EntityType>IfcCableCarrierSegmentType</IFC4_EntityType>
@@ -4359,7 +4360,7 @@
 			<CCS_R1>[L]FMD</CCS_R1>
 			<Forvaltningklassifikation_V2.3>bt.elf.sam</Forvaltningklassifikation_V2.3>
 			<IFC2X3_Entity>IfcCovering</IFC2X3_Entity>
-			<IFC2X3_EntityType>IfcCoveringType<IFC2X3_EntityType>
+			<IFC2X3_EntityType>IfcCoveringType</IFC2X3_EntityType>
 			<IFC2X3_EnumerationType>INSULATION</IFC2X3_EnumerationType>
 			<IFC4_Entity>IfcCovering</IFC4_Entity>
 			<IFC4_EntityType>IfcCoveringType</IFC4_EntityType>
@@ -4372,7 +4373,7 @@
 			<CCS_R1>[L]FMD</CCS_R1>
 			<Forvaltningklassifikation_V2.3>bt.elf.sam</Forvaltningklassifikation_V2.3>
 			<IFC2X3_Entity>IfcCovering</IFC2X3_Entity>
-			<IFC2X3_EntityType>IfcCoveringType<IFC2X3_EntityType>
+			<IFC2X3_EntityType>IfcCoveringType</IFC2X3_EntityType>
 			<IFC2X3_EnumerationType>INSULATION</IFC2X3_EnumerationType>
 			<IFC4_Entity>IfcCovering</IFC4_Entity>
 			<IFC4_EntityType>IfcCoveringType</IFC4_EntityType>
@@ -4385,7 +4386,7 @@
 			<CCS_R1>[L]RQC</CCS_R1>
 			<Forvaltningklassifikation_V2.3>bt.elf.sam</Forvaltningklassifikation_V2.3>
 			<IFC2X3_Entity>IfcCovering</IFC2X3_Entity>
-			<IFC2X3_EntityType>IfcCoveringType<IFC2X3_EntityType>
+			<IFC2X3_EntityType>IfcCoveringType</IFC2X3_EntityType>
 			<IFC2X3_EnumerationType>INSULATION</IFC2X3_EnumerationType>
 			<IFC4_Entity>IfcCovering</IFC4_Entity>
 			<IFC4_EntityType>IfcCoveringType</IFC4_EntityType>
@@ -4453,7 +4454,7 @@
 			<IFC2X3_EnumerationType></IFC2X3_EnumerationType>
 			<IFC4_Entity>IfcJunctionBox</IFC4_Entity>
 			<IFC4_EntityType>IfcJunctionBoxType</IFC4_EntityType>
-			<IFC24_EnumerationType>POWER</IFC4_EnumerationType>
+			<IFC4_EnumerationType>POWER</IFC4_EnumerationType>
 		</Item>
 		<Item>
 			<Identification>6192</Identification>
@@ -4466,7 +4467,7 @@
 			<IFC2X3_EnumerationType></IFC2X3_EnumerationType>
 			<IFC4_Entity>IfcJunctionBox</IFC4_Entity>
 			<IFC4_EntityType>IfcJunctionBoxType</IFC4_EntityType>
-			<IFC24_EnumerationType>POWER</IFC4_EnumerationType>
+			<IFC4_EnumerationType>POWER</IFC4_EnumerationType>
 		</Item>
 		<Item>
 			<Identification>62</Identification>
