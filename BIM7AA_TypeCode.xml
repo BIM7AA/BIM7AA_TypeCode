@@ -171,8 +171,12 @@
 			<BC-SfB_1980>(10)2</BC-SfB_1980>
 			<CCS_R1>[L]XTC</CCS_R1>
 			<Forvaltningklassifikation_V2.3>t</Forvaltningklassifikation_V2.3>
-			<IFC2X3_Entity>IfcSite</IFC2X3_Entity>
+			<IFC2X3_Entity>IfcBuildingElementProxy</IFC2X3_Entity>
+			<IFC2X3_EntityType>IfcBuildingElementProxyType</IFC2X3_EntityType>
+			<IFC2X3_EnumerationType>USERDEFINED</IFC2X3_EnumerationType>
 			<IFC4_Entity>IfcSite</IFC4_Entity>
+			<IFC4_EntityType>IfcBuildingElementProxyType</IFC4_EntityType>
+			<IFC4_EnumerationType>USERDEFINED</IFC4_EnumerationType>
 		</Item>
 		<Item>
 			<Identification>103</Identification>
@@ -226,7 +230,10 @@
 			<CCS_R1>[L]UKE</CCS_R1>
 			<Forvaltningklassifikation_V2.3>bk.fun</Forvaltningklassifikation_V2.3>
 			<IFC2X3_Entity>IfcFooting</IFC2X3_Entity>
+			<IFC2X3_EntityType/>
+			<IFC2X3_EnumerationType>STRIP_FOOTING</IFC2X3_EnumerationType>
 			<IFC4_Entity>IfcFooting</IFC4_Entity>
+			<IFC4_EntityType>IfcFootingType</IFC4_EntityType>
 			<IFC4_EnumerationType>STRIP_FOOTING</IFC4_EnumerationType>
 		</Item>
 		<Item>
@@ -240,7 +247,10 @@
 			<CCS_R1>[L]UKG</CCS_R1>
 			<Forvaltningklassifikation_V2.3>bk.fun</Forvaltningklassifikation_V2.3>
 			<IFC2X3_Entity>IfcFooting</IFC2X3_Entity>
+			<IFC2X3_EntityType/>
+			<IFC2X3_EnumerationType>PAD_FOOTING</IFC2X3_EnumerationType>
 			<IFC4_Entity>IfcFooting</IFC4_Entity>
+			<IFC4_EntityType>IfcFootingType</IFC4_EntityType>
 			<IFC4_EnumerationType>PAD_FOOTING</IFC4_EnumerationType>
 		</Item>
 		<Item>
@@ -254,7 +264,10 @@
 			<CCS_R1>[L]UKF</CCS_R1>
 			<Forvaltningklassifikation_V2.3>bk.fun</Forvaltningklassifikation_V2.3>
 			<IFC2X3_Entity>IfcSlab</IFC2X3_Entity>
+			<IFC2X3_EntityType>IfcSlabType</IFC2X3_EntityType>
+			<IFC2X3_EnumerationType>BASESLAB</IFC2X3_EnumerationType>
 			<IFC4_Entity>IfcSlab</IFC4_Entity>
+			<IFC4_EntityType>IfcSlab</IFC4_EntityType>
 			<IFC4_EnumerationType>BASESLAB</IFC4_EnumerationType>
 		</Item>
 		<Item>
@@ -268,7 +281,11 @@
 			<CCS_R1>[L]UKH</CCS_R1>
 			<Forvaltningklassifikation_V2.3>bk.fun</Forvaltningklassifikation_V2.3>
 			<IFC2X3_Entity>IfcFooting</IFC2X3_Entity>
+			<IFC2X3_EntityType/>
+			<IFC2X3_EnumerationType>USERDEFINED</IFC2X3_EnumerationType>
 			<IFC4_Entity>IfcFooting</IFC4_Entity>
+			<IFC4_EntityType>IfcFootingType</IFC4_EntityType>
+			<IFC4_EnumerationType>USERDEFINED</IFC4_EnumerationType>
 		</Item>
 		<Item>
 			<Identification>125</Identification>
@@ -281,7 +298,11 @@
 			<CCS_R1>[L]UKG</CCS_R1>
 			<Forvaltningklassifikation_V2.3>bk.fun</Forvaltningklassifikation_V2.3>
 			<IFC2X3_Entity>IfcFooting</IFC2X3_Entity>
+			<IFC2X3_EntityType/>
+			<IFC2X3_EnumerationType>USERDEFINED</IFC2X3_EnumerationType>
 			<IFC4_Entity>IfcFooting</IFC4_Entity>
+			<IFC4_EntityType>IfcFootingType</IFC4_EntityType>
+			<IFC4_EnumerationType>USERDEFINED</IFC4_EnumerationType>
 		</Item>
 		<Item>
 			<Identification>126</Identification>
@@ -294,7 +315,11 @@
 			<CCS_R1>[L]UKD</CCS_R1>
 			<Forvaltningklassifikation_V2.3>bk.fun</Forvaltningklassifikation_V2.3>
 			<IFC2X3_Entity>IfcFooting</IFC2X3_Entity>
+			<IFC2X3_EntityType/>
+			<IFC2X3_EnumerationType>PILE_CAP</IFC2X3_EnumerationType>
 			<IFC4_Entity>IfcFooting</IFC4_Entity>
+			<IFC4_EntityType>IfcFootingType</IFC4_EntityType>
+			<IFC4_EnumerationType>PILE_CAP</IFC4_EnumerationType>
 		</Item>
 		<Item>
 			<Identification>127</Identification>
@@ -307,7 +332,11 @@
 			<CCS_R1>[L]AB</CCS_R1>
 			<Forvaltningklassifikation_V2.3>bk.fun</Forvaltningklassifikation_V2.3>
 			<IFC2X3_Entity>IfcFooting</IFC2X3_Entity>
+			<IFC2X3_EntityType/>
+			<IFC2X3_EnumerationType>USERDEFINED</IFC2X3_EnumerationType>
 			<IFC4_Entity>IfcFooting</IFC4_Entity>
+			<IFC4_EntityType>IfcFootingType</IFC4_EntityType>
+			<IFC4_EnumerationType>USERDEFINED</IFC4_EnumerationType>
 		</Item>
 		<Item>
 			<Identification>13</Identification>
@@ -327,7 +356,10 @@
 			<CCS_R1>[L]BC</CCS_R1>
 			<Forvaltningklassifikation_V2.3>bk</Forvaltningklassifikation_V2.3>
 			<IFC2X3_Entity>IfcCovering</IFC2X3_Entity>
+			<IFC2X3_EntityType>IfcCoveringType</IFC2X3_EntityType>
+			<IFC2X3_EnumerationType>INSULATION</IFC2X3_EnumerationType>
 			<IFC4_Entity>IfcCovering</IFC4_Entity>
+			<IFC4_EntityType>IfcCoveringType</IFC4_EntityType>
 			<IFC4_EnumerationType>INSULATION</IFC4_EnumerationType>
 		</Item>
 		<Item>
@@ -348,8 +380,11 @@
 			<CCS_R1>[B]EBC</CCS_R1>
 			<Forvaltningklassifikation_V2.3>bk.kan</Forvaltningklassifikation_V2.3>
 			<IFC2X3_Entity>IfcDistributionChamberElement</IFC2X3_Entity>
+			<IFC2X3_EntityType>IfcDistributionChamberElementType</IFC2X3_EntityType>
+			<IFC2X3_EnumerationType>USERDEFINED</IFC2X3_EnumerationType>
 			<IFC4_Entity>IfcDistributionChamberElement</IFC4_Entity>
-			<IFC4_EnumerationType>VALVECHAMBER</IFC4_EnumerationType>
+			<IFC4_EntityType>IfcDistributionChamberElementType</IFC4_EntityType>
+			<IFC4_EnumerationType>USERDEFINED</IFC4_EnumerationType>
 		</Item>
 		<Item>
 			<Identification>182</Identification>
@@ -362,7 +397,10 @@
 			<CCS_R1>[L]XTC</CCS_R1>
 			<Forvaltningklassifikation_V2.3>bk</Forvaltningklassifikation_V2.3>
 			<IFC2X3_Entity>IfcDistributionChamberElement</IFC2X3_Entity>
+			<IFC2X3_EntityType>IfcDistributionChamberElementType</IFC2X3_EntityType>
+			<IFC2X3_EnumerationType>SUMP</IFC2X3_EnumerationType>
 			<IFC4_Entity>IfcDistributionChamberElement</IFC4_Entity>
+			<IFC4_EntityType>IfcDistributionChamberElementType</IFC4_EntityType>
 			<IFC4_EnumerationType>SUMP</IFC4_EnumerationType>
 		</Item>
 		<Item>
@@ -390,7 +428,10 @@
 			<CCS_R1>[L]AD</CCS_R1>
 			<Forvaltningklassifikation_V2.3>tk.heg</Forvaltningklassifikation_V2.3>
 			<IFC2X3_Entity>IfcWall</IFC2X3_Entity>
+			<IFC2X3_EntityType>IfcWallType</IFC2X3_EntityType>
+			<IFC2X3_EnumerationType>USERDEFINED</IFC2X3_EnumerationType>
 			<IFC4_Entity>IfcWall</IFC4_Entity>
+			<IFC4_EntityType>IfcWallType</IFC4_EntityType>
 			<IFC4_EnumerationType>SOLIDWALL</IFC4_EnumerationType>
 		</Item>
 		<Item>
@@ -404,7 +445,10 @@
 			<CCS_R1>[L]AD</CCS_R1>
 			<Forvaltningklassifikation_V2.3>tk.væg</Forvaltningklassifikation_V2.3>
 			<IFC2X3_Entity>IfcWall</IFC2X3_Entity>
+			<IFC2X3_EntityType>IfcWallType</IFC2X3_EntityType>
+			<IFC2X3_EnumerationType>SHEAR</IFC2X3_EnumerationType>
 			<IFC4_Entity>IfcWall</IFC4_Entity>
+			<IFC4_EntityType>IfcWallType</IFC4_EntityType>
 			<IFC4_EnumerationType>SHEAR</IFC4_EnumerationType>
 		</Item>
 		<Item>
@@ -458,7 +502,10 @@
 			<CCS_R1>[L]ULM</CCS_R1>
 			<Forvaltningklassifikation_V2.3>bk.væg</Forvaltningklassifikation_V2.3>
 			<IFC2X3_Entity>IfcWall</IFC2X3_Entity>
+			<IFC2X3_EntityType>IfcWallType</IFC2X3_EntityType>
+			<IFC2X3_EnumerationType>STANDARD</IFC2X3_EnumerationType>
 			<IFC4_Entity>IfcWall</IFC4_Entity>
+			<IFC4_EntityType>IfcWallType</IFC4_EntityType>
 			<IFC4_EnumerationType>SOLIDWALL</IFC4_EnumerationType>
 		</Item>
 		<Item>
@@ -472,7 +519,10 @@
 			<CCS_R1>[L]BD</CCS_R1>
 			<Forvaltningklassifikation_V2.3>bk.væg</Forvaltningklassifikation_V2.3>
 			<IFC2X3_Entity>IfcWall</IFC2X3_Entity>
+			<IFC2X3_EntityType>IfcWallType</IFC2X3_EntityType>
+			<IFC2X3_EnumerationType>STANDARD</IFC2X3_EnumerationType>
 			<IFC4_Entity>IfcWall</IFC4_Entity>
+			<IFC4_EntityType>IfcWallType</IFC4_EntityType>
 			<IFC4_EnumerationType>SOLIDWALL</IFC4_EnumerationType>
 		</Item>
 		<Item>
@@ -486,7 +536,10 @@
 			<CCS_R1>[L]BD</CCS_R1>
 			<Forvaltningklassifikation_V2.3>bk.væg</Forvaltningklassifikation_V2.3>
 			<IFC2X3_Entity>IfcWall</IFC2X3_Entity>
+			<IFC2X3_EntityType>IfcWallType</IFC2X3_EntityType>
+			<IFC2X3_EnumerationType>STANDARD</IFC2X3_EnumerationType>
 			<IFC4_Entity>IfcWall</IFC4_Entity>
+			<IFC4_EntityType>IfcWallType</IFC4_EntityType>
 			<IFC4_EnumerationType>SOLIDWALL</IFC4_EnumerationType>
 		</Item>
 		<Item>
@@ -500,7 +553,10 @@
 			<CCS_R1>[L]AD</CCS_R1>
 			<Forvaltningklassifikation_V2.3>bk.væg</Forvaltningklassifikation_V2.3>
 			<IFC2X3_Entity>IfcWall</IFC2X3_Entity>
+			<IFC2X3_EntityType>IfcWallType</IFC2X3_EntityType>
+			<IFC2X3_EnumerationType>STANDARD</IFC2X3_EnumerationType>
 			<IFC4_Entity>IfcWall</IFC4_Entity>
+			<IFC4_EntityType>IfcWallType</IFC4_EntityType>
 			<IFC4_EnumerationType>PARTITIONING</IFC4_EnumerationType>
 		</Item>
 		<Item>
@@ -514,7 +570,10 @@
 			<CCS_R1>[L]AD</CCS_R1>
 			<Forvaltningklassifikation_V2.3>bk.væg</Forvaltningklassifikation_V2.3>
 			<IFC2X3_Entity>IfcWall</IFC2X3_Entity>
+			<IFC2X3_EntityType>IfcWallType</IFC2X3_EntityType>
+			<IFC2X3_EnumerationType>STANDARD</IFC2X3_EnumerationType>
 			<IFC4_Entity>IfcWall</IFC4_Entity>
+			<IFC4_EntityType>IfcWallType</IFC4_EntityType>
 			<IFC4_EnumerationType>PARTITIONING</IFC4_EnumerationType>
 		</Item>
 		<Item>
@@ -528,7 +587,11 @@
 			<CCS_R1>[L]AD</CCS_R1>
 			<Forvaltningklassifikation_V2.3>bk.væg</Forvaltningklassifikation_V2.3>
 			<IFC2X3_Entity>IfcCurtainWall</IFC2X3_Entity>
+			<IFC2X3_EntityType>IfcCurtainWallType</IFC2X3_EntityType>
+			<IFC2X3_EnumerationType>USERDEFINED</IFC2X3_EnumerationType>
 			<IFC4_Entity>IfcCurtainWall</IFC4_Entity>
+			<IFC4_EntityType>IfcCurtainWallType</IFC4_EntityType>
+			<IFC4_EnumerationType>USERDEFINED</IFC4_EnumerationType>
 		</Item>
 		<Item>
 			<Identification>217</Identification>
@@ -541,7 +604,10 @@
 			<CCS_R1>[L]AD</CCS_R1>
 			<Forvaltningklassifikation_V2.3>bk.væg</Forvaltningklassifikation_V2.3>
 			<IFC2X3_Entity>IfcCovering</IFC2X3_Entity>
+			<IFC2X3_EntityType>IfcCoveringType</IFC2X3_EntityType>
+			<IFC2X3_EnumerationType>INSULATION</IFC2X3_EnumerationType>
 			<IFC4_Entity>IfcCovering</IFC4_Entity>
+			<IFC4_EntityType>IfcCoveringType</IFC4_EntityType>
 			<IFC4_EnumerationType>INSULATION</IFC4_EnumerationType>
 		</Item>
 		<Item>
@@ -555,7 +621,11 @@
 			<CCS_R1>[L]AD</CCS_R1>
 			<Forvaltningklassifikation_V2.3>bk.lys</Forvaltningklassifikation_V2.3>
 			<IFC2X3_Entity>IfcBuildingElementProxy</IFC2X3_Entity>
+			<IFC2X3_EntityType>IfcBuildingElementProxyType</IFC2X3_EntityType>
+			<IFC2X3_EnumerationType>USERDEFINED</IFC2X3_EnumerationType>
 			<IFC4_Entity>IfcBuildingElementProxy</IFC4_Entity>
+			<IFC4_EntityType>IfcBuildingElementProxyType</IFC4_EntityType>
+			<IFC4_EnumerationType>USERDEFINED</IFC4_EnumerationType>
 		</Item>
 		<Item>
 			<Identification>22</Identification>
@@ -575,7 +645,10 @@
 			<CCS_R1>[L]ULM</CCS_R1>
 			<Forvaltningklassifikation_V2.3>bk.væg</Forvaltningklassifikation_V2.3>
 			<IFC2X3_Entity>IfcWall</IFC2X3_Entity>
+			<IFC2X3_EntityType>IfcWallType</IFC2X3_EntityType>
+			<IFC2X3_EnumerationType>STANDARD</IFC2X3_EnumerationType>
 			<IFC4_Entity>IfcWall</IFC4_Entity>
+			<IFC4_EntityType>IfcWallType</IFC4_EntityType>
 			<IFC4_EnumerationType>SOLIDWALL</IFC4_EnumerationType>
 		</Item>
 		<Item>
@@ -589,7 +662,10 @@
 			<CCS_R1>[L]BD</CCS_R1>
 			<Forvaltningklassifikation_V2.3>bk.væg</Forvaltningklassifikation_V2.3>
 			<IFC2X3_Entity>IfcWall</IFC2X3_Entity>
+			<IFC2X3_EntityType>IfcWallType</IFC2X3_EntityType>
+			<IFC2X3_EnumerationType>STANDARD</IFC2X3_EnumerationType>
 			<IFC4_Entity>IfcWall</IFC4_Entity>
+			<IFC4_EntityType>IfcWallType</IFC4_EntityType>
 			<IFC4_EnumerationType>SOLIDWALL</IFC4_EnumerationType>
 		</Item>
 		<Item>
@@ -603,7 +679,10 @@
 			<CCS_R1>[L]BD</CCS_R1>
 			<Forvaltningklassifikation_V2.3>bk.væg</Forvaltningklassifikation_V2.3>
 			<IFC2X3_Entity>IfcWall</IFC2X3_Entity>
+			<IFC2X3_EntityType>IfcWallType</IFC2X3_EntityType>
+			<IFC2X3_EnumerationType>STANDARD</IFC2X3_EnumerationType>
 			<IFC4_Entity>IfcWall</IFC4_Entity>
+			<IFC4_EntityType>IfcWallType</IFC4_EntityType>
 			<IFC4_EnumerationType>SOLIDWALL</IFC4_EnumerationType>
 		</Item>
 		<Item>
@@ -617,7 +696,10 @@
 			<CCS_R1>[L]AD</CCS_R1>
 			<Forvaltningklassifikation_V2.3>bk.væg</Forvaltningklassifikation_V2.3>
 			<IFC2X3_Entity>IfcWall</IFC2X3_Entity>
+			<IFC2X3_EntityType>IfcWallType</IFC2X3_EntityType>
+			<IFC2X3_EnumerationType>STANDARD</IFC2X3_EnumerationType>
 			<IFC4_Entity>IfcWall</IFC4_Entity>
+			<IFC4_EntityType>IfcWallType</IFC4_EntityType>
 			<IFC4_EnumerationType>PARTITIONING</IFC4_EnumerationType>
 		</Item>
 		<Item>
@@ -631,7 +713,10 @@
 			<CCS_R1>[L]AD</CCS_R1>
 			<Forvaltningklassifikation_V2.3>bk.væg</Forvaltningklassifikation_V2.3>
 			<IFC2X3_Entity>IfcWall</IFC2X3_Entity>
+			<IFC2X3_EntityType>IfcWallType</IFC2X3_EntityType>
+			<IFC2X3_EnumerationType>STANDARD</IFC2X3_EnumerationType>
 			<IFC4_Entity>IfcWall</IFC4_Entity>
+			<IFC4_EntityType>IfcWallType</IFC4_EntityType>
 			<IFC4_EnumerationType>PARTITIONING</IFC4_EnumerationType>
 		</Item>
 		<Item>
@@ -645,7 +730,11 @@
 			<CCS_R1>[L]AD</CCS_R1>
 			<Forvaltningklassifikation_V2.3>bk.væg</Forvaltningklassifikation_V2.3>
 			<IFC2X3_Entity>IfcCurtainWall</IFC2X3_Entity>
+			<IFC2X3_EntityType>IfcCurtainWallType</IFC2X3_EntityType>
+			<IFC2X3_EnumerationType>USERDEFINED</IFC2X3_EnumerationType>
 			<IFC4_Entity>IfcCurtainWall</IFC4_Entity>
+			<IFC4_EntityType>IfcCurtainWallType</IFC4_EntityType>
+			<IFC4_EnumerationType>USERDEFINED</IFC4_EnumerationType>
 		</Item>
 		<Item>
 			<Identification>23</Identification>
@@ -665,7 +754,10 @@
 			<CCS_R1>[L]ULK</CCS_R1>
 			<Forvaltningklassifikation_V2.3>bk.dæk</Forvaltningklassifikation_V2.3>
 			<IFC2X3_Entity>IfcSlab</IFC2X3_Entity>
+			<IFC2X3_EntityType>IfcSlabType</IFC2X3_EntityType>
+			<IFC2X3_EnumerationType>FLOOR</IFC2X3_EnumerationType>
 			<IFC4_Entity>IfcSlab</IFC4_Entity>
+			<IFC4_EntityType>IfcSlabType</IFC4_EntityType>
 			<IFC4_EnumerationType>FLOOR</IFC4_EnumerationType>
 		</Item>
 		<Item>
@@ -679,7 +771,10 @@
 			<CCS_R1>[L]BC</CCS_R1>
 			<Forvaltningklassifikation_V2.3>bk.dæk</Forvaltningklassifikation_V2.3>
 			<IFC2X3_Entity>IfcSlab</IFC2X3_Entity>
+			<IFC2X3_EntityType>IfcSlabType</IFC2X3_EntityType>
+			<IFC2X3_EnumerationType>FLOOR</IFC2X3_EnumerationType>
 			<IFC4_Entity>IfcSlab</IFC4_Entity>
+			<IFC4_EntityType>IfcSlabType</IFC4_EntityType>
 			<IFC4_EnumerationType>FLOOR</IFC4_EnumerationType>
 		</Item>
 		<Item>
@@ -692,6 +787,12 @@
 			<BC-SfB_1980>(23)2</BC-SfB_1980>
 			<CCS_R1>[L]AC</CCS_R1>
 			<Forvaltningklassifikation_V2.3>bk.dæk</Forvaltningklassifikation_V2.3>
+			<IFC2X3_Entity>IfcSlab</IFC2X3_Entity>
+			<IFC2X3_EntityType>IfcSlabType</IFC2X3_EntityType>
+			<IFC2X3_EnumerationType>FLOOR</IFC2X3_EnumerationType>
+			<IFC4_Entity>IfcSlab</IFC4_Entity>
+			<IFC4_EntityType>IfcSlabType</IFC4_EntityType>
+			<IFC4_EnumerationType>FLOOR</IFC4_EnumerationType>
 		</Item>
 		<Item>
 			<Identification>234</Identification>
@@ -704,7 +805,11 @@
 			<CCS_R1>[L]UKB</CCS_R1>
 			<Forvaltningklassifikation_V2.3>bk.dæk</Forvaltningklassifikation_V2.3>
 			<IFC2X3_Entity>IfcCovering</IFC2X3_Entity>
+			<IFC2X3_EntityType>IfcCoveringType</IFC2X3_EntityType>
+			<IFC2X3_EnumerationType>USERDEFINED</IFC2X3_EnumerationType>
 			<IFC4_Entity>IfcCovering</IFC4_Entity>
+			<IFC4_EntityType>IfcCoveringType</IFC4_EntityType>
+			<IFC4_EnumerationType>USERDEFINED</IFC4_EnumerationType>
 		</Item>
 		<Item>
 			<Identification>239</Identification>
@@ -717,8 +822,11 @@
 			<CCS_R1>[L]AC</CCS_R1>
 			<Forvaltningklassifikation_V2.3>bk.dæk</Forvaltningklassifikation_V2.3>
 			<IFC2X3_Entity>IfcSlab</IFC2X3_Entity>
+			<IFC2X3_EntityType>IfcSlabType</IFC2X3_EntityType>
+			<IFC2X3_EnumerationType>USERDEFINED</IFC2X3_EnumerationType>
 			<IFC4_Entity>IfcSlab</IFC4_Entity>
-			<IFC4_EnumerationType>FLOOR</IFC4_EnumerationType>
+			<IFC4_EntityType>IfcSlabType</IFC4_EntityType>
+			<IFC4_EnumerationType>USERDEFINED</IFC4_EnumerationType>
 		</Item>
 		<Item>
 			<Identification>24</Identification>
@@ -738,7 +846,11 @@
 			<CCS_R1>[L]AF</CCS_R1>
 			<Forvaltningklassifikation_V2.3>bk.tra</Forvaltningklassifikation_V2.3>
 			<IFC2X3_Entity>IfcStair</IFC2X3_Entity>
+			<IFC2X3_EntityType/>
+			<IFC2X3_EnumerationType>USERDEFINED</IFC2X3_EnumerationType>
 			<IFC4_Entity>IfcStair</IFC4_Entity>
+			<IFC4_EntityType>IfcStairType</IFC4_EntityType>
+			<IFC4_EnumerationType>USERDEFINED</IFC4_EnumerationType>
 		</Item>
 		<Item>
 			<Identification>242</Identification>
@@ -751,7 +863,11 @@
 			<CCS_R1>[L]AF</CCS_R1>
 			<Forvaltningklassifikation_V2.3>bk.tra</Forvaltningklassifikation_V2.3>
 			<IFC2X3_Entity>IfcStair</IFC2X3_Entity>
+			<IFC2X3_EntityType/>
+			<IFC2X3_EnumerationType>USERDEFINED</IFC2X3_EnumerationType>
 			<IFC4_Entity>IfcStair</IFC4_Entity>
+			<IFC4_EntityType>IfcStairType</IFC4_EntityType>
+			<IFC4_EnumerationType>USERDEFINED</IFC4_EnumerationType>
 		</Item>
 		<Item>
 			<Identification>243</Identification>
@@ -764,7 +880,11 @@
 			<CCS_R1>[L]AF</CCS_R1>
 			<Forvaltningklassifikation_V2.3>bk.tra</Forvaltningklassifikation_V2.3>
 			<IFC2X3_Entity>IfcStair</IFC2X3_Entity>
+			<IFC2X3_EntityType/>
+			<IFC2X3_EnumerationType>USERDEFINED</IFC2X3_EnumerationType>
 			<IFC4_Entity>IfcStair</IFC4_Entity>
+			<IFC4_EntityType>IfcStairType</IFC4_EntityType>
+			<IFC4_EnumerationType>USERDEFINED</IFC4_EnumerationType>
 		</Item>
 		<Item>
 			<Identification>244</Identification>
@@ -777,7 +897,11 @@
 			<CCS_R1>[L]AG</CCS_R1>
 			<Forvaltningklassifikation_V2.3>bk.ram</Forvaltningklassifikation_V2.3>
 			<IFC2X3_Entity>IfcRamp</IFC2X3_Entity>
+			<IFC2X3_EntityType/>
+			<IFC2X3_EnumerationType>USERDEFINED</IFC2X3_EnumerationType>
 			<IFC4_Entity>IfcRamp</IFC4_Entity>
+			<IFC4_EntityType>IfcRampType</IFC4_EntityType>
+			<IFC4_EnumerationType>USERDEFINED</IFC4_EnumerationType>
 		</Item>
 		<Item>
 			<Identification>245</Identification>
@@ -790,7 +914,11 @@
 			<CCS_R1>[L]AG</CCS_R1>
 			<Forvaltningklassifikation_V2.3>bk.ram</Forvaltningklassifikation_V2.3>
 			<IFC2X3_Entity>IfcRamp</IFC2X3_Entity>
+			<IFC2X3_EntityType/>
+			<IFC2X3_EnumerationType>USERDEFINED</IFC2X3_EnumerationType>
 			<IFC4_Entity>IfcRamp</IFC4_Entity>
+			<IFC4_EntityType>IfcRampType</IFC4_EntityType>
+			<IFC4_EnumerationType>USERDEFINED</IFC4_EnumerationType>
 		</Item>
 		<Item>
 			<Identification>246</Identification>
@@ -803,7 +931,11 @@
 			<CCS_R1>[L]AG</CCS_R1>
 			<Forvaltningklassifikation_V2.3>bk.ram</Forvaltningklassifikation_V2.3>
 			<IFC2X3_Entity>IfcRamp</IFC2X3_Entity>
+			<IFC2X3_EntityType/>
+			<IFC2X3_EnumerationType>USERDEFINED</IFC2X3_EnumerationType>
 			<IFC4_Entity>IfcRamp</IFC4_Entity>
+			<IFC4_EntityType>IfcRampType</IFC4_EntityType>
+			<IFC4_EnumerationType>USERDEFINED</IFC4_EnumerationType>
 		</Item>
 		<Item>
 			<Identification>247</Identification>
@@ -816,7 +948,11 @@
 			<CCS_R1>[L]XSC</CCS_R1>
 			<Forvaltningklassifikation_V2.3>bk</Forvaltningklassifikation_V2.3>
 			<IFC2X3_Entity>IfcBuildingElementProxy</IFC2X3_Entity>
+			<IFC2X3_EntityType>IfcBuildingElementProxyType</IFC2X3_EntityType>
+			<IFC2X3_EnumerationType>USERDEFINED</IFC2X3_EnumerationType>
 			<IFC4_Entity>IfcBuildingElementProxy</IFC4_Entity>
+			<IFC4_EntityType>IfcBuildingElementProxyType</IFC4_EntityType>
+			<IFC4_EnumerationType>USERDEFINED</IFC4_EnumerationType>
 		</Item>
 		<Item>
 			<Identification>25</Identification>
@@ -836,7 +972,10 @@
 			<CCS_R1>[L]ULE</CCS_R1>
 			<Forvaltningklassifikation_V2.3>bk</Forvaltningklassifikation_V2.3>
 			<IFC2X3_Entity>IfcBeam</IFC2X3_Entity>
+			<IFC2X3_EntityType>IfcBeamType</IFC2X3_EntityType>
+			<IFC2X3_EnumerationType>BEAM</IFC2X3_EnumerationType>
 			<IFC4_Entity>IfcBeam</IFC4_Entity>
+			<IFC4_EntityType>IfcBeamType</IFC4_EntityType>
 			<IFC4_EnumerationType>BEAM</IFC4_EnumerationType>
 		</Item>
 		<Item>
@@ -850,7 +989,10 @@
 			<CCS_R1>[L]ULE</CCS_R1>
 			<Forvaltningklassifikation_V2.3>bk</Forvaltningklassifikation_V2.3>
 			<IFC2X3_Entity>IfcBeam</IFC2X3_Entity>
+			<IFC2X3_EntityType>IfcBeamType</IFC2X3_EntityType>
+			<IFC2X3_EnumerationType>BEAM</IFC2X3_EnumerationType>
 			<IFC4_Entity>IfcBeam</IFC4_Entity>
+			<IFC4_EntityType>IfcBeamType</IFC4_EntityType>
 			<IFC4_EnumerationType>BEAM</IFC4_EnumerationType>
 		</Item>
 		<Item>
@@ -864,7 +1006,10 @@
 			<CCS_R1>[L]ULE</CCS_R1>
 			<Forvaltningklassifikation_V2.3>bk</Forvaltningklassifikation_V2.3>
 			<IFC2X3_Entity>IfcBeam</IFC2X3_Entity>
+			<IFC2X3_EntityType>IfcBeamType</IFC2X3_EntityType>
+			<IFC2X3_EnumerationType>BEAM</IFC2X3_EnumerationType>
 			<IFC4_Entity>IfcBeam</IFC4_Entity>
+			<IFC4_EntityType>IfcBeamType</IFC4_EntityType>
 			<IFC4_EnumerationType>BEAM</IFC4_EnumerationType>
 		</Item>
 		<Item>
@@ -878,7 +1023,11 @@
 			<CCS_R1>[L]ULE</CCS_R1>
 			<Forvaltningklassifikation_V2.3>bk</Forvaltningklassifikation_V2.3>
 			<IFC2X3_Entity>IfcBeam</IFC2X3_Entity>
+			<IFC2X3_EntityType>IfcBeamType</IFC2X3_EntityType>
+			<IFC2X3_EnumerationType>USERDEFINED</IFC2X3_EnumerationType>
 			<IFC4_Entity>IfcBeam</IFC4_Entity>
+			<IFC4_EntityType>IfcBeamType</IFC4_EntityType>
+			<IFC4_EnumerationType>USERDEFINED</IFC4_EnumerationType>
 		</Item>
 		<Item>
 			<Identification>255</Identification>
@@ -891,7 +1040,10 @@
 			<CCS_R1>[L]ULD</CCS_R1>
 			<Forvaltningklassifikation_V2.3>bk</Forvaltningklassifikation_V2.3>
 			<IFC2X3_Entity>IfcColumn</IFC2X3_Entity>
+			<IFC2X3_EntityType>IfcColumnType</IFC2X3_EntityType>
+			<IFC2X3_EnumerationType>COLUMN</IFC2X3_EnumerationType>
 			<IFC4_Entity>IfcColumn</IFC4_Entity>
+			<IFC4_EntityType>IfcColumnType</IFC4_EntityType>
 			<IFC4_EnumerationType>COLUMN</IFC4_EnumerationType>
 		</Item>
 		<Item>
@@ -905,7 +1057,10 @@
 			<CCS_R1>[L]ULD</CCS_R1>
 			<Forvaltningklassifikation_V2.3>bk</Forvaltningklassifikation_V2.3>
 			<IFC2X3_Entity>IfcColumn</IFC2X3_Entity>
+			<IFC2X3_EntityType>IfcColumnType</IFC2X3_EntityType>
+			<IFC2X3_EnumerationType>COLUMN</IFC2X3_EnumerationType>
 			<IFC4_Entity>IfcColumn</IFC4_Entity>
+			<IFC4_EntityType>IfcColumnType</IFC4_EntityType>
 			<IFC4_EnumerationType>COLUMN</IFC4_EnumerationType>
 		</Item>
 		<Item>
@@ -919,7 +1074,10 @@
 			<CCS_R1>[L]ULD</CCS_R1>
 			<Forvaltningklassifikation_V2.3>bk</Forvaltningklassifikation_V2.3>
 			<IFC2X3_Entity>IfcColumn</IFC2X3_Entity>
+			<IFC2X3_EntityType>IfcColumnType</IFC2X3_EntityType>
+			<IFC2X3_EnumerationType>COLUMN</IFC2X3_EnumerationType>
 			<IFC4_Entity>IfcColumn</IFC4_Entity>
+			<IFC4_EntityType>IfcColumnType</IFC4_EntityType>
 			<IFC4_EnumerationType>COLUMN</IFC4_EnumerationType>
 		</Item>
 		<Item>
@@ -933,7 +1091,11 @@
 			<CCS_R1>[L]ULD</CCS_R1>
 			<Forvaltningklassifikation_V2.3>bk</Forvaltningklassifikation_V2.3>
 			<IFC2X3_Entity>IfcColumn</IFC2X3_Entity>
+			<IFC2X3_EntityType>IfcColumnType</IFC2X3_EntityType>
+			<IFC2X3_EnumerationType>USERDEFINED</IFC2X3_EnumerationType>
 			<IFC4_Entity>IfcColumn</IFC4_Entity>
+			<IFC4_EntityType>IfcColumnType</IFC4_EntityType>
+			<IFC4_EnumerationType>USERDEFINED</IFC4_EnumerationType>
 		</Item>
 		<Item>
 			<Identification>26</Identification>
@@ -952,8 +1114,12 @@
 			<BC-SfB_1980>(26)</BC-SfB_1980>
 			<CCS_R1>[L]AC</CCS_R1>
 			<Forvaltningklassifikation_V2.3>bk</Forvaltningklassifikation_V2.3>
-			<IFC2X3_Entity>IfcSlab</IFC2X3_Entity>
-			<IFC4_Entity>IfcSlab</IFC4_Entity>
+			<IFC2X3_Entity>IfcElementAssembly</IFC2X3_Entity>
+			<IFC2X3_EntityType/>
+			<IFC2X3_EnumerationType/>
+			<IFC4_Entity>IfcElementAssembly</IFC4_Entity>
+			<IFC4_EntityType>IfcElementAssemblyType</IFC4_EntityType>
+			<IFC4_EnumerationType/>
 		</Item>
 		<Item>
 			<Identification>262</Identification>
@@ -965,8 +1131,12 @@
 			<BC-SfB_1980>(26)</BC-SfB_1980>
 			<CCS_R1>[L]AC</CCS_R1>
 			<Forvaltningklassifikation_V2.3>bk</Forvaltningklassifikation_V2.3>
-			<IFC2X3_Entity>IfcSlab</IFC2X3_Entity>
-			<IFC4_Entity>IfcSlab</IFC4_Entity>
+			<IFC2X3_Entity>IfcElementAssembly</IFC2X3_Entity>
+			<IFC2X3_EntityType/>
+			<IFC2X3_EnumerationType/>
+			<IFC4_Entity>IfcElementAssembly</IFC4_Entity>
+			<IFC4_EntityType>IfcElementAssemblyType</IFC4_EntityType>
+			<IFC4_EnumerationType/>
 		</Item>
 		<Item>
 			<Identification>263</Identification>
@@ -978,8 +1148,12 @@
 			<BC-SfB_1980>(26)</BC-SfB_1980>
 			<CCS_R1>[L]AC</CCS_R1>
 			<Forvaltningklassifikation_V2.3>bk</Forvaltningklassifikation_V2.3>
-			<IFC2X3_Entity>IfcSlab</IFC2X3_Entity>
-			<IFC4_Entity>IfcSlab</IFC4_Entity>
+			<IFC2X3_Entity>IfcElementAssembly</IFC2X3_Entity>
+			<IFC2X3_EntityType/>
+			<IFC2X3_EnumerationType/>
+			<IFC4_Entity>IfcElementAssembly</IFC4_Entity>
+			<IFC4_EntityType>IfcElementAssemblyType</IFC4_EntityType>
+			<IFC4_EnumerationType/>
 		</Item>
 		<Item>
 			<Identification>27</Identification>
@@ -999,7 +1173,11 @@
 			<CCS_R1>[L]BE</CCS_R1>
 			<Forvaltningklassifikation_V2.3>bk.tak</Forvaltningklassifikation_V2.3>
 			<IFC2X3_Entity>IfcRoof</IFC2X3_Entity>
+			<IFC2X3_EntityType/>
+			<IFC2X3_EnumerationType/>
 			<IFC4_Entity>IfcRoof</IFC4_Entity>
+			<IFC4_EntityType>IfcRoofType</IFC4_EntityType>
+			<IFC4_EnumerationType/>
 		</Item>
 		<Item>
 			<Identification>272</Identification>
@@ -1012,7 +1190,11 @@
 			<CCS_R1>[L]AE</CCS_R1>
 			<Forvaltningklassifikation_V2.3>bk.tak</Forvaltningklassifikation_V2.3>
 			<IFC2X3_Entity>IfcRoof</IFC2X3_Entity>
+			<IFC2X3_EntityType/>
+			<IFC2X3_EnumerationType/>
 			<IFC4_Entity>IfcRoof</IFC4_Entity>
+			<IFC4_EntityType>IfcRoofType</IFC4_EntityType>
+			<IFC4_EnumerationType/>
 		</Item>
 		<Item>
 			<Identification>273</Identification>
@@ -1025,7 +1207,11 @@
 			<CCS_R1>[L]AE</CCS_R1>
 			<Forvaltningklassifikation_V2.3>bk.tak</Forvaltningklassifikation_V2.3>
 			<IFC2X3_Entity>IfcRoof</IFC2X3_Entity>
+			<IFC2X3_EntityType/>
+			<IFC2X3_EnumerationType/>
 			<IFC4_Entity>IfcRoof</IFC4_Entity>
+			<IFC4_EntityType>IfcRoofType</IFC4_EntityType>
+			<IFC4_EnumerationType/>
 		</Item>
 		<Item>
 			<Identification>274</Identification>
@@ -1038,7 +1224,11 @@
 			<CCS_R1>[L]AE</CCS_R1>
 			<Forvaltningklassifikation_V2.3>bk.tak</Forvaltningklassifikation_V2.3>
 			<IFC2X3_Entity>IfcRoof</IFC2X3_Entity>
+			<IFC2X3_EntityType/>
+			<IFC2X3_EnumerationType/>
 			<IFC4_Entity>IfcRoof</IFC4_Entity>
+			<IFC4_EntityType>IfcRoofType</IFC4_EntityType>
+			<IFC4_EnumerationType/>
 		</Item>
 		<Item>
 			<Identification>275</Identification>
@@ -1051,7 +1241,11 @@
 			<CCS_R1>[L]AE</CCS_R1>
 			<Forvaltningklassifikation_V2.3>bk.tak</Forvaltningklassifikation_V2.3>
 			<IFC2X3_Entity>IfcRoof</IFC2X3_Entity>
+			<IFC2X3_EntityType/>
+			<IFC2X3_EnumerationType/>
 			<IFC4_Entity>IfcRoof</IFC4_Entity>
+			<IFC4_EntityType>IfcRoofType</IFC4_EntityType>
+			<IFC4_EnumerationType/>
 		</Item>
 		<Item>
 			<Identification>276</Identification>
@@ -1064,7 +1258,11 @@
 			<CCS_R1>[L]RQD</CCS_R1>
 			<Forvaltningklassifikation_V2.3>bk.tak</Forvaltningklassifikation_V2.3>
 			<IFC2X3_Entity>IfcBuildingElementProxy</IFC2X3_Entity>
+			<IFC2X3_EntityType>IfcBuildingElementProxyType</IFC2X3_EntityType>
+			<IFC2X3_EnumerationType>USERDEFINED</IFC2X3_EnumerationType>
 			<IFC4_Entity>IfcShadingDevice</IFC4_Entity>
+			<IFC4_EntityType>IfcShadingDeviceType</IFC4_EntityType>
+			<IFC4_EnumerationType>AWNING</IFC4_EnumerationType>
 		</Item>
 		<Item>
 			<Identification>279</Identification>
@@ -1077,7 +1275,11 @@
 			<CCS_R1>[L]AE</CCS_R1>
 			<Forvaltningklassifikation_V2.3>bk.tak</Forvaltningklassifikation_V2.3>
 			<IFC2X3_Entity>IfcRoof</IFC2X3_Entity>
+			<IFC2X3_EntityType/>
+			<IFC2X3_EnumerationType/>
 			<IFC4_Entity>IfcRoof</IFC4_Entity>
+			<IFC4_EntityType>IfcRoofType</IFC4_EntityType>
+			<IFC4_EnumerationType>USERDEFINED</IFC4_EnumerationType>
 		</Item>
 		<Item>
 			<Identification>28</Identification>
